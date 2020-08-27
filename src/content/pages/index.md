@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Materials Business
 tagline: "All about Asset Integrity & Corrosion "
-featuredImage: /assets/logo_transparent.jpg
+featuredImage: /assets/square_logo_with_structure.jpg
 cta:
   ctaText: Subscribe to the Newsletter
   ctaLink: /newsletter
