@@ -3,10 +3,10 @@ template: index-page
 slug: /
 title: Materials Business
 tagline: "All about Asset Integrity & Corrosion "
-featuredImage: /assets/logo_400x380.jpg
+featuredImage: /assets/square_logo_with_structure.jpg
 cta:
   ctaText: Subscribe to the Newsletter
-  ctaLink: /newsletter
+  ctaLink: https://materials.business?referer=news
 ---
 Welcome to **Materials Business!** This is an initiative oriented towards the creation of a virtual space for the updating and strengthening of your knowledge about relevant topics related to your duties on equipment’s integrity and materials protection.
 
