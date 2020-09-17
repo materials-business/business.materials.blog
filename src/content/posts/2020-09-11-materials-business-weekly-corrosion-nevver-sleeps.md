@@ -41,7 +41,7 @@ I invite you to think about that, to evaluate the effect of the lockdown on your
 
 **Prof. Carlos Arroyave, Ph.D. Editor.**
 
-**[www.arroyave.co](<>)**
+**[www.arroyave.co](<https://arroyave.co>)**
 
 # Materials Biz News
 
