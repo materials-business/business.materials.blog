@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Materials.Business Weekly - Corrosion never Sleeps
-slug: corrosion-never-sleeps
+slug: /newsletter/corrosion-never-sleeps
 date: 2020-09-11 12:49
 description: >-
   “Corrosion never sleeps.” Corrosion is not in quarantine

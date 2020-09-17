@@ -98,7 +98,7 @@ class BlogIndex extends React.Component {
           title={"Materials Businnes — Newsletter " + currentPage + " of " + numPages}
           description={"Materials.bussines newsletter " + currentPage + " of " + numPages }
         />
-        <h1>Materials Business Newsletter Archive</h1>
+        <h1>Materials Business Newsletter Weekly</h1>
         <div className="grids col-1 sm-2 lg-3">
           {posts}
         </div>

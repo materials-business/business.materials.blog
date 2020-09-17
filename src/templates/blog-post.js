@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 import Img from "gatsby-image"
-import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
+import { RiArrowRightLine, RiArrowLeftLine, RiArrowRightSLine } from "react-icons/ri"
 
 import Layout from "../components/layout"
 import SEO from '../components/seo';
@@ -69,6 +69,15 @@ const Post = ({ data, pageContext }) => {
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
+        <div className="button-container">
+          <Link to={`https://materials.business?referer=${frontmatter.slug}`} className="button">
+            {`Subscribe now & get all our content weekly for free!`}
+            <span className="icon -right">
+              <RiArrowRightSLine/>
+            </span>
+          </Link>
+        </div>
+        
       </article>
       {(previous || next) && (
         <Pagination {...props} />
