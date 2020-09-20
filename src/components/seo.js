@@ -58,6 +58,7 @@ const SEO = ({ title, description, image, article }) => {
       )}
 
       {seo.image && <meta name="twitter:image" content={seo.image} />}
+      <script async data-uid="7591bc82fc" src="https://witty-architect-3369.ck.page/7591bc82fc/index.js"></script>
     </Helmet>
   )
 }
