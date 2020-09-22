@@ -65,13 +65,13 @@ Worse than the tragedy in Beirut, the world's worst industrial disaster, was the
 
 ​
 
-Again, this was the situation with some of the recent known disasters: The collapse of the Genoa (Italy) bridge in 2018, where corrosion of the concrete reinforcement was more than evident. Or one of the industrial explosions in Philadelphia, in 2019, where the corrosion of a pipe elbow released more than two tons of hydrofluoric acid, causing a massive fire and an explosion **[\-Link-](http://www.materialsperformance.com/admin/content/PreviewContent.aspx?id=8973)**.
+Again, this was the situation with some of the recent known disasters: The collapse of the Genoa (Italy) bridge in 2018, where corrosion of the concrete reinforcement was more than evident. Or one of the industrial explosions in Philadelphia, in 2019, where the corrosion of a pipe elbow released more than two tons of hydrofluoric acid, causing a massive fire and an explosion **[\-Link-](https://www.materialsperformance.com/admin/content/PreviewContent.aspx?id=8973)**.
 
 ​
 
 **Supportive guidelines for risk prevention**
 
-Fortunately, corrosion and protection managers have a useful tool in front of their duties about safety and risk prevention. A fan of inspection options is available. Among them is Risk-Based Inspection (RBI), an inspection based on knowledge of the risk of failure, a risk analysis. It is considered the most efficient tool when looking for corrosion failure prevention **[-Link-](http://www.materialsperformance.com/articles/corrosion-basics/2020/06/corrosion-management-and-risk-based-inspection)**.
+Fortunately, corrosion and protection managers have a useful tool in front of their duties about safety and risk prevention. A fan of inspection options is available. Among them is Risk-Based Inspection (RBI), an inspection based on knowledge of the risk of failure, a risk analysis. It is considered the most efficient tool when looking for corrosion failure prevention **[\-Link-](httpshttp:://www.materialsperformance.com/articles/corrosion-basics/2020/06/corrosion-management-and-risk-based-inspection)**.
 
 ​
 
@@ -93,7 +93,7 @@ In principle, RBI may be applied in any sector, always oriented to guarantee tha
 
 **Unusual Corrosion in Shale Wells**
 
-Bruce Craig, a Fellow of NACE International, recently published a paper oriented to explain unusually expected corrosion problems in gas and oil wells **\-[Link](http://materialsperformance.com/articles/material-selection-design/2020/07/unusual-corrosion-in-shale-wells-a-proposed-mechanism?utm_campaign=Materials%20Performance%20Magazine&utm_content=139014836&utm_medium=social&utm_source=linkedin&hss_channel=lcp-11823882)-**. The reported study was supported on some real field experiences about wells associated with the Permian Basin, USA. According to the author, the final conclusion is that high corrosion rates found in the analyzed cases could be due to the presence of H2SO4 from pyrite (FeS2) oxidation into the flow-back water.
+Bruce Craig, a Fellow of NACE International, recently published a paper oriented to explain unusually expected corrosion problems in gas and oil wells **\-[Link](https://materialsperformance.com/articles/material-selection-design/2020/07/unusual-corrosion-in-shale-wells-a-proposed-mechanism?utm_campaign=Materials%20Performance%20Magazine&utm_content=139014836&utm_medium=social&utm_source=linkedin&hss_channel=lcp-11823882)-**. The reported study was supported on some real field experiences about wells associated with the Permian Basin, USA. According to the author, the final conclusion is that high corrosion rates found in the analyzed cases could be due to the presence of H2SO4 from pyrite (FeS2) oxidation into the flow-back water.
 
 ​
 
@@ -139,7 +139,7 @@ The International Finance Corporation – IFC, a sister organization of the Worl
 
 ​
 
-**​[Research Group Leader](http://nomaten.ncbj.gov.pl/research-group-leader-radiopharmaceuticals) - Otwock - Świerk, Poland**
+**​[Research Group Leader](https://nomaten.ncbj.gov.pl/research-group-leader-radiopharmaceuticals) - Otwock - Świerk, Poland**
 
 NOMATEN, The Centre of Excellence in Multifunctional Materials for Industrial and Medical Applications, in Otwock - Świerk (Warsaw, Poland), is offering a position as leader of a new research group responsible for arranging the team and to manage the development of a package of European projects concerning with novel radiopharmaceutical materials for medical applications.
 
@@ -171,11 +171,11 @@ Virtual. October 7th, 2020. Organizers are inviting to the second meeting devote
 
 **​[Highly-functional Material Week - Virtual](https://www.material-expo.jp/en-gb.html)​**
 
-Virtual. Reed Exhibitions Japan Ltd., supported by the Society of Polymer Science (Japan), is organizing an exhibition to behold from 7th- 9th October (Osaka), and 2nd – 4rd December (Tokyo) 2020. The event includes six shows related to films, plastics, metals, ceramics, adhesion & joining, and paints & coatings.
+Virtual. Reed Exhibitions Japan Ltd., supported by the Society of Polymer Science (Japan), is organizing an exhibition to behold from 7th- 9th October (Osaka), and 2nd – 4rd December (Tokyo) 2020. The event includes six shows related to films, plastics, metals, ceramics, adhesion & Fjoining, and paints & coatings.
 
 ​
 
-**​[Euro PM2020 - Virtual](http://europm2020.com/)​**
+**​[Euro PM2020 - Virtual](https://europm2020.com/)​**
 
 Virtual. The European Powder Metallurgy Association – EPMA, invites to attend its next annual powder metallurgy conference, to behold from 5th – 7th October 2020. Themes to be considered include additive manufacturing, environment and sustainability, functional materials, hard materials and diamond tools, hot isostatic pressing, metal injection molding, materials and processes for specific applications, and press & sinter.
 
