@@ -182,9 +182,3 @@ Virtual. The European Powder Metallurgy Association – EPMA, invites to attend 
 ​
 
 - - -
-
-​
-
-# [![Twitter](http://convertkit.com/images/social-icons/twitter.png)](https://twitter.com/) [![Linkedin](http://convertkit.com/images/social-icons/linkedin.png)](https://linkedin.com/) [![Facebook](http://convertkit.com/images/social-icons/facebook.png)](http://www.facebook.com/) [![Website](http://convertkit.com/images/social-icons/website.png)](http://news.materials.business/)
-
-Share Materials Business!
