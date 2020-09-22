@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: To Minimize Risk is Imperative
-slug: 22-09-2020-to-minimize-risk-is-imperative
+slug: /22-09-2020-to-minimize-risk-is-imperative
 date: 2020-09-22 15:50
 description: >-
   To minimize risk is imperative
