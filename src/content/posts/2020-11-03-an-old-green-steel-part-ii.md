@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: AN OLD GREEN STEEL - Part II
-slug: /27/10/2020/an-old-green-steel-part-ii
+slug: /03/11/2020/an-old-green-steel-part-ii
 date: 2020-11-03 15:17
 description: According to the previous mention, the behavior of weathering steel
   (WS) strongly depends on the exposure conditions. That means that in urban and
