@@ -11,7 +11,7 @@ description: >-
 
 
   We are talking about deposits of the crust of sooting formed after centuries, spoiling old buildings, sculptures, and other urban structures. Usually, we are very worried about dust collecting on our car because everyone knows the negative effect of not washing it regularly.
-featuredImage: /assets/clay-banks-cezmop5ftv4-unsplash.jpg
+featuredImage: /assets/pandu-agus-wismoyo-7ogq-ze7bxq-unsplash.jpg
 ---
 # **Materials.Business Weekly ⚙️**
 
@@ -213,5 +213,4 @@ Once again, NACE offers the opportunity of learning and training on how to handl
 ​A new episode of the European Patent Office podcast “Talk Innovation” has been broadcasted, entitled “Patents in progress - Thinking outside the box: Packaging technologies''. It is dealing with packaging technologies and patents about that. Concerns about environmental and other issues are discussed. Most of them related to materials protection in the age of the Circular Economy. Certainly, challenges for corrosionists are increasing!
 
 ​
-<span>Photo by <a href="https://unsplash.com/@claybanks?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Clay Banks</a> on <a href="https://unsplash.com/s/photos/cleaning?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-​
+<span>Photo by <a href="https://unsplash.com/@kangterbang?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Pandu Agus Wismoyo</a> on <a href="https://unsplash.com/s/photos/maintenance?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
