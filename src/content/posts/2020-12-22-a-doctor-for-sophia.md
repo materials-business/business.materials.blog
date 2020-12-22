@@ -52,9 +52,7 @@ When we talk about Sophia and her relatives, we are talking about a bundle of wi
 ​\
 Corrosion of electro-electronic equipment becomes more critical each day because consumption rates are snowballing due to the current industrial revolution. Moreover, sustainability apprehensions are related not only to e-waste increase but also because of other factors like:
 
-​\
-
-* Accelerated shortage of strategic raw materials: Estimations done by the **[United Nations University](https://click.convertkit-mail2.com/o8umqmxzwohqh9k90ziv/reh8hohq2n2kw6b2/aHR0cHM6Ly91bnUuZWR1L21lZGlhLXJlbGF0aW9ucy9yZWxlYXNlcy9zdGVwLW5ld3MtcmVsZWFzZS02LWp1bHktMjAxMi1lLXdhc3RlLXByZWNpb3VzLW1ldGFscy1yZWNvdmVyeS5odG1s)** concluded that currently there is more gold in e-waste than in gold ores. Corrosion prevention must be a counter measurement against such accelerated depletion. Materials engineers must also implement new measures to develop urban mining in the search for secondary raw materials.
+\- Accelerated shortage of strategic raw materials: Estimations done by the **[United Nations University](https://click.convertkit-mail2.com/o8umqmxzwohqh9k90ziv/reh8hohq2n2kw6b2/aHR0cHM6Ly91bnUuZWR1L21lZGlhLXJlbGF0aW9ucy9yZWxlYXNlcy9zdGVwLW5ld3MtcmVsZWFzZS02LWp1bHktMjAxMi1lLXdhc3RlLXByZWNpb3VzLW1ldGFscy1yZWNvdmVyeS5odG1s)** concluded that currently there is more gold in e-waste than in gold ores. Corrosion prevention must be a counter measurement against such accelerated depletion. Materials engineers must also implement new measures to develop urban mining in the search for secondary raw materials.
 
 \- Short life cycles: in principle, this is a market strategy. Nevertheless, there is growing pressure from different social sectors asking for longer-life products. This means products with better corrosion resistance and more responsibilities for corrosion engineers.
 
