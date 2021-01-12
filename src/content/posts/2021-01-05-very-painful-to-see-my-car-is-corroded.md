@@ -1,70 +1,60 @@
 ---
 template: blog-post
-title: "VERY PAINFUL TO SEE, MY CAR IS CORRODED! "
-slug: /05/01/2021/very-painful-to-see-my-car-is-corroded
-date: 2021-01-05 07:15
+title: HARD TO KILL
+slug: /12/01/2021/hard-to-kill
+date: 2021-01-12 07:15
 description: >+
-  Corrosionists love rust, but not in our car. Inherent to the passenger car
-  culture that characterized the 20th Century, it is common to find that its own
-  car's condition is a severe concern for most men. Unfortunately, corrosion has
-  been an omnipresent threat. However, Materials and Corrosion Engineers have
-  been solving many of the problems. As always, solutions have encompassed
-  challenges. 
+  When discussing the integrity of materials, it is necessary to consider that
+  most of the engineering materials are thermodynamically metastable. In such a
+  condition, materials must be able to hold up against several kinds of forces
+  or conditions without losing their integrity.
 
 
-  The improvement in the corrosion behavior during the last fourth decades has been considerable. Nevertheless, unexpected problems arise. For example, in 2010, Ford Motor Company was forced to recall 575.000 vans of one of its models in the USA and Canada because the National Highway Traffic Safety Administration began investigating corrosion and breaking rear axles.
+  Currently, a shortening, depreciation, or decrease in the assets' value is an increasing matter of concern. The eventual replacement of parts and equipment because “aging” or obsolescence is both understandable and inevitable as part of the object’s life cycle. Nevertheless, depreciation because of deterioration of the material must be treated as an undesirable situation. Here, we are talking about the failure by overloads, fatigue, tribological loading, or corrosion, among others.
 
-featuredImage: /assets/aurelien-romain-hdnb-h17vo4-unsplash.jpg
+
+  Aggressive agents can be physical, biological, chemical, or a mixture, and so an ideal material would be one that resists every situation. Unfortunately, the perfect balance only exists in utopia. For example, in steel, the choice material of engineering by excellence, there is a metal alloy with a favorable balance due to its mechanical properties (i.e., good mechanical resistance with good toughness and resilience), but it has weak corrosion resistance. Therefore, one of the permanent challenges for any engineer is to combine the best attributes of materials, thus striving for balance between properties. The development and selection of tough materials that can withstand stress, friction, wear, and corrosion; in other words looking for the best performance possible is a never-ending task for surface scientists and engineers.
+
+featuredImage: /assets/ludomil-sawicki-drlpantf9ha-unsplash.jpg
 ---
 # **Materials.Business Weekly ⚙️**
 
-*January 05, 2021*
+*January 12, 2021*
 
-> Quote of the week: “The alchemists in their search for gold discovered many other things of greater value.” — Arthur Schopenhauer, German – Philosopher, 1788 – 1860.\
+> Quote of the week: “Any sufficiently advanced technology is indistinguishable from magic.” — Arthur C. Clarke, English science fiction writer, 1917 – 2008.​\
 > ​
 
 - - -
 
 # From The Editor's Corner
 
-# **VERY PAINFUL TO HAPPEN, MY CAR IS CORRODED!**
+# **HARD TO KILL!**
 
-**​Tricky for the heart and pocket**
+**Face a utopia**
 
-Corrosionists love rust, but not in our car. Inherent to the passenger car culture that characterized the 20th Century, it is common to find that its own car's condition is a severe concern for most men. Unfortunately, corrosion has been an omnipresent threat. However, Materials and Corrosion Engineers have been solving many of the problems. As always, solutions have encompassed challenges. For instance, corrosion of exhaust systems was a matter of significant concern over several decades. The situation is easy to understand because a bundle of middle steel pipes and parts were exposed to the hot, highly polluted emission gases. As a result, every two years, on average, the exhaust system should be changed. This is why estimations showed how the cost of corrosion in the cars' exhaust systems in the USA in 1966 was about USD 4000\* million, including USD 1000\* million for tailpipes and USD 3000* million for mufflers. The last amount is almost one-third of the Panama Canal cost (USD 375 million of 1914 or USD 9.760 million in 2020). But due to intensive research in the 1980s and 1990s, solutions appeared, and aluminized steel was one of the more successful. Now, with less polluted combustion gases, and better exhaust materials, the problem is not usual.
+When discussing the integrity of materials, it is necessary to consider that most of the engineering materials are thermodynamically metastable. In such a condition, materials must be able to hold up against several kinds of forces or conditions without losing their integrity.
 
-​Similarly, the fuel system suffered a corrosive attack, mainly due to the fuel's water content. As the starting point, fuel tanks should be repaired frequently because of pitting corrosion. The problem was then solved by a Terne (Pb-Sn alloy) coating on the carbon steel plate. Of course, the rest of the fuel system was exposed to a corrosive fuel. Other systems and parts also suffered internal attacks due to a used fluid or the entire car’s environment. It was estimated that the yearly cost of corrosion in the USA in 1975 was USD 29.000\* million, associated with 106.7 million vehicles registered. Estimations in 1999, including a depreciation cost by corrosion, led to a yearly corrosion cost in the automotive industry of USD 36.500\* million. Extrapolating such an amount globally, the cost of car corrosion worldwide was about USD 156.000\* million. The individual average cost of car corrosion for owners in 1975 was estimated as USD 200\* per year. In Sweden, in the 1980s, the annual cost of cars was estimated at USD 2.600\* million, corresponding to about USD 900\* per car per year. Furthermore, NACE estimated that the resale value of a three years old, rust-proofed car exposed to salt roads was USD 160\* to USD 235\* higher than an untreated vehicle.
+Currently, a shortening, depreciation, or decrease in the assets' value is an increasing matter of concern. The eventual replacement of parts and equipment because “aging” or obsolescence is both understandable and inevitable as part of the object’s life cycle. Nevertheless, depreciation because of deterioration of the material must be treated as an undesirable situation. Here, we are talking about the failure by overloads, fatigue, tribological loading, or corrosion, among others.
 
-​Figures concerning the vehicle fleet's current situation show that the estimated worldwide yearly production in 2017 and 2018 was about 97 million motor vehicles (73 million passenger cars). In 2019 there was a drop to 92 million in 2019, and an even steeper decline until 62 million is expected in 2020—examples of the revenues produced to give an idea of the business's size. In 2019, Volkswagen’s revenue was USD 275.000 million, while that of Toyota was USD 290.000 million with 10.7 million vehicles. Besides, according to the historic trends, the number of cars registered globally in 2017 was something like 1.371 million, 74 percent passenger cars, and 26 percent trucks and buses.
+Aggressive agents can be physical, biological, chemical, or a mixture, and so an ideal material would be one that resists every situation. Unfortunately, the perfect balance only exists in utopia. For example, in steel, the choice material of engineering by excellence, there is a metal alloy with a favorable balance due to its mechanical properties (i.e., good mechanical resistance with good toughness and resilience), but it has weak corrosion resistance. Therefore, one of the permanent challenges for any engineer is to combine the best attributes of materials, thus striving for balance between properties. The development and selection of tough materials that can withstand stress, friction, wear, and corrosion; in other words looking for the best performance possible is a never-ending task for surface scientists and engineers.
 
-​The improvement in the corrosion behavior during the last fourth decades has been considerable. Nevertheless, unexpected problems arise. For example, in 2010, Ford Motor Company was forced to recall 575.000 vans of one of its models in the USA and Canada because the National Highway Traffic Safety Administration began investigating corrosion and breaking rear axles.
+​**Synergy is powerful**
 
-​**An outstanding evolution**
+From the thermodynamical point of view, mechanical and corrosion resistance are quite the opposite. One of the essential mechanical properties is hardness, which is associated with abrasion or rather wear resistance. It is a mechanical property usually related to harness in a monotonous way. Hard materials are resistant to wear and tear, but generally for the same material, as better mechanical properties mean lower corrosion resistance. But the real world is not as simple, as everyday situations include mechanical and corrosive efforts simultaneously. This is the reason why the mechanisms of materials deterioration have mechanic/chemical effects simultaneously. Conditions where friction is generating wear and tear and corrosion is synergistically dissolving the material are every day. The result is “corrosive wear” or “tribo-corrosion”. Corrosion products are leached continuously, without any protection option, allowing clean surfaces to forever interact with each other and being exposed to a corrosive environment.
 
-Factors such as the business's size and the consequent market driving, energy considerations, environmental restrictions, disruptive innovations, demand changes in the industry, and new challenges arise. According to all those drivers, it is possible to approach the several corrosion risks from the challenges' point of view. Sometimes, direct effects, some others indirect ones.
+​Wear is the result of the abrasive movement of one part rubbing against another. This phenomenon often happens unexpectedly, even in the deterioration of electro-electronic equipment. For example, the mechanical vibration causes friction between the connectors' female and male parts, thus damaging the contact and increasing resistance followed by raising the temperature, which increases wear between the two parts iteratively. In addition to the electronic sector, there are other scenarios in which wear is an issue for consideration. Of course, mobile assets and moving parts of stationary equipment and machinery, such as engine parts, are exposed to severe abrasion risks and wear. The economic impact of friction and wear is enormous in economic sectors like agriculture, O&G, sewage systems, mining, ceramics, and transportation.
 
-​​**The oil crisis**
+​​**How significant is the impact of friction and wear?**
 
-Petrol and cars are an indissoluble couple symbolizing the Second Industrial Revolution. When the world faced the oil crisis in the 1970s, answers included exploring other fuels and less consumption per km. Research about alternative fuels was focused mainly on methanol and ethanol. Besides, biodiesel was researched, too. Brazil was the champion of ethanol, and the PROALCOOL program brought a broad opportunity for the Brazilian fleet and many other countries that took such an option. The integrity of materials of the fuel system was a matter of great concern. Dissolution of deposits previously formed by gasoline, pitting corrosion of fuel tanks that were not terne plate, dissolution of polymeric tubing and other plastic parts, accelerated corrosion of the carburetor were big problems. Most of those problems were solved through a gripping collaborative Triple Helix action. Finally, solutions like the development of a Ni alloy for the carburetor allowed the implantation of ethanol, pure or as a mixture, as car fuel. The first recent car working with 100 percent ethanol was the Fiat 147, a three-door hatchback compact car that was the Brazilian variant of the Fiat 127
+**Direct costs**
 
-​**Lightweight cars**
+Wear and corrosion are surface phenomena. They are relatives, and many times it is not possible to separate them. In 1950, Herberth H. Uhlig, the author of the first study about the cost of corrosion in the USA, talked about corrosion-related wear of internal car engines and estimated that around 30% of the wear cases found might be attributable to corrosion. In 1971. M.W. Padman published a paper showing that the yearly cost of wear for the Australasian industry was AUD $14 million (about USD $ 120 million in 2019). Then in the study developed in 1978 by the Battelle Columbus Laboratories for the National Bureau of Standards/U.S. Department of Commerce, the cost of corrosion in the USA, estimated that 75 % of the maintenance costs in the O&G sector were related to corrosion (40%) and wear (35%).
 
-Until the oil crisis, cars were heavy. Passenger cars were three, four, or more tons, and their consumption usually was a gallon (3.8 L) per 10 - 15 km. Further than new combustion systems, efficiency has been sought through lighter bodies, trying to move to thinner gauge materials, reducing some millimeter thickness in the 1960s to one or less today. But new problems came up, including the need for high strength steels more prone to corrosion or more expensive materials such as Al alloys, titanium alloys, composite materials, and nanoscopic materials. A vast development of automotive paints is part of the associated actions, looking for better anticorrosive properties and better finishes.
+**​Other “unsustainable” costs**
 
-​Manufacturing processes changed according to the new requirements, including anticorrosive systems like galvanizing and paint schemes when the environment was aggressive. Consequently, cars' models useful in less polluted regions could be mediated with unique treatments to be commercialized in other areas. The visible corrosion associated with the body car is atmospheric corrosion. Anticorrosive paint is a good measure. Moreover, there are many issues concerning design because galvanic pairs, crevice, accumulation of moisture, and dirt are weak points prone to corrosive attack. Famous was the corrosion spot in the driver door of the Fiat 147 too. A study developed by the formerly Swedish corrosion Institute (P. Uhlbäck, V. Kucera, L. Kjell, and A. Fogelström. “Rust damage to passenger cars – analysis of extent and causes.” SCI, Stockholm, 1984) divided the body car into 17 sections. It concluded that there are two main reasons for visible corrosion, including damage of the coat of paint due to mechanical action or defects in the coat or perforation of the sheeting from inside and directly related to design features. The parts that rust most in the average car are the rear mudguards' edges, the front mudguards, the side sill boxes, and the upper back part of the front mudguards. According to the Mercedes 200-series, BMW, and VW Golf models were better than the average, and Renault 4, Citroen GS, and Fiat 147 were worse.
+Nowadays, considering the Circular Economic principles and the need for more sustainable development, another significant impact of wear concerns higher energy consumption and the consequent higher CO2 emissions. **[A study about this](https://doi.org/10.1007/s40544-017-0183-5)**, published in 2017, considered transportation (trains, ships, airplanes, and road vehicles), manufacturing, paper machines, mining industry, power generation, and residential uses. They concluded that about 20% of the total energy consumption worldwide is energy loss because it’s used to overcome friction forces (103 exajoules). Furthermore, they discovered that 3% (16 exajoules) is spent remanufacturing parts and spare equipment because of wear and wear-related failures. A fair estimation from such amounts of energy generated led to say that the corresponding greenhouse gas emissions during the year, associated with friction and wear, were 7.042 and 1.078 million tons of CO2, respectively. Additionally, estimates about the potential reduction of energy losses by implementing current and emerging tribological solutions (new materials and coatings, improved microstructures, proper surface finishes, better lubricants, different designs, sensing of the phenomena, etc.) could lead to a reduction of 18% in the short term (8 years), and by 40% in the long run (15 years). Consequently, global annual energy savings could be roughly 8.7% of the total energy consumption and 1.4 percent of the worldwide GDP. Concerning emissions, estimated reductions are 1.460 million tons of CO2 in the short term and 3.140 million tons in the long term. The monetary savings would be USD $553.000 million and USD $1.192.000 million, respectively. Many times, materials hard to wear and tear are essential. Most of the time, materials hard to corrode are necessary. Always, materials hard to deteriorate are indispensable.
 
-​During the last fourth decades, with the emergence of the Third Industrial Revolution and computer technology (CAD-CAM), there was a considerable shift in body car design. Many of those problems have disappeared. A situation related to the excellent management practices assumed earlier by the car manufacturers. According to NACE's IMPACT study, such transformation in corrosion management strategy led by the highest levels of the automotive industry organizations allowed a reduction from 52 to 44 percent on corrosion-related manufacturing and vehicle operation costs from 1975 to 1999. A global cost saving of about $64.500* million USD. Also, the average age of vehicles increased by 49 percent in the same period (a generous contribution to the Circular Economy expectations). Besides, the evolution of the rest of the cars has been minimal. Nowadays, a conventional vehicle is an ensemble of 25.000 different parts, hundreds of materials, thousands of joints and other intricate points, and several spots of corrosion risks.
-
-​Ahead than innovations on new materials, improved designs, and much better anti-corrosive coatings, there are other complementary useful changes. Proper and adequate maintenance practices by owners, less polluting fuels, better urban environmental conditions, corrosion inhibitors to fluids (such as coolants, oils, and waxes) are some of the other current reasons for reducing the incidence of corrosion on cars.
-
-​​**What is coming?**​
-
-The disruption brought by the Fourth Industrial Revolution. The electric car. Many innovations are supported on new materials, design by artificial intelligence, sustainability drivers, etc. 145.000 Tesla Q3 produced in 2020 is an example of the shift today as a sign of the boom electromobility this year **[\-Source-](https://www.vdik.de/en/?cookie-state-change=1609202573414)**. There are radical changes concerning the car's architecture, but other aspects are the same. Cars are moving from more than 20.000 parts to some hundreds. The main difference is in the engine or motor working mechanism. It is a change from nearly 2.000 moving parts in the internal combustion engine to around 20 moving parts in the electric one. Conventional and electric cars are similar in the suspension system, bodywork, interior stuff (seating and so on), air conditioning system, and hydraulic braking system. More than the traction motor, differences include a traction battery pack, controllers, chargers, inverters, etc. In conclusion, some of the corrosion challenges remain. Some others have been surpassed, and new and important ones arise, mainly related to corrosion of electro-electronics and severe problems with batteries.
-
-**Remember: Protection of materials and equipment is a profitable business!\
-​*** Inflation-adjusted value to 2020
-
-​**Prof. Carlos Arroyave, Ph.D. Editor.**
+**Remember: Protection of materials and equipment is a profitable business!**​**Prof. Carlos Arroyave, Ph.D. Editor.**
 
 **​[www.arroyave.co](https://arroyave.co/)**​
 
@@ -72,81 +62,81 @@ The disruption brought by the Fourth Industrial Revolution. The electric car. Ma
 
 # Materials Biz News
 
-**One more South American country producing oil for the world**
+**An experienced oil country search for more**
 
-Guyana, a Caribbean country on the North cornice of South America, is turning a year as an oil producer. Since the 1940s, many multinational companies were exploring the countryside. In 2015, Esso, an affiliated of Exxon Mobil, announced the world-class Liza deep-water oilfield’s discovery, about 200 km off the shoreline. Daily production last month was 120.000 BPD. A production of 750.000 BPD is expected until 2025. Currently, the estimated reserves are 8.000 million barrels of oil. According to experts, more oil could be discovered closer to the coast in the coming years. **[GuyEnergy](https://www.guyenergy.com/)** (, a corporation aimed to develop Guyana's oil & gas sector, has announced its intention to build the first refinery in the country.
+Since 1886, Egypt has been an oil producer due to the Nile Delta's first deposits. Currently, the country is the Third African O&G producer behind Nigeria and Algeria. But its proven reserves were felling during the last decades. Simultaneously, a slowdown in exploration activity happened. Besides, some of the country's geographic advantages include more than 2.900 km of coastline, 1050 km along the Mediterranean Sea, and the Red Sea. Recently, government efforts have been oriented to search for offshore deposits in both seas. As a consequence, last week was announced a partnership between Total, Royal Dutch Shell, Kuwait Foreign Exploration Co., and Egypt’s Tharwa for explorations in the North Ras Kanayis offshore block in the Mediterranean Sea, k located in the Herodotus Basin, covering an area of 4,550 km2, with water depths up to 3.200 meters. Furthermore, other 11 agreements are being prepared, looking for drilling 23 wells across both seas.
 
-**​[\-Read More-](https://guyanatimesgy.com/oil-refinery-to-be-completed-by-next-year-guyenergy-executive/)**​
+**​[\-Source-](https://www.offshore-technology.com/news/egypt-to-invest-1-4bn-into-new-offshore-exploration-projects/)​**
 
-​**Showing the right way to the next generation of corrosionists**
+**Fostering the Triple Helix around the development of advanced materials**
 
-Our colleague Dr. David Bastidas is an associate professor in the Chemical, Biomolecular and Corrosion Engineering program of The University of Akron, Ohio – USA (https://www.uakron.edu/). Professor Bastidas is one of the corrosion experts of the National Center for Education and Research on Corrosion and Materials Performance – NCERCAMP. This Center was created for supporting the first baccalaureate degree in corrosion engineering offered in the Country and endowed by the U.S. Department of Defense. Recently, the NCERCAMP has inaugurated the Michale Baach Award of Excellence. Dr. Bastidas has been honored for his role as an educator and for his research to develop corrosion inhibitors for concrete and steel structures. Congratulations to The University of Akron for its leading initiative in educating the corrosionists of the future and Professor Bastidas for been a champion advisor.
+Registrations for MaterialNEXT 2.0 will be accepted until January 25th, 2021. It is an open innovation event hosted by the Tata Steel Advanced Materials Research Centers and the Entrepreneurship Division of the Indian Institute of Technology Madras. The competition aims to increase the richness factor of the innovative ideas in the advanced materials domain. Proposals concerning research (Ph.D. students & research scholars from academia/research centers) or entrepreneurial initiatives (incubated start-ups in seed) are accepted. The first edition, in 2019, received 32 registrations, and the winner was a project about a graphene oxide-based flexible sweat sensor.
 
-**​[\-Source-](https://www.uakron.edu/ncercamp/)**​
+**​[\-Read More-](https://www.tatasteel.com/careers/campus-connect/materialnext/)​​**
 
-​​**Fossil fuels have a future**
+**Be aware of fire**
 
-A Triple Helix partnership between **[IndianOil Corp. Ltd](https://iocl.com/)**, the Indian Government, and **[LanzaTech](https://www.lanzatech.com/)**, a USA-based company devoted to exploring opportunities of carbon capture, utilization, and storage – CCUS, announced the scaling to a commercial level of previous lab results. The consortium has developed research along since 2014 in the **[DBT-IOC](https://www.dbtiocberc.org/)** Center for Advanced Bio-Energy Research in Faridabad, Delhi - India, searching for the production of secondary raw materials for the energy, the chemical, and the food industries, from carbon dioxide and hydrogen. Right now, they are speaking about a technology able to convert directly CO2 into new useful products like biodiesel and omega-3 fatty acids.
-
-**​[\-Learn More-](https://www.lanzatech.com/2020/12/14/universal-carbon-dioxide-platform-for-production-of-sustainable-food-fuels-and-chemicals/)​**
+The National Fire Research Laboratory of the National Institute of Standards and Technology – NIST, USA, has launched a new fire calorimeter database to answer several questions about burning situations. The database contains heat and combustion data for fires from 50 to 20.000 kW (small fires to multistory building fires), obtained through experiments concerning single-burning items, fully furnished rooms, controlled burners, and fuels. Fire size and growth rate for the design of fire protection systems and regulation of flammable materials hazards are applications. Indeed, approaches to industrial processes where burning is included could be made by using this useful tool.\
+​**[\-Learn More-](https://www.nist.gov/el/fcd)**
 
 - - -
 
 # Jobs
 
-**​**[](https://tecnalia.talentclue.com/en/node/67214986/12623479)**​[Maintenance engineer for the manufacture of new materials](https://corningjobs.corning.com/Corning%20Display%20Technolog/job/Guangzhou-Maintenance-Engineer-44/643170800/) Guangzhou, China.**
+**​[Looking for Ph.D. candidates](https://www.trr196.de/news/jobs/)** **Germany**
 
-CORNING, the global leader in glass, ceramics, and optical physics, is seeking for its location in Guangzhou, China, a Mechanical Engineer or other engineering related, maintenance skills (knowledge of lubrication, pneumatics, PLC, PC control, LM guide, and motors), and at least three years of experience including LCD panel’s automated storage, RGV transport conveyor systems, and automobile assembly factory. Some of the responsibilities are equipment downtime analysis and improvement, perform the weekly and quarterly preventive maintenance system within the prescribed guidelines and maintain appropriate records, perform spare parts management and in-coming quality control work, conduct the technician cross-training and the new-comer technician training, and performing preventive maintenance on electrical and mechanical equipment under standardized procedures.
+MARIE is the Mobile Material Characterization and Localization by Electromagnetic Sensing collaborative research center, integrated by a consortium of universities and research centers, founded by the Deutsche Forschungsgemeinschaft – DFG (Germany Research Foundation). Currently, MARIE is offering 14 positions for Ph.D. students in the following projects:
 
-​**[A professor of chemical engineering for a vibrant University](https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/Assistant-Professor-in-Chemical-Engineering_R00004843-1) Singapore**
+\- Components for High-Frequency Electronics
 
-The Nanyang Technological University, Singapore (NTU Singapore) is a research-intensive public university, with 33,000 undergraduate and postgraduate students in the Engineering, Business, Science, Humanities, Arts, & Social Sciences, and Graduate colleges. NTU has been named the world’s top young university for the past seven years. NTU's School of Chemical and Biomedical Engineering (SCBE) invites chemical engineers or related, with a Ph.D. degree to apply for a tenure-track faculty position at the Assistant Professor level. The primary responsibilities will be biological catalysis, biopharmaceutical manufacturing, continuous manufacturing, and digital factory for pharmaceuticals, machine learning, and artificial intelligence.
+\- Electromagnetic Field Theory / Antenna Technology
 
-​**[Moving from the lab to your own company](https://doi.org/10.1038/d41586-020-02040-x)** ​
+\- Photonic THz Systems, Spectroscopy, Classification Algorithms
 
-Entrepreneurship is a valuable option when scholars are leaving academia. Knowledge is money, and many times exploitation of research by the own company is paramount. Some of the characteristics of a good researcher are the same as that of a good entrepreneur. Some others are different or even opposite. This great option is why the importance of advice about how to be successful with a spin-off company. Recommendations from experienced people are vital. Barbara Domayne-Hayman, an entrepreneur in residence at the Francis Crick Institute in London, says that there are four pillars of success, including:
+\- Photonic THz Systems, Spectroscopy, Classification Algorithms
 
-\- A market needs to be fulfilled.
+\- Material Characterization
 
-\- An attractive technology for investors.
+\- Radar Imaging, Material Characterization
 
-\- The right team and good leadership.
+\- Computational Electromagnetics / Electromagnetic Metamaterials
 
-\- To understand and properly handle the fundraising market.
+\- Radar Imaging, Material Characterization
+
+\- Convex Optimization, Machine Learning, Pytorch
+
+\- Computational Electromagnetics / Electromagnetic Metamaterials / Antenna Arrays / Reflect arrays / MIMO, Radar Signal Processing
+
+\- Radiolocation, Signal Processing
+
+\- Real-Time Material Map**​**
+
+**​[A manager for advanced materials production](https://3m.wd1.myworkdayjobs.com/es/Search/job/KR-Naju-Jeollanam-Do/Process-engineer-for-Display-Materials-----_R01030941)** **Gwangju, South Korea**
+
+3M seeks a candidate for a vacancy as a process engineer for display materials in its Naju factory, Gwangju Metropolitan City, South Korea. Minimum required qualifications include a Bachelor’s degree in Chemical/Mechanical/Industrial engineering or any equivalences, proficiency in MS Office, and fluency in written and spoken English. Some of the position’s critical duties will be to maintain & improve manufacturing processes quality, initiate process & quality improvement projects for operational excellence & customer satisfaction, and manage manufacturing processes for manufacturing operation.
+
+​\
+​**[Caring assets in Romania](https://www.orionjobs.com/job/corrosion-engineer-pipelines-and-projects-jobid-933303)** **Bucharest, Romania.**
+
+ORION Group, a Scotian-based headhunter, is looking for a corrosion engineer to work in Bucharest. Minimum required background is five years’ experience in in-process and utilities of petroleum refineries, chemical process plants, or E&P operating areas environment, including inspection techniques and corrosion monitoring and control. The incumbent will be responsible for implementing the corrosion management framework requirements, in agreement with an appropriate corrosion management plan, in all upstream assets facilities and pipelines, subject to new construction, upgrading, modification, improvement, and repair projects.
 
 - - -
 
 # Networking & Knowledge Exchange
 
-**​[Conversations with women in engineering](https://www.designworldonline.com/category/news/women-in-engineering/)** **Virtual**
+**​​[Taking advantage of the Fourth Industrial Revolution.](https://www.ubivent.com/register/endress-hauser-daf2021) Virtual**[](https://www.designworldonline.com/category/news/women-in-engineering/)
 
-Nowadays, one of the issues that must be assumed as part of the management duties is diversity. This issue means, among other things, fostering higher women integration to engineering activities concerning corrosion, anticorrosion, and asset integrity. Design World Magazine, devoted to serving as a resource of information about technology trends and product releases, is inviting to attend a series of three one-hour virtual panels on the subject. Starting interviews with recognized women engineers followed by an open discussion are scheduled at 14:00 (USA EST). Dates, moderators, and engineers to interview are:
-
-\- January 27th, 2021. Aimee Kalnoskas of EE World (moderator) with Lauren West of M3 Design Inc. and Elise Moss of Laney College.
-
-\- February 24th, 2021. Mary Gannon of Design World (moderator) with April Butterfield of Jabil and Elyse Cocco of Henderson Engineers.
-
-\- March 31st, 2021. Lisa Eitel of Design World (moderator) with Lauren Wickert of Vesco Medical and Anoosheh Oskouain of Ship & Shore Environmental.
+Endress+Hauser is a global company aimed to support industrial processes (chemical, food & beverage, life sciences, power & energy, primaries & metal, oil & gas, and water & wastewater) with instrumentation for measurement, analytics, recording, and digital communication of parameters like flow, level, pressure, and temperature. The Company is inviting to attend the so-called “Digital Acceleration Forum 2021”, an event-oriented to improving efficiency, process safety, and compliance by digitalizing the chemical and water & wastewater industries. Registration closes on January 25th, 2021, and the live program will be offered on January 26th and 27th, at 9:00 (CET) and 16:00 (CET).
 
 ​
 
-**​[Surface science and engineering for better products](https://www.lucideon.com/healthcare/insight-hub/lucideon-webinars/surface-science-consumer-products)** **Virtual**
+**​[To learn about a family of superb alloys.](https://www.asminternational.org/learning/courses/-/journal_content/56/10192/42646370/CLAS) Virtual**
 
-LUCIDEON is a UK-based company aimed to support the whole lifecycle of materials development and commercialization (materials & process development, testing, and characterization) of the healthcare sectors (orthopedic, dental, vascular, pharmaceutical, and wound & tissue repair materials). The company is the host of an online free seminar on the 21st of January, 2021, 15:00 – 15:45 (UK time) on “Using Surface Science to Improve Consumer Products.” This event will explore surface science applications on the improvement of product development through product insight, troubleshooting, and claims support. Specific themes to address are:
-
-\- Key surface science techniques
-
-\- When to prefer surface techniques over bulk ones
-
-\- Case studies
+ASM International will be hosting a course on Ti and its alloys to be offered from 9:30 to 17:00 (USA EST) on January 25th-26th & February 2nd-3rd, 2021. Objectives of the event include applications, mechanical and corrosion characteristics, and processing methods. Some of the specific subjects are phase diagrams, heat treatment, mechanical properties, metallography, casting & powder metallurgy, joining, corrosion, and applications. The target audience is aerospace engineers, quality assurance managers, designers, technicians, metallurgists, and chemical and petroleum industry specialists.
 
 ​\
-​**[Industrial Corrosion Control & Management for a new year](http://corrosionsummit.com/)** **Virtual**
+​**[Cathodic protection of marine structures.](https://marinecorrosionforum.co.uk/attend/ola/services/safety-and-design-considerations-for-cp-of-marine-structures-1?olaT=2021-01-19T12%3A00%3A00.000Z&olaR=838673) Virtual**
 
-The second ICCM will be held on January 29th, 2021, from 09:30 to 17:00 (Indian ST). Some of the tentative technical sessions include control technologies, protective coatings, cathodic protection, software & predictive modeling, and display of new technologies. Options of participation are as a speaker, delegate, or exhibitor. Important Deadlines are:
+A free 1-hour speech about “Safety and Design Considerations for CP of Marine Structures” will be hosted by the Marine Corrosion Forum and offered by Patrick Lydon, Director of IACS Corrosion Engineering Limited. The event is scheduled for January 19th, 2021. At 12:00 (GMT). The Marine corrosion Forum is an organization intended to promote the advancement of the practical, technical, and scientific understanding of marine corrosion by arranging presentations by leading experts and disseminating information.
 
-\- Abstract Submission: January 10th, 2021.
-
-\- Presentation Submission: January 25th, 2021.
-
-<span>Photo by <a href="https://unsplash.com/@aurelien_romain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Aurelien Romain</a> on <a href="https://unsplash.com/s/photos/old-car?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+<span>Photo by <a href="https://unsplash.com/@ludomusae?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ludomił Sawicki</a> on <a href="https://unsplash.com/s/photos/metal-fire?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>​
