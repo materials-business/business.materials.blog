@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: How is the education on materials protection that has been offered?
+title: "HOW IS THE EDUCATION ON MATERIALS PROTECTION THAT HAS BEEN OFFERED?  "
 slug: /02/02/2021/how-is-the-education-on-materials-protection-that-has-been-offered
 date: 2021-02-02 07:05
 description: Recently, Studyportals published interesting information showing
