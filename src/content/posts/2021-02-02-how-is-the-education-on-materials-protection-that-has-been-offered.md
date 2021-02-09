@@ -1,72 +1,87 @@
 ---
 template: blog-post
-title: "HOW IS THE EDUCATION ON MATERIALS PROTECTION THAT HAS BEEN OFFERED?  "
-slug: /02/02/2021/how-is-the-education-on-materials-protection-that-has-been-offered
-date: 2021-02-02 07:05
-description: Recently, Studyportals published interesting information showing
-  figures on worldwide English-taught higher education programs. Principally
-  this information is useful for promoting these institutions offering specific
-  study programs and helps the students in decision-making. Additionally, the
-  data is also suitable for other purposes like benchmarking. Besides supporting
-  universities and students interested in internationalization, the information
-  included in their platforms shows additional features that can be analyzed
-  from different sectors and, finally, society. For example, the information
-  about offered curricula is essential for enterprises. Furthermore, the gap
-  between training and what is needed is a significant concern for companies,
-  governments, families, and society.
-featuredImage: /assets/mikael-kristenson-3avlwp-7bg8-unsplash.jpg
+title: STAINLESS STEEL; A FACT? - PART l
+slug: /09/02/2021/stainless-steel-a-fact-part-l
+date: 2021-02-09 07:05
+description: "For the past century, non-metallurgical people have often asked
+  the question in the title, stainless steel - SS; a fact? And most of the time,
+  we quickly answer yes. According to an announcement on the website of one of
+  the currently leading international SS providers says that its steel to be
+  used in medium to low corrosion aggressive environments. In other words, we
+  are talking about a marvelous material developed around one century ago, and
+  at that time, solved tremendous challenges and thus the given name: “stainless
+  steel.” Demands for such a material started at the beginning of the 20th
+  Century from the effervescent O&G industry, which needed answers to be found."
+featuredImage: /assets/brett-jordan-lkib35e8iga-unsplash.jpg
 ---
 # **Materials.Business Weekly ⚙️**
 
-*February 02, 2021*
+*February 09, 2021*
 
-> Quote of the week: Somewhere, something incredible is waiting to be known.” — Carl Sagan, USA Physicist and science communicator (1934 - 1996).
+> Quote of the week: “Alloying is the greatest gift of metallurgy to humankind.” — B.S. Murty, J.W. Yeh, and S. Ranganathan 
 
 - - -
 
 # From The Editor's Corner
 
-# How is the education on materials protection that has been offered?
+# STAINLESS STEEL; A FACT? - PART l
 
-**An international overview**​
+**A big jump**
 
-**A useful tool**
+For the past century, non-metallurgical people have often asked the question in the title, stainless steel - SS; a fact? And most of the time, we quickly answer yes. According to an announcement on the website of one of the currently leading international SS providers says that its steel to be used in medium to low corrosion aggressive environments. In other words, we are talking about a marvelous material developed around one century ago, and at that time, solved tremendous challenges and thus the given name: “stainless steel.” Demands for such a material started at the beginning of the 20th Century from the effervescent O&G industry, which needed answers to be found. Many of their corrosion problems were easily solved, thanks to Cr and Ni alloyed steels’ development. Inevitably, other sectors and industries such as the food industry, particularly milk processors, took advantage of the new material. Subsequently, some of the papers published in the Corrosion journal’s first editions dealt with SS in the food sector. In a nutshell, corrosion problems dropped immensely. Intriguingly, when talking about the impact of the corrosion phenomena, sometimes people in the food industry do not recognize their relationship with the subject, naively saying, for instance, that they do not have issues that concern corrosion costs. However, ultimately, most of their parts and equipment are made with SS, and so the corrosion problems are avoided, but at a high cost.
 
-Studyportals B.V. is a private enterprise created as a spin-off of various international study associations in 2007 and based in Eindhoven, The Netherlands. The company is devoted to spreading information through several WEB portals about higher education programs. Its mission is to “Empower the world to choose education,” and one of its primary purposes is to “help universities with easier and more effective international marketing and recruitment solutions.” Frostudents’the perspective, one other goal of the platform is to promote better experiences studying abroad. These are two very valuable purposes. Some of their current partners include the European Commission, The British Council, Pearson, the German Academic Exchange Service – DAAD, and UNESCO. Recently, Studyportals published interesting information showing figures on **[worldwide English-taught higher education programs](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/g3hnh5hel4vw73ir/aHR0cHM6Ly93d3cuYmFjaGVsb3JzcG9ydGFsLmNvbS8_cmVkaXJlY3Q9ZmFsc2U=)**. Principally this information is useful for promoting these institutions offering specific study programs and helps the students in decision-making. Additionally, the data is also suitable for other purposes like benchmarking. Besides supporting universities and students interested in internationalization, the information included in their platforms shows additional features that can be analyzed from different sectors and, finally, society. For example, the information about offered curricula is essential for enterprises. Furthermore, the gap between training and what is needed is a significant concern for companies, governments, families, and society.
+There are several versions of the discovery of SS. However, around the Second Industrial Revolution, it was clear that there was a development through open innovation, as many patents started to appear claiming different discoveries or approaches towards this material. If we look at the timeline that led to this, in 1751, the Swedish Chemist Axel Cronsted discovered nickel. By 1797 Chromium was found by the French Professor Nicolas Louis Vauquelin, who is recognized as one of the fathers of modern metallurgy. Now, it was only in 1881 that a British patent about corrosion-resistant Cr alloys was made. The following decades were characterized by the great activity of empirically exploring the effects of Cu, Ni, Cr, etc., on the steel behavior. Some papers about Cr and Ni alloyed steels were published in the 1900s. In the 1910s, German and British patents regarding some Ni and Cr alloy steels were awarded. Industrial production in Germany, England, and Sweden began soon after, mainly associated with cutlery manufacturing and other products. In 1915, The New York Times announced the US Consul’s news in Sheffield, UK, about introducing a non-rusting or preferably stainless steel. Sheffield is considered the cradle of SS. The development of austenitic and martensitic SS before the First World War was a significant jump in this field!
+
+​\
+​**A vast horizon**
+
+Moreover, in 1924, in Sheffield, W. H. Hatfield invented the 18-8 SS or 304 steel that had good corrosion resistance, exhibited good toughness and ductility, and low maintenance requirements. Initial demands were from the cookware and surgical equipment industries due to these unique properties, allowing for easy cleaning and meeting hygienic conditions. However, with time, apart from these two industries and war, more critical needs came up from the following sectors; chemical, petrochemical, pulp & paper, transportation (trucks, cars, railway carriages, buses, etc.), architecture & building & construction (facades, roofing, membranes, plumbing & piping, etc.), food (beer, milk, etc.), drinking water, urban infrastructure, sculptures, desalination plants, biomass conversion, parts of engines, turbines, aircraft, boats, weapons, rockets, and much more. Further advancements were related to procurement (cheaper mass-production methods), processing (joining and so), and the development of other new grades. For example, in 1929, in Luxembourg, William Kroll invented the precipitation hardening SS, which showed a better weight-to-strength ratio. This property was extensively exploited during the Second World War in jet aircraft. In 1930, Avesta Ironworks in Sweden invented the duplex SS with a microstructure mixture of ferrite and austenite. As a result, duplex SS shows much better corrosion resistance and strength. Although its development only started 40 years after the invention, it currently accounts for about 1% of the global SS production.
 
 \
-​**Leaders in swimming in the middle of the storm**
+​**The market**\
+​
 
-On the one hand, internationalization is a small but fundamental piece of higher education (HE). On the other hand, HE is a relevant factor in one of the essential Sustainability Development Goals (SDG) recommended by the United Nations, the SDG 4 – “Quality Education.” Right now, some significant challenges are merging together. We are talking about technological disruption, climate change, a growing social intolerance, and the deepened inequalities highlighted by the COVID-19 pandemic. As an answer to these challenges, high-quality HE for all serves a global purpose. However, social, economic, and digital divides have put the most disadvantaged even in the worst conditions imaginable, where skill-knowledge is disparate. For instance, only about 7% of adults in lower-middle-income countries show necessary ICT skills, while 20% in upper-middle countries and 40% in high-income ones. Global participation in tertiary education reached 224 million students in 2018, equivalent to 38%' gross enrollment ratio. Enrollment rates ranged from 9% in low-income to 75% in high-income countries. In addition, disadvantaged youth require more support to enter tertiary education but, in fact, receive less in the end. It is a vicious cycle that must be broken. Recent events have shown that globalization without internationalization is catastrophic. These vicious cycles are linked to coverage and education quality, so breaking them is a global challenge related to internationalization. As always, universities are so-called engines for positive change and have been the drivers of a more resilient and equal society in the future. Universities must be recognized as the global leaders of internationalization. But it is a societal task encompassed by enterprises, governments, and other social actors. It is a Triple Helix challenge.
+**Prices**
 
-​\
-​**Other barriers to be overcome**
-
-The Studyportals platform's starting point is proof that education opportunities are unequally distributed, and HE quality barriers are too high for students in most countries. So the risk of the perpetuation of the gap is increased. The collected data is just related to programs taught in English. English is the *lingua franca* in the international science and technology arena. All academics must recognize this situation as a leveraging condition for global HE of quality for all. In other words, the figures that will be analyzed below do not include all the non-taught English tertiary education programs, which undoubtedly, is one more barrier that must be overcome in the coming years. Global estimations say that 68% of tertiary students are currently enrolled in English-taught bachelor’s degree programs, 11% in masters, and 1% in doctorate. The platform shows that the total English taught bachelor’s degrees offered is 85.324, where 8.587 programs, or about 10%, are in Engineering & Technology – E&T, excluding Computing & IT. Master’s degrees are 67.816, where 8.218 are in E&T (~12%). Lastly, Ph.D. degrees taught in English are 5671, and 849 of those are in E&T (15%). These Percentages bring to mind other gaps such as the relatively low number of students in the STEM fields and the lower proportion of women in E&T and STEM.
+As a well-sought-out material, SS is expensive. Looking at the current global market, we can find that its prices are significantly higher than carbon steel (CS). When **[comparing](https://worldsteelprices.com/stainless-steel-prices/)** the average costs of flat & long categories in 2020, in major markets (EU, Asia, and North America), prices per ton for CS and SS 300 were USD $ 615 and $2.300, respectively. That means that SS is almost four times more expensive than the engineering base material, CS. Simultaneously, international prices for the top four consumed SS grades and forms were USD $2.093 and $2.224 for SS 301 hot and cold rolled, respectively, and USD $3.043 (hot) and $3.216 (cold) for SS 316. SS is material for “rich” people, and countries with considerable economic powers are the biggest consumers. Taiwan led the **[*per capita* consumption](https://www.worldstainless.org/Files/issf/non-image-files/PDF/ISSF_Stainless_Steel_in_Figures_2020_English_public_version.pdf)** in 2019 with 45 kg per person, followed by Italy, S. Korea, Germany, Japan, China, Spain, and lastly, the USA with 10 kilograms per person.
 
 ​\
+​**Production**
+
+In 1929, the leading producer was the USA, with a yearly amount of 25.000 tons. In 2006, China became the first global producer and became the key player in defining prices and the market as a whole, producing more than 50% of the total SS production in 2013 and reaching 56.3% in 2019. Meanwhile, the contributions from other regions or countries' were split as 15.1% Asia (without China and Korea), 13% Europe, 5% USA, and 10.6% others (Brazil, Russia, S. Africa, S. Korea, and Indonesia). Europe produces double the amount than the Americas combined. However, the most important fact is that countries other than China have become price **[followers](https://doi.org/10.1016/j.resourpol.2014.11.006)**.
+
 ​\
-​**Materials Science and Engineering taught worldwide**
+In 2019, the global SS market size was valued at USD $ 111.400 million and USD $119.300 million in 2020. The yearly growth during the coming years is expected to be around 6.3% (the highest compound annual growth rate of major metals). Consequently, the expected revenue for 2027 is estimated to be approximately **[USD $182.1000 million](https://www.grandviewresearch.com/industry-analysis/stainless-steel-market)**. In 2019, the global production of SS was 52.2 million tons (remember the global annual production of materials is around 1.800 million tons). Austenitic steels make up over 70% of total stainless steel production, and about 50% of the total austenitic production is SS 304. Cr-Mn grades (200 series) and Cr grades (400 series) share almost the rest of the whole production, in similar proportions. In alphabetic order, the key SS manufactures are:
 
-At this point, it is crucial to recognize the bias in the analysis. For all of us, corrosion and protection of materials and asset integrity are duties of several professions, further than just scientists and material engineers. When discussing the E&T programs mentioned above, other programs were not included as Natural Science, Environmental Studies, and others, which also have a relationship with material care. When we put the magnifying glass on the E&T programs, this bias reappears of what we constitute as the ideal study program in this field. When choosing programs directly related to the materials’ protection and performance, it is essential to consider that the problems are complex, and solutions are too. This means that for us to find answers, it would usually require crossing into other disciplines, and many times professionals from many other E&T programs are in front of the situations. Accepting such limitations, the figures concerning English taught programs on Materials Science and Engineering MS&E can be seen. Results show that there are 449 bachelor's degree programs (5% of the E&T programs), 661 master programs (8%), and 103 Ph.D. programs (12%) that are taught in English. Furthermore, only 18 short courses are included in the figures (646 is the total of E&T short courses), and 119 distance learning degrees (5% of the E&T degrees). A quick look at this data shows that MS&E programs are viewed more as specializations, as demonstrated by the percentage increase in courses offered when we move from bachelor's to master to Ph.D. Similarly, MS&E programs have not been and are not following the global trends in the realm of materials care. Some of us may use such figures to explain the national corrosion costs’ linear growing behavior since the first estimation in the 1950s compared to the GDP. On the other hand, most of us may be waiting for the higher demand of MS&E programs to come for us to face the enormous challenges brought by sustainability goals.
+\- Acerinox (Spain)
+
+\- Aperam Stainless (Luxemburg)
+
+\- ArcelorMittal (Luxemburg)
+
+\- Baosteel Group (China)
+
+\- Jindal Stainless (India)
+
+\- Nippon Steel Corporation (Japan)
+
+\- Outokumpu (Finland)
+
+\- POSCO (S. Korea)
+
+\- ThyssenKrupp Stainless GmbH (Germany)
+
+\- Yieh United Steel Corp (China)
+
+Furthermore, it is easy to understand that most of the other steel-producing countries and ironworks are very limited in producing SS because of the economies of scale constraints.
 
 ​\
-Having a closer look, it is interesting to explore the details of the MS&E programs. From this point of view, comparison at master and doctorate levels are less significant due to the emphasis on research at both levels. Now, just looking at the bachelor’s degree level, of the 449 programs worldwide, 201 are taught in the USA, 120 in the UK, 25 in Australia, 17 in Canada, 9 in Malaysia, 8 in Ireland, 5 in Hong Kong, 5 in India, 4 in Germany, and 3 in South Korea. Many of the programs are related to a specific family of materials ([v.gr](http://v.gr/). paper, rubber, polymers, and so on). Simultaneously, others are related to specific industrial sectors ([v.gr](http://v.gr/). aeronautics, etc.). These are most of the MS&E bachelor programs ready to face the new wave of international student mobility after the impact of factors like the Corona pandemic, Brexit, and the USA's changing immigrant policies. Furthermore, assessing the offered curricula could be interesting considering the often critics received from the industry side because of the gap between curricula and required skills. After a quick check of the information published on the website of a few randomly selected programs, with the relevance of subjects like corrosion, anticorrosion, and asset integrity in mind, shows that at:
+The distribution of the globally produced SS by form was 45.8% cold-rolled flat, 29.5% hot coils, 7.6% hot bars/wire rod, 6.6% cold bars/wire, 6.6% hot plate and sheet, 2.2% semi flats, and 1.6% semi longs. The SS global market share by application of use was 37.5% consumer goods, 29.1% heavy industry (chemical industry, heating cooling & ventilation, O&G, pulp & paper, food processing, water treatment, and energy industry), 12.2% construction and building, 8.5% motor vehicles and parts (17.5% in developed countries and 4.4% in developing ones), 7.7% electrical machinery, and 4.9% other transport applications. Remarkably, from the 1980s until the beginning of this century, SS tonnage was very similar to plastics production, but SS production has grown faster during these last two decades.
 
-\- The University of Arizona, USA. Materials Science and Engineering, B.Sc., the only approach is taken through the mention of failure analysis as one of the four kinds of courses.
+​\
+​**SS and the “New Normal”**
 
-\- The University of Strathclyde, UK. Mechanical Engineering with Materials Engineering, MEng. The nature of the courses does not mention the keywords above-mentioned.
-
-\- The VIA University College, Denmark. Materials Science Engineering, B.Eng., the word “corrosion” is not included in the full curriculum.
-
-\- The University of Manchester, UK. Materials Science and Engineering with Corrosion (Hons), MEng. Has a Corrosion Science Engineering as a mandatory course in year 3, and Corrosion Management and Oilfield Corrosion & Control are two optional courses in year 4.
-
-\- The Monash University, Australia. Materials Engineering (Honours), B.Eng. It is presented as a specialization, where one of the working fields is corrosion or fracture engineer. Additionally, corrosion or durability engineers are given as one of the future career options.
-
-\- The Seoul National University, South Korea. Materials Science and Engineering, Bachelor the information presented on the site does not mention words like “corrosion” or anything alike.
-
-\
-The above results are not strange. People involved with HE and caring of materials know that education on the current needs about materials protection and performance is not the expected. Furthermore, concerns about that increase because the gap between tertiary education and materials protections is growing deeper. Now, as we face the complexity of the New Normal, answers must be given. Institutions have a lot to do, but companies and governments do too. It is an issue of the Triple Helix. Fortunately, answers are beginning to appear. An example is the new Materials Science Technologist degree program designed between a group of universities, a group of employers, supported by some institutions from the UK government, set to be offered by the **[Sheffield Hallam University](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/9qhzhnhg6o7rkdc9/aHR0cHM6Ly93d3cuaW9tMy5vcmcvcmVzb3VyY2UvbWF0ZXJpYWxzLXNjaWVuY2UtbWVldHMtZGVncmVlLWFwcHJlbnRpY2VzaGlwcy5odG1s)**. In summary, globally, there are few HE programs in MS&E, and most of them are not focused on materials and equipment protection. Thinking about the future challenges, it is crucial to consider that many of them are related to having better management of materials protection. So it is vital to promote something like a Triple Helix approach towards new education methods on corrosion, anticorrosion, and asset integrity.
+As above-mentioned, global expectations about the future of SS are optimistic. SS is and will be an essential option in corrosion engineering practice. Nevertheless, it is necessary to consider that the post-pandemic world (the time when the 4th Industrial Revolution, Sustainability & Climate Change, and Social & Economic urgencies all come together) will differ from the traditional previsions. The prices, known technical limitations, market risks, and other issues are part of the reasons for thinking about the importance of a new big jump on SS. Researchers and industry leaders are looking for options, and now is the right time to review this and start exploring.
 
 **Remember: Protection of materials and equipment is a profitable business!**
 
@@ -78,87 +93,123 @@ The above results are not strange. People involved with HE and caring of materia
 
 # Materials Biz News
 
-**​Transferring knowledge to the O&G industry**
+**​A vibrant future for new alloys and corrosionists, too**
 
-The Institute of Functional Surfaces (iFS) of the School of Mechanical Engineering of the University of Leeds, UK, is a center of excellence on research about tribology, surface engineering, and corrosion & flow assurance. The following is a summary of a Ph.D. thesis developed at iFS about a subject concerning a problem in the O&G production, according to the author, Dr. Kabir Raheem: "My research is focused on the crystallization mechanisms and kinetics of inorganic mineral scale particularly calcium carbonate (CaCO3) in oil and gas production. This PhD studied substrate effect on CaCO3 crystal nucleation and growth under different hydrodynamic flow conditions using a capillary flow rig (a modification of the conventional dynamic tube blocking technique), proposing semi-empirical models for the prediction of surface induction time and heterogeneous crystal growth on plain and modified stainless steel surfaces.”
+\- David Alman, Associate Director of Materials Engineering and Manufacturing at the National Energy Technology Laboratory of the U.S. Department of Energy, has published an interesting article about the current and coming pace of materials engineering development in the POWER Magazine. His Laboratory’s experience supports his document, and it is oriented to materials for energy systems. According to the author, materials are foundational technology. There is a tremendous need for better cost-effective, and high-performance materials to improve efficiency, emissions reduction, and the extension of electricity-producing power plants’ lives. Requirements include new materials able to resist higher temperatures, pressures, corrosive environments, and operational changes. These are conditions imposed by the existing power systems and arriving advanced technologies on turbines, gasification, ultra-supercritical steam cycles, supercritical carbon dioxide power cycles, direct power extraction, etc. Recent advances by Alman’s lab and other government and private partners include:
 
-**​[\-Source-](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/reh8hohq3g8z94a2/aHR0cHM6Ly9lcHMubGVlZHMuYWMudWsvbWVjaGFuaWNhbC1lbmdpbmVlcmluZy1yZXNlYXJjaC1mdW5jdGlvbmFsLXN1cmZhY2Vz)**​
+\- A corrosion-resistant refractory brick for slagging gasifiers.
 
-**Corrosionists innovate!**
+\- A computational method to optimize heat treatments of large-scale castings from complex heat-resistant alloys.
 
-The former NACE International, currently AMPP, has announced the 40 finalists of its MP-s Corrosion Innovation of the Year Awards. Winners will be announced at the CORROSION 2021 Conference next April. Eligible are corrosionists, companies, organizations, and governments from around the world. The following are the subjects considered, and some examples arbitrarily picked from the list of finalist:
+\- A sensor technology to monitor ingot production during vacuum arc remelting.
 
-**\- Coatings & linings:** “Smart, Sustainable Corrosion Inhibitors” by **[Hexigone](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/08hwh9hm938r0eil/aHR0cHM6Ly93d3cuaGV4aWdvbmUuY29tLw==)**.
+\- A process for producing zirconium for nuclear-powered submarines.
 
-**\- Cathodic protection:** “Touchscreen Bidirectional GPS Current Interrupter” by **[Cathodic Technolog](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/vqh3hrhnvz5r27hg/aHR0cHM6Ly93d3cuY2F0aG9kaWNwcm90ZWN0aW9uZGN2Z2luc3RydW1lbnRzLmNvbS8=)y**.
+\- A coronary stent made from platinum-chromium alloy, thin, visible on X-ray, highly flexible, with higher corrosion resistance, and optimized long-term stability within the body.
 
-**\- Materials & design:** “High-Strength Austenite for Additive Manufacturing” by **[DEW Specialty Steel GmbH & Co.KG.](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/l2hehmhon8g75mh6/aHR0cHM6Ly93d3cuZGV3LXN0YWhsLmNvbS9lbi9ob21l)​**
+\- A titanium alloy for personal body armor and a variant to protect vehicles from explosive device blasts.
 
-**\- Instrumentation:** “iLINE Dig Manager” by **[Lake Superior Consulting](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/dpheh0hqol3nzptm/aHR0cHM6Ly93d3cubHNjb25zdWx0aW5nLmNvbS8=)**, Shawcor.
+Examples of current research are:
 
-**\- Testing:** “Differential Reflectometry Mapping” by **[HEURISTECH](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/e0hph7hkl8xo9du8/aHR0cHM6Ly93d3cuaGV1cmlzdGVjaC5ldS8=)** and Texas A&M University.
+\- A Fe-9Cr ferritic/martensitic steel for extreme environments.
 
-**\- Modeling/risk assessment:** “Water Main Breaks and Corrosion” by **[Robert A. Leishear](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/7qh7h8h06rg5veaz/aHR0cHM6Ly93d3cucHJvamVjdG1hbmFnZW1lbnQuY29tL3Byb2ZpbGUvUm9iZXJ0TGVpc2hlYXIv)**.
+\- Several Ni-super alloys concepts.
 
-**\- Mitigation technologies:**
+\- High-entropy alloy development for energy applications.
 
-**\- Other: “**Tethered Aerial Robotic Drone for Visible Surface Cleaning and Removal of Nonvisible Contamination on Elevated Structures” by **[Apellix](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/owhkhqh462zd3ziv/aHR0cHM6Ly93d3cuYXBlbGxpeC5jb20v)** ().​
+​**​[\-Source-](https://www.powermag.com/forging-materials-with-the-right-stuff-for-tomorrows-energy-systems/?oly_enc_id=6133H9763701C8A)** ​\
+​
 
-**​[\-Learn More-\
-​](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/z2hghnhokqgx49sp/aHR0cDovL21wLWlubm92YXRpb24tYXdhcmRzLndlYmZsb3cuaW8vMjAyMS1hd2FyZC1ub21pbmVlcw==)​**
+**Protecting alloys for beautiful artwork**
 
-**Monitoring risk with the coating color**
+A Ph.D. research developed at the National Center for Metallurgical Research and endorsed by Carlos III University, in Madrid, Spain, was defended at the end of 2020 by Dr. Ana Crespo. The research dealt with the study of accelerated formed patinas on weathering steel contemporary sculptures. A summary of the thesis, given by the author, shows the relevance of pretreatment as a good practice in weathering steel selection and use: “Accelerated patinas are those that have been created with chemical treatments applied on the surface of weathering steel as part of the creative process of the artists. Although this is a widespread practice in contemporary art, there are no studies about the influence that accelerated patinas may have on the artwork's conservation. This Ph.D. focuses on accelerated patinas' evolution to an urban atmosphere for 24 months; during this time, a full characterization of the rust layer, electrochemical properties, and aesthetical properties of the patinas have been monitored. The starting hypothesis was that accelerated patinas are a detriment to the conservation of the artwork. However, after 24 months of atmospheric exposure, it has been concluded that, in an urban atmosphere, these patinas are even beneficial. They act as a barrier against corrosion, and the initial corrosiveness effect of the chemicals diminishes as time goes by. Besides, in cross-section Raman mapping, ferrihydrite associated with high chromium concentration has been identified in the corrosion layer's inner part. This phase is difficult to characterize due to its small crystal size, and it may play an important role in the corrosion process; based on the literature and the results obtained, a new intermediate step of the corrosion mechanism in weathering steel has been formulated”.
 
-EMPA, the Swiss Federal Laboratories for Materials Testing and Research, has announced the invention, in a partnership with the Swiss Federal Institute of Technology in Zurich - **[ETH Zurich](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/p8heh9h92nvo33uq/aHR0cHM6Ly9ldGh6LmNoL2VuLmh0bWw=)**, of a system of various layers of fibers useful in applications as color-changing coating with temperature, able to diagnose damage to climbing ropes, safety equipment and so on.
+**​**​**[\-Read More-](https://digital.csic.es/handle/10261/226260)**​\
+​
 
-**​[\-Read More-](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/x0hph6hnp5g0rph5/aHR0cHM6Ly93d3cuZW1wYS5jaC93ZWIvczYwNC9zbWFydGUtZmFzZXJu)**
+**Digitalizing O&G industry**
+
+Petrobras, the Brazilian public company specializing in the oil, natural gas, and energy industry, has awarded Baker Hughes a contract to expand digital solutions and reduce risk and emissions across its sites in the Country. Baker Hughes is an energy technology company based in the USA which will be in charge of support Petrobras’ thermal plants; refineries; gas treatment units; production plants; offshore platforms; floating production, storage, and offloading units (FPSO) with its hardware and software technologies, ensuring that the latest regulatory requirements are achieved. The order includes flare monitoring and calibration technologies, cybersecurity and remote monitoring services, and interconnected machinery protection systems and sensors.
+
+​
+
+**​[\-Learn More-](https://www.bakerhughes.com/company/news/baker-hughes-secures-order-petrobras-expand-digital-capabilities-and-reduce-emissions)**
 
 - - -
 
 # Jobs
 
-**\
-​[Caring sophisticated process engineering assignments](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/dpheh0hqol3n4kfm/aHR0cHM6Ly9qb2JzLmRhbmFoZXIuY29tL2dsb2JhbC9lbi9qb2IvUjExMjkyMjkvU2VuaW9yLVByb2R1Y3QtRW5naW5lZXI=)** **Florida, USA.**
+​**[Educating the next Chemical and Petroleum Engineers](https://employment.ku.edu/assistant-teaching-professor-chemical-petroleum-engineering/18161br)** **Kansas, USA.**
 
-Pall is a global company aimed at providing filtration, separation, and purification solutions, covering a fan of life science applications to industrial ones. The company is seeking a senior product engineer for its branch in Pensacola, Florida, USA. Minimum requirements include a BS/BA in chemical engineering or equivalent and eight or more years of experience dealing with high-quality web polymers. The incumbent will be responsible for planning, executing, and managing product design, process development, material testing, material changes, continuous improvement, and product/process validation.
+**Position:** Assistant Teaching Professor - Chemical & Petroleum Engineering
 
-**​[Lead Inspection Engineer](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/e0hph7hkl8xopwb8/aHR0cHM6Ly93d3cuaW5lb3NvcHBvcnR1bml0aWVzLmNvLnVrL2pvYi9sZWFkLWluc3BlY3Rpb24tZW5naW5lZXItY29udHJhY3QtMTA3Ni5hc3B4)** **Grangemouth, UK.**
+**Seeker:** University of Kansas
 
-INEOS, a global chemical company, seeks a professional to be in charge of the asset inspection strategy in its new energy plant in Grangemouth, UK. Some of the basic requirements are Mechanical or Materials Engineer with ten or more years of experience in service inspection of pipelines and vessels and power plant operation in high hazard sites. The critical role will be to support the project demand for delivering the mechanical asset inspection strategy for the project in compliance with statutory regulations and business goals. To provide, implement, develop and manage the inspection program.
+**Location:** Lawrence, Kansas, USA
 
-**​[Sabbatical stay in the UK](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/7qh7h8h06rg5kmcz/aHR0cHM6Ly9yb3lhbHNvY2lldHkub3JnL2dyYW50cy1zY2hlbWVzLWF3YXJkcy9ncmFudHMvcm95YWwtc29jaWV0eS13b2xmc29uLXZpc2l0aW5nLWZlbGxvd3NoaXAv)** **London, UK.**
+**The basic profile of the candidate:**
 
-The Royal Society, UK, offers an excellent opportunity to candidates of any nationality to spend a sabbatical year in a UK University or research institution. The visiting fellowship’s primary purpose is to “foster international collaborative links and enriching scientific research in the host organization as well as the wider UK science base.” The minimum stay must be three months with a maximum of 12 months, with the flexibility of distributing over two years. Also, funding can be used flexibly, covering bursary for the visiting fellow and research expenses up to £125,000 in total. Application deadlines for the two established rounds are:
+\- Education: A Ph.D. Degree in Chemical or Petroleum Engineering or closely related field
 
-\- Wednesday, March 17th, 2021 (currently open).
+\- Technical skills: Ability to work with students, faculty, and administrators; and interest in pedagogical design and improvement in course teaching.
 
-\- Wednesday, July 14th, 2021 (to be opened on 19.05.2021).
+**Job description:** Teaching at theundergraduate and graduate levels,contributions to the course improvement, and perform service to the Institution.
+
+​**Attractive business opportunity in cathodic protection**
+
+Our Colleague Abdullah Alqarni, owner of Saham Cathodic Protection Manufacturing Company, based in Dhahran, Dammam metropolitan area, Saudi Arabia, is looking for partners to rocket his enterprise. According to Abdullah’s message, one of the Company’s investors asks for a technical partner involved with sacrificial anode applications, plant equipment, technical assistance, trained labor, and labor training.
+
+Contact: [Info@sahamcpc.com](mailto:Info@sahamcpc.com)​
+
+​**[Are you interested in a research stay in Germany?](https://daad.reflact.com/info-sessions2021/event/registration.html)**
+
+The German Academic Exchange Service (DAAD) is organizing an online meeting about “Research in Germany.” Participants will be representatives from German universities and research and funding institutions. Some of the issues to discuss are:
+
+\- Career and funding opportunities for Ph.D. programs.
+
+\- Funding and career opportunities for postdocs and early researchers.
+
+\- Junior research group leaders: Careers at research institutes.
+
+\- Opportunities for postdocs at universities and research centers.
+
+\- Different ways to a professorship.
+
+\- International researchers living in Germany: Visa, work permit, social security, housing, language, and mobility program.
+
+**Date:** Friday, February 26th, 2021.
+
+**Time:** 09:00 - 11:30 EST (GMT – 5)**\
+​**[](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/dpheh0hqol3n4kfm/aHR0cHM6Ly9qb2JzLmRhbmFoZXIuY29tL2dsb2JhbC9lbi9qb2IvUjExMjkyMjkvU2VuaW9yLVByb2R1Y3QtRW5naW5lZXI=)
 
 - - -
 
 # Networking & Knowledge Exchange
 
-**​​[21st International Corrosion Congress - ICC](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/owhkhqh462zdk8hv/aHR0cHM6Ly9hYnJhY28ub3JnLmJyL2ljYy1jb25ncmVzczIwMjEvZW4v) Virtual.**
+**​[Refinery coatings.](https://www.twi-global.com/media-and-events/events-diary/qualification-of-coatings-for-refinery-processes) Virtual**
 
-New format. On behalf of the **[International Corrosion Counci](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/z2hghnhokqgx4otp/aHR0cHM6Ly9pY2MtbmV0Lm9yZy8=)l**, the Brazilian Association of Corrosion – **[ABRACO](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/p8heh9h92nvo3zbq/aHR0cHM6Ly9hYnJhY28ub3JnLmJyLw==)** is organizing the next International Corrosion Congress. In this opportunity, the ICC will be held together with the most representative Brazilian corrosion and anticorrosion event – INTERCORR. Based on the Corona situation, the Organizing Committee has decided to postpone the conference until July 20th to 23rd, 2021. Furthermore, they have decided to move the Congress to a virtual format. Also, there are other changes oriented to take the maximum advantage of the new situation. New deadlines are:
+TWI invites to attend a webinar entitled “Qualification of Coatings for Refinery Processes,” mainly oriented to materials engineers and process plant managers responsible for maintaining and repairing oil and gas refineries and related process plants. The speech will be given by Dave Harvey, Technology Fellow on Surface Engineering. Subjects to be presented include the TWI’s recent experience in testing and evaluating thermal spray coatings, paints & ceramic coatings, test coupons, process environments simulation, and applications on sour gas stripping vessels.
 
-**\- Abstracts submission:** Up to Sunday, February 28th, 2021.
+**Date:** Thursday, February 24th, 2021.
 
-**\- Acceptance of abstracts:** Up to Wednesday, 31st, 2021.\
-​\
-​**[Maintenance and Intelligent Asset Management.](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/x0hph6hnp5g0rea5/aHR0cHM6Ly9mZWRlcmF0aW9uLmVkdS5hdS9zY2hvb2xzL3NjaG9vbC1vZi1lbmdpbmVlcmluZy1pbmZvcm1hdGlvbi10ZWNobm9sb2d5LWFuZC1waHlzaWNhbC1zY2llbmNlcy9yZXNlYXJjaC9jb25mZXJlbmNlcy9pbnRlcm5hdGlvbmFsLWNvbmZlcmVuY2Utb24tbWFpbnRlbmFuY2UtYW5kLWludGVsbGlnZW50LWFzc2V0LW1hbmFnZW1lbnQtaWNtaWFtMjAyMQ==)** **Victoria, Australia.**
-
-The School of Engineering, Information Technology and Physical Sciences of the Federation University, in Ballarat, Melbourne (Victoria – Australia), supported by Asset Management Council, Australia and Manipal University, India, will be held the International Conference on Maintenance and Intelligent Asset Management (ICMIAM2021), from February 7th to 10th, 2021. The program of the event includes presentations, workshops, and technical tours. Subjects included are digital asset management, lifecycle cost analysis, water asset management, industrial IoT, reliability & resilience, etc.\
+**Time:** 11:00 - 11:45 GMT\
 ​
 
-**​[Fracture matters.](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/6qheh8hp5mqeknio/aHR0cHM6Ly93d3cuam91cm5hbHMuZWxzZXZpZXIuY29tL3RoZW9yZXRpY2FsLWFuZC1hcHBsaWVkLWZyYWN0dXJlLW1lY2hhbmljcy93ZWJpbmFycy90YWZtZWMtb24tbGluZS1zZW1pbmFy) Virtual**
+**​[Solutions for an energy transition problem.](https://register.gotowebinar.com/register/28630594808019469?source=MP+Mag+Social+Media+Post+-+Anchor+Bolt+Feb+2020) Virtual**
 
-Following the exciting series of speeches organized by Prof. Luca Susmel, Editor-in-Chief of “Theoretical and Applied Fracture Mechanics” - TAFMEC, and supported by Elsevier, the next speaker will be Prof. Reinhard Pippan, from the Erich Schmid Institute of Materials Science of the Austrian Academy of Sciences, Leoben, Austria. The title of the seminar is “Crack closure: frequently asked questions.” Prof. Pippan is a senior academic and expert on plasticity, fracture and fatigue of advanced materials, and nanomaterials' synthesis by severe plastic deformation.
+DENSO, a corrosion prevention and sealing technology Company, is organizing a webinar on “How to Prevent Corrosion of Wind Turbine Anchor Bolts Using the Denso Petrolatum System.” The purpose of the seminar is to discuss how to prevent corrosion of wind turbine anchor bolts and other areas of these structures subject to corrosion, how Denso products work, and their application guidelines. The speaker will be Thomas Keadle, Technical Manager, and NACE CIP Level 2.
 
-**Date:** Friday, February 5th, 2021.
+**Date**: Tuesday, February 16th, 2021.
 
-**Time:** 9:00 (GMT).
+**Time**: 11:00 - 11:30 EST (GMT – 5)\
+​
 
-[](https://marinecorrosionforum.co.uk/attend/ola/services/exposure-of-various-polymer-lined-carbon-steel-pipe-sections-to-a-sour-hydrocarbon-fluid-at-a-maximum-service-temperature-methodology-and-observations?olaT=2021-01-21T12%3A00%3A00.000Z&olaR=838673)
+**​[Another facet of new materials protection challenges.](https://asmontario.org/world-class-speaker-series-jennifer-domanowski/) Virtual**
 
-<span>Photo by <a href="https://unsplash.com/@mikael_k?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mikael Kristenson</a> on <a href="https://unsplash.com/s/photos/university-class?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+The future webinar of the free online series organized by the Ontario (Canada) Chapter of ASM, entitled “Materials Challenges in Space,” will be given by Jennifer Domanowski from the Materials Engineering Branch of NASA Goddard Space Flight Center. Currently, Domanowski is one of the more renowned young Materials Engineers in the USA, received several recognitions because of her contributions to the aerospace industry. Items to be discussed include some of the unique materials challenges in space (severe temperatures, vacuum, unexpected sources of contamination, and other factors) and cover some of the extensive testing required for materials to prove that they can survive in the harsh conditions of the final frontier.
+
+**Date**: Wednesday, February 17th, 2021.
+
+**Time**: 20:00 EST (GMT – 5)
+
+<span>Photo by <a href="https://unsplash.com/@brett_jordan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Brett Jordan</a> on <a href="https://unsplash.com/s/photos/stainless-steel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
