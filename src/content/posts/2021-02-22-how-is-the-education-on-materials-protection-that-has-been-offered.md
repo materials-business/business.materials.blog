@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "# HOW IS THE EDUCATION ON MATERIALS PROTECTION THAT HAS BEEN OFFERED?"
+title: " HOW IS THE EDUCATION ON MATERIALS PROTECTION THAT HAS BEEN OFFERED?"
 slug: /02/02/2021/how-is-education-on-materials-protection-that-has-been-offered
 date: 2021-02-02 07:05
 description: Frostudents’the perspective, one other goal of the platform is to
