@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: How is the education on materials protection that has been offered?
+title: "# HOW IS THE EDUCATION ON MATERIALS PROTECTION THAT HAS BEEN OFFERED?"
 slug: /02/02/2021/how-is-education-on-materials-protection-that-has-been-offered
 date: 2021-02-02 07:05
 description: Frostudents’the perspective, one other goal of the platform is to
@@ -114,7 +114,7 @@ EMPA, the Swiss Federal Laboratories for Materials Testing and Research, has ann
 
 # Jobs
 
-**​​[](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/Chemistry-Department/Managing-Director--Center-for-Sustainable-Separations-of-Metals_JR00026980)​[Caring sophisticated process engineering assignments](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/dpheh0hqol3n4kfm/aHR0cHM6Ly9qb2JzLmRhbmFoZXIuY29tL2dsb2JhbC9lbi9qb2IvUjExMjkyMjkvU2VuaW9yLVByb2R1Y3QtRW5naW5lZXI=)** **Florida, USA.**
+**​​**[](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/Chemistry-Department/Managing-Director--Center-for-Sustainable-Separations-of-Metals_JR00026980)**​[Caring sophisticated process engineering assignments](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/dpheh0hqol3n4kfm/aHR0cHM6Ly9qb2JzLmRhbmFoZXIuY29tL2dsb2JhbC9lbi9qb2IvUjExMjkyMjkvU2VuaW9yLVByb2R1Y3QtRW5naW5lZXI=)** **Florida, USA.**
 
 Pall is a global company aimed at providing filtration, separation, and purification solutions, covering a fan of life science applications to industrial ones. The company is seeking a senior product engineer for its branch in Pensacola, Florida, USA. Minimum requirements include a BS/BA in chemical engineering or equivalent and eight or more years of experience dealing with high-quality web polymers. The incumbent will be responsible for planning, executing, and managing product design, process development, material testing, material changes, continuous improvement, and product/process validation.
 
