@@ -1,96 +1,139 @@
 ---
 template: blog-post
-title: STAINLESS STEEL; A FACT? - PART ll
-slug: /16/02/2021/stainless-steel-a-fact-part-ll
-date: 2021-02-16 07:05
-description: et’s begin by recapping what we talked about in the last article.
-  Steel was **the material** of the 19th Century, and stainless steel – SS - was
-  the “noble,” or somewhat virtuous, the material of the 20th Century. Since its
-  birth in the 1910s, it isn't easy to imagine a day going by without us using
-  some form of SS. From as early as any of us can remember, SS has been in our
-  kitchens and on our dining-tables, in hospitals, at the gym, as urban
-  furniture, architecture, cars, and so on. SS is safe, hygienic (i.e., easy to
-  wash and sterilize- a great trait nowadays!), toxin-free, durable,
-  aesthetically appealing, and easy to maintain.
-featuredImage: /assets/louis-hansel-shotsoflouis-vcuhry8yniy-unsplash.jpg
+title: STAINLESS STEEL; A FACT? - PART lll
+slug: /23/02/2021/stainless-steel-a-fact-part-lll
+date: 2021-02-23 07:05
+description: The most globally recognized innovation concept is the Organization
+  for Economic Co-operation and Development measures – OECD. According to their
+  latest edition of the Oslo Manual a general definition for innovation is a new
+  or improved product, or process (or a combination thereof) that differs
+  significantly from the unit’s previous products or processes and that has been
+  made available to potential users (product) or brought into use by the unit
+  process. According to that definition, the possibilities of innovating
+  stainless steel (SS) are directly associated with successfully introducing new
+  products into the market or novel ways of producing SS.
+featuredImage: /assets/dan-dennis-fxnop5vpba4-unsplash.jpg
 ---
 # **Materials.Business Weekly ⚙️**
 
-*February 16, 2021*
+*February 23, 2021*
 
-> Quote of the week: “I am a big fan of materials science.” — [Elon Musk](https://www.youtube.com/watch?v=YAtLTLiqNwg&feature=youtu.be)​
+> “You know, rust is just oxidation. The same chemical process as fire. Oxygen interacts with steel, electrons drift from one element to the other. So really, rust is a slow fire. Isn't that weird? Water causes something to burn.” — Elliot Wake (US writer, 1982 - , formerly known as Leah Raeder).​
 
 - - -
 
 # From The Editor's Corner
 
-# STAINLESS STEEL; A FACT? - PART ll
+# STAINLESS STEEL; A FACT? - PART lll
 
-**STAINLESS STEEL; A FACT? - PART ll**
+**Bridging knowledge generation and market products**
 
-**A noble family**
+​The most globally recognized innovation concept is the Organization for Economic Co-operation and Development measures – OECD. According to their latest edition of the **[“Oslo Manual,”](https://www.oecd-ilibrary.org/science-and-technology/oslo-manual-2018_9789264304604-en;jsessionid=QNh0FDSB-XZ4us1Jwl82EjYV.ip-10-240-5-27)** a general definition for innovation is **“a new or improved product, or process (or a combination thereof) that differs significantly from the unit’s previous products or processes and that has been made available to potential users (product) or brought into use by the unit (process).”** According to that definition, the possibilities of innovating stainless steel (SS) are directly associated with successfully introducing new products into the market or novel ways of producing SS. The company **[QuesTek Innovations LLC](https://www.questek.com/)**, for example, recently announced the launch of a 17-4 SS powder for powder-bed fusion in 3D manufacturing of complex, high-strength parts for aerospace, defense, medical, chemical processing, and energy onto the market. The secondary raw material in this product helps the SS avoids the high-temperature solution heat-treatment process. However, it still gives the SS equal or improved corrosion and fatigue performance than the SS produced with the currently available powders. Pathways for innovation are endless, but steps into these knowledge paths have usually been crossed before. Sometimes, it is about inventing, sometimes it’s researching, and other times it’s about the combination of researching and inventing together. And most times, the final result is protected by patents. Therefore, when we look to the future of SS, it is exciting and essential to look at the patenting process during the last few inventions and at the current, future-planned, and required research. In other words, we need to review the expected new developments and subsequent gaps that may form.
 
-Let’s begin by recapping what we talked about in the last article. Steel was **the material** of the 19th Century, and stainless steel – SS - was the “noble,” or somewhat virtuous, the material of the 20th Century. Since its birth in the 1910s, it isn't easy to imagine a day going by without us using some form of SS. From as early as any of us can remember, SS has been in our kitchens and on our dining-tables, in hospitals, at the gym, as urban furniture, architecture, cars, and so on. SS is safe, hygienic (i.e., easy to wash and sterilize- a great trait nowadays!), toxin-free, durable, aesthetically appealing, and easy to maintain. SS is both corrosion resistant and also heat and fire-resistant and is referred to as a heat-resistant alloy. Besides its good mechanical properties, the reasons mentioned above explain its widespread use across major industries dealing with aqueous corrosion. Additionally, SS exhibits good behavior when high-temperature services are required (good oxidation resistance, creep, minor microstructure changes, and erosion-resistant), such as in the energy (nuclear, solar, coal, gas, etc.), chemical, and heavy industry.
+​**Patents supporting the coming innovations**
 
-​\
-​**An overview of the fundamentals of SS**
+As mentioned in the previous article, USPTO patented inventions concerning SS during the last decades are mainly related to new products and processes. In all cases, it is easy to identify what the commercial purpose of an upcoming innovation is. However, the final judge to determine the success of the newfound invention is, of course, the market. Looking back at the patent examples we had before, let’s summarize and bold points of interest in such patents:
 
-SS is a group of steels that contain at least 10.5% Cr. This element can be quickly oxidized, creating a regenerative and passivating surface film of Cr2O3, highly adherent, transparent, and thin (2.0-5.0 nm). Usually, a good and protective film on the SS is formed if temperature and corrosive environment are moderated. Some other alloying elements, such as Ni, are often used. According to the percentage of alloying, microstructure and other factors consequently change, thus giving rise to the different properties of SS, categorized by families. The most common categories of SS, according to microstructure at room temperature, are as follows:
+**\- Patent: “***Austenitic stainless-steel sheet for exhaust component having excellent heat resistance and workability, turbocharger component, and method for producing austenitic stainless-steel sheet for exhaust component.*”
 
-​- Austenitic: Contains at least 16% Cr and 6% Ni. The primary type is 304 or 18-8. Type 301 is also widely used.
-
-\- Ferritic: 10.5 to 18% Cr. Grades as 409 and 430 are some examples.
-
-\- Martensitic: Cr is the main alloying-element, but contains a lower percentage than ferritic and a higher C content. Some examples include grades 410, 416, 420, and 440.
-
-\- Duplex: A mixture of austenite and ferrite. Examples are types 2205 and 2304.
-
-\- Precipitation Hardening, PH: Cr-Ni steels can develop very high tensile strengths by the microstructural modification of their martensitic constituent. The typical example is type 630 or 17-4 PH, containing 15-17.5% Cr, 3-5% Ni, and 3-5% Cu.
-
-​When talking about the alloying elements' primary role, we found that Cr forms the passivation film, retarding the inward diffusion of oxygen towards the steel substrate, thus obstructing any further attack. Meanwhile, Ni increases ductility, high-temperature strength, and resistance to Cr2O3 decomposition by carburization or nitridation. SS with Mo content lower than 3% increase creep strength. B also increases creep resistance. Small and controlled amounts of N and C enhance creep strength too. Ti and Nb promote the sigma-phase formation and increase strength in austenitic SS. Small earth metal additions such as cerium or lanthanum significantly improve film adherence, mainly under thermal cycling exposure.
-
-​**SS is not stainless**
-
-​**Breaking the passive film**
-
-Bearing in mind the protection mechanism, SS has limitations when the passivation film either is not well-formed or fails for any reason, the SS then becomes corroded. Like other passivated metals, SS is also prone to corrosion by pitting. This situation frequently happens in conditions with chloride exposure because the small Cl- ion can penetrate the passivation film. The depolarization of a small area on the substrate occurs, and a dissolution process starts. It is a situation where the relationship between cathodic and anodic areas becomes very favorable for a quick penetration attack in a localized point. Then, the rest of the pitting mechanism happens. Such an attack can explain all cases of SS corrosion involving a very aggressive environment. Another problem that concerns the film’s breaking is related to erosive stresses that avoid the passivation, thus allowing the substrate’s exposure to a permanent attack by the corrosive environment. In the end, a simultaneous effect of corrosion and mechanical efforts results in a problem of corrosion/erosion.
-
-​**Sensitizing**
-
-Another risk appears when some microstructure regions become depleted in Cr due to factors such as high-temperature diffusion and reactions with C or N that form carbides or nitrides. The affected region of the SS becomes “sensitized,” and corrosion subsequently happens. Such occurrences related to the SS behavior at high temperatures become common when SS is welded without following recommended practices and the neighbor region turns depleted on Cr. Therefore, SS welding has become a severe matter of concern and is a topic of intensive research. In most cases, there are solutions. For example, corrosion resistance at temperatures as high as 1000 °C can be achieved with Cr contents between 25 and 30%, while carburization can be limited using extra-low C contents (grades “L”) or higher Ni concentrations.
-
-​**Stress Corrosion Cracking**
-
-Sometimes, SCC happens, where one of the inductors is the chloride ion, but the starting condition is related to local residual stresses into the SS. Here, duplex SS shows better behavior resisting corrosive attack and supporting SCC better due to its mixture of ferrite and austenite. This mixture allows the avoidance of the crack’s propagation after its initiation. Sometimes, heat treatment is a suitable solution, too.
-
-Conditions like a crevice, other concentration cell possibilities, or galvanic couples are additional risks for SS corrosion. Taking additional anticorrosive measures is useful more of the time. The starting point usually is a proper design and selection of materials. Then, counter measurement technologies like **[cathodic protection](https://doi.org/10.1080/19443994.2014.939499)**, **[hardening](https://www.expanite.com/)**, and **[special coatings](https://www.kloecknermetalsuk.com/latest-news/product-spotlight-colour-stainless-steel/)**, which have been developed in the last 3-4 decades, are then applied accordingly. And finally, to have a real stainless-steel means to have adequate training in executing the right project design, choosing the suitable material for the desired application, and how to use and care for the SS. All of these are crucial steps for “well-behaving” SS, particularly for critical conditions.
-
-**Occurring developments**
-
-**Products**
-
-Looking for a ‘better behaving’ SS, researchers in companies and academics are hard at work in increasingly demanding service conditions. Regarding the market, we found new products like Sanicro® 35. According to the **[manufacturer](http://event.on24.com/wcc/r/2564464/078AECFE4E30482A3E3DF3235F3E17EB)**, it is an alloy with a nominal composition of 35% Ni, 27% Cr, 6.5% Mo, 0.8% Mn, 0.3% N, 0.2% Cu, and ≤0.05% Si, ≤0.030% C, ≤0.030% P, ≤0.020% S. The resulting SS grade is characterized by its good behavior in conditions under risk of pitting and crevice corrosion, SCC, high acidic and caustic environments, erosion, and increased mechanical efforts. Products like the above come from past research, most of the time reported as patents or papers. The following point is just one example of the efforts that have been done over the last decades, confirming that although SS is ‘old’ material, it still has a bright future.
-
-​\
-​**Inventions**
-
-A quick search in the US Patent Office database, USPTO, shows some impressive figures. Using the keywords such as “stainless” and “steel,” the total number of granted patents since the year 1790 (when the first USA Patent Act was established) is currently sitting at 1717. Between 1976 and now, 1597 patents have been awarded, with the latest one granted on February the 2nd, 2021. That means only 120 patents about SS were granted before 1976. Furthermore, when looking at these patents’ subjects, it is easy to identify that the inventions during the last decades are mainly related to new: alloys, products, processes, and applications in an exciting approach to the emerging technologies. To give an idea about the novelty of these patents, the following are the summaries of some of them (where some of the points of interest are in **bold**):
-
-​**\-Patent: “***Austenitic stainless-steel sheet for exhaust component having excellent heat resistance and workability, turbocharger component, and method for producing austenitic stainless-steel sheet for exhaust component*.”
+\- A heat-resistance alloy achieved by the following composition: 0.005 to **0.2% C**, 0.1 to **4% Si**, 0.1 to **10% Mn**, 2 to 25% Ni, 15 to 30% Cr, 0.01 to less than 0.4% N, 0.001 to 1% Al, 0.05 to 4% Cu, 0.02 to 3% Mo, 0.02 to 1% V, 0.05% or less P, and 0.01% or less S.
 
 **\- Patent:** “*Ferritic stainless-steel foil.*”
 
-**\- Patent**:“*Stainless steel substrate.*”
+\- A ferritic SS foil **high in stretch-expand formability and further small in anisotropy of deformation concerning respect to stretch-expand forming useful for producing battery cases.**
 
-​Additionally, looking at the applications over the last 20 years shows a list of 1408 submitted patents, where the latest one was submitted on February 4th, 2021. Some of the latest applications include (where the points of interest are in **bold**):
+**\-Patent**:“*Stainless steel substrate.*”
 
-**\- Application**: “*Ferritic stainless steel*.”\
+**\- A SS substrate used for a fuel cell separator comprises Nb, without any intermetallic precipitate, and is excellent in corrosion resistance.**
+
+Now, let’s try this again, with recent patent applications:
+
+​**\- Application**: “*Ferritic stainless steel.*”
+
+An SS steel having excellent **creep resistance and thermal fatigue resistance**, with the following composition 0.020% or less C, 0.1 to 1.0% Si, 0.05 to 0.60% Mn, 0.050% or less P, 0.008% or less S, **0.02 to 0.60% Ni**, 0.001 to 0.25% Al, 18.0 to 20.0% Cr, **0.30 to 0.80% Nb**, 1.80 to 2.50% Mo, 0.015% or less N, **0.002 to 0.50% Sb**.
+
 ​**\- Application**: “*New duplex stainless steel.*”
 
-**\- Application**: “*Stainless Steel Powder for Producing a Shaped Article*.”\
-Behind the upcoming and future patents and products on the market, much more research is needed before. What are researching now and what issues must be investigated are themes of interest thinking about the future of SS. Right now is the perfect time to go more in-depth on this topic.
+A SS with the following composition: less than 0.03% C; less than 0.60% Si; 0.40 to **2.00% Mn**; less than 0.04% P; less than or equal to 0.01% S; more than 30.00 to 33.00% Cr; 6.00 to 10.00% Ni; 1.30 to 2.90% Mo; **0.15 to 0.28% N**; **0.60 to 2.20% Cu**; **less than 0.05% Al**.
 
-\
+​**\- Application**: “*Stainless Steel Powder for Producing a Shaped Article.*”
+
+A **SS powder that can be used in a powder-shaping method involving a rapid melting process and a rapid cooling process for solidification** to produce a shaped article that is less susceptible to solidification cracking. The disclosure composition of the new SS is: 10.5 – 20.0% Cr, **1.0 – 15.0% Ni, 0.0 – 2.0% C + Si + Mn + N, 0.0 – 5.0% Mo + Cu + Nb**, and 0.0 – 0.03% P + S.\
+​
+
+**Research supporting upcoming patenting**
+
+One of the breakthrough innovations in the 20th century, resulting from in-depth research, was the invention of SS. Inevitably, due to a wave of additional research, many other innovations happened within the following years, thus allowing for a better way of life worldwide. Now, in the forefront of the arriving challenges in a (nearly)post-COVID-19 world, i.e., the “New Normal,” when people demand a better and sustainable living environment for all, SS emerges as one of the more promising and useful materials. Therefore, further knowledge must be sought out to overcome some old and new limitations. Assessing SS under the simultaneous merge of the challenges imposed by the 4th Industrial Revolution, the current social & economic urgencies, and the sustainability & climate change; has brought up several issues regarding its current limitations. According to Circular Economy’s criteria, the matters to be considered by researchers and innovators include:
+
+​- A cheaper SS. An issue directly related to the cost of the alloying elements, the time, and the energy required for the SS production.
+
+\- A reduction in the product's manufacturing cost would also be essential.
+
+\- To increase the lifespan of the SS product as much as possible.
+
+\- In other words, to improve the SS behavior against highly corrosive environments.
+
+\- Furthermore, extending the lifespan of SS as much as possible also includes reuse, remanufacturing, and recycling options.
+
+\- To fix a global goal of zero disposal of SS.
+
+​Nevertheless, current research shows some promises that could alleviate SS limitations. It is quite evident that the advantages achieved by emerging technologies such as nanoscale microscopy, improved spectroscopic options (e.g., synchrotron), photonics for a fast image caption, and lab automation could all be breakthroughs that we have been looking for. Furthermore, experimental methodologies like high-throughput screening and other new procedures, hardware & software tools recently developed for similar applications in chemical and pharmaceutical studies could also prove useful. Additionally, processes as rapid alloy prototyping turn the lab into a virtual factory, substituting experiments with tons of steel with just grams of samples instead. Hundreds of coupons are tested simultaneously instead of batches.
+
+​With these new techniques, the results include points that need to be considered we touched on earlier. Some other examples from papers related to SS in **[Corrosion Science](https://www.journals.elsevier.com/corrosion-science)** and some other journals during 2020 and 2021, and from the **[proceedings of CORROSION 2020](https://store.nace.org/online-conf-paper-subscription)** published by NACE International are as follows:
+
+​**\- Behavior in specific conditions.**
+
+**\-** A **[multi-analytical approach](https://doi.org/10.1016/j.corsci.2020.109206)** was carried out to study the formation of the oxide film on low Cr-content stainless steel in the presence of fluoride ions as a pickling agent at a temperature of 950 °C. Only iron oxide was dissolved, and hematite islands appeared on the top of the passivating film.
+
+\- **[Another paper](https://doi.org/10.3390/app10134472)** reports the development of a high-chromium ferritic SS strengthened by Laves phase precipitates promoted by the W content for high-temperature application in steam power plants.
+
+\- **[A broad study](https://doi.org/10.3390/ma13184171)** evaluated the properties of structural aircraft parts of 17-4 PH SS that are additively manufactured or repaired. The microstructure, density, chemical composition, and hardness were comparable to those of the counterpart wrought alloys. Nevertheless, problems concerning high standard deviation in hardness values, anisotropic geometrical distortion, and overbuild at top edges were observed.\
+​
+
+**\- A deeper understanding of the passivation process.**
+
+\- **[One paper gave](https://doi.org/10.1016/j.corsci.2020.109187)** a better explanation of the role of microstructural features (grain size, grain boundaries, and residual strain) on the formation of the passivating film.
+
+\- **[Another paper](https://doi.org/10.1016/j.corsci.2021.109277)** reported the study of the pit dissolution kinetics and repassivation. Researchers have since proposed a strategy for the development of new alloys.
+
+\- **[A study of the effect](https://doi.org/10.5006/3464)** of the α/γ-phase ratio on pitting in duplex SS concluded that initiation was not dependent on such a balance. The growth rate increases with the α-phase ratio, presumably due to a lower amount of Cr and its depletion around Cr nitrides.
+
+​**\- New procedures and their effect on the properties.**
+
+\- **[A recent paper](https://doi.org/10.1016/j.corsci.2021.109302)** reports the mechanism of pitting formation on SS 316L obtained by selective laser melting compared to a commercial wrought alloy. The critical pitting temperature was higher for the novel SS.
+
+\- **[A study devoted](https://doi.org/10.5006/3571)** to assessing the electrochemical behavior of additively manufactured 22Cr duplex SS and 25Cr super duplex SS produced by laser powder bed fusion has shown comparable results to their corresponding wrought alloys at room temperature.
+
+\- **[An investigation](https://doi.org/10.1557/jmr.2020.70)** on the wear and corrosion resistance of SS 316 prepared by laser melting deposition has concluded that microhardness and wear rate improved considerably compared to the conventional SS 316. And corrosion resistance was very similar.
+
+​**\- Effect of some novel alloying elements, treatments, and processes.**
+
+\- A high nitrogen SS (FeCrMnMo(C+N)) has been developed while looking for applications in the O&G industry where nonmagnetic conditions, like drill collars, are required (CORROSION 2020 Paper C2020-14552).
+
+\- The production of a carburizing or nitriding thick layer on a martensitic SS has shown a very high surface hardening and superior corrosion resistance, conserving a strong, tough, and ductile core. (CORROSION 2020 Paper C2020-14887).
+
+\- One research project has opened the door for new alloy concepts, and a lovely one is high-entropy alloys (HEA). Without any doubt, this is one of the future pathways for SS. A paper reports the development of multi-principal element alloys, including Fe, Cr, Mo, Ni, and Co, with good corrosion resistance and good mechanical properties (CORROSION 2020 Paper C2020-14816).
+
+​**\- Mechanisms of attack.**
+
+\- **[Microbially influenced corrosion](https://doi.org/10.1016/j.corsci.2020.108641)** - MIC is identified as one of the corrosion mechanisms with few answers yet. Despite a group of worldwide renewed authors, efforts had been not enough, and a holistic approach between management decisions and root causes is now proposed.
+
+\- With the growing attention to hydrogen as a fuel, issues concerning its interaction with SS growth have arisen. For instance, **[a study about the effect of H2](https://doi.org/10.1016/j.corsci.2020.109225)** on the passivation layer formation has been investigated.
+
+\- **[A research project](https://doi.org/10.1016/j.corsci.2020.109053)** has determined the effect of W on the crevice corrosion resistance of super duplex SS. It was found that both the crevice initiation and repassivation are improved with the W presence.
+
+**​The innovation gap**
+
+​Reading the above summaries and contrasting with the general challenges described before, it is easy to conclude that researchers, engineers, and companies must still consider many other issues. Limitations are most often associated with technical or physical problems, instead of also including environmental and social ones. As mentioned in one of the papers, sometimes the challenge is how to manage issues holistically. An extensive ‘brain-swap’ of existing and new knowledge directly related to the people in charge of caring for materials and equipment is, of course, a priority. These and other reasons prove that more SS research should be aligned with individual and collective needs. SS offers the opportunity of a new leap into the field of anticorrosive materials, and we must take advantage of the new arriving possibilities of design, processing, and handling. Examples of current research in progress, in different scenarios, include:
+
+​- A **[project](https://www.linkedin.com/posts/surface-engineering-tecnalia_stainless-passivation-activity-6760198993134817280-5J2v)** in charge of the European Space Agency, the TECNALIA research center, and the firm TUBACEX, dealing with SS cleaning and passivation procedures using eco-friendly substances.
+
+\- The project AFORMAR, which is being developed at the **[National Center for Metallurgical Research](http://www.cenim.csic.es/)** in Madrid, led by Prof. Carlos Capdevilla, and his Ph.D. students. They are looking for the development of martensitic SS containing 10-18%Cr-2-15%Ni-4-6%Alumina for large components in energy generation systems.
+
+\- In a partnership between the Fraunhofer Institute for Laser Technology, ArcelorMittal Bremen, and other companies and research institutions from Spain, Poland, and Germany, have started a pioneer **[project](https://www.ilt.fraunhofer.de/en/press/press-releases/2021/1-21-metal-recycling-projects-plus-and-revamp.html)** dealing with the detection and sorting of alloys in scrap, based on laser emission spectroscopy. A more effective and efficient SS recycling process can be found by identifying the alloys’ composition and properties.
+
+​Significant challenges like cheaper SS, de-alloying and elements recovery, lighter SS parts, easier welding processes, better behavior in increasingly harsh temperatures and corrosiveness, are some of the reasons why even more research and innovation regarding SS needs to be done.
+
 ​**Remember: Protection of materials and equipment is a profitable business!**
 
 **Prof. Carlos Arroyave, Ph.D. Editor.**
@@ -101,108 +144,100 @@ Behind the upcoming and future patents and products on the market, much more res
 
 # Materials Biz News
 
-**Trends on steelmaking**
+**An excellent opportunity for collaborative research**
 
-​**[Stahl + Eisen](https://www.stahleisen.de/)** has published the new 20th edition of the “Handbook of the European Iron and Steel Works.” This book is a source of current information about European steel corporations, including their profiles and recent developments on new technologies, materials, and products. Furthermore, statistics by country (production and trading) about raw materials and steel products are provided.
+The Corrosion Center of the Curtin University, Perth, Australia, is inviting industry partners worldwide to support a research project dealing with the study of commercial coating systems' behavior under harsh atmospheric corrosion conditions. The project is part of the Qatar Environment and Energy Research Institute (QEERI)—Hamad Bin Khalifa University (HBKU) and the Curtin University Corrosion Research alliance. Furthermore, the Norwegian University of Science and Technology (NTNU) will be taking part in this specific project. Researchers are looking for companies interested in placing the prepared test coupons across the globe.
 
-**​[\-Source-](https://www.stahleisen.de/product/handbuch-der-europaeischen-eisen-und-stahlwerke-20-auflage/)​**
+**​[\-Source-](https://curtin-corrosion-centre.com/news-events/news/an-international-effort-to-predict-coating-performance/)​**
+
+\
+​**Additive manufacturing is establishing itself as the great option**
+
+Demanding solutions as construction parts of a polar oil tanker are now printed. This is the result of a partnership between Sembcorp Marine (a specialized shipbuilder), ABS (a technology provider for the maritime sector), 3D Metal Forge (a manufacturer of 3D metallic parts), and ConocoPhillips (a global energy & petrol company operating fields in Alaska among others). As a result of this effort, they have announced the fabrication of a centrifugal pump shaft, a combined brine/air injector nozzle, and an effluent pump coupling device for the “Polar Endeavour” ship.
+
+**​[\-Learn More-](https://3dprintingindustry.com/news/robust-new-3d-printed-parts-installed-onboard-polar-endeavour-oil-tanker-184568/)​**
 
 ​\
-​**Proper management of risk is a profitable business**
+​**A new marvel of engineering to take care of amid a harsh environment**
 
-​**[ENGEN](https://www.engen.co.za/)**, a company member of the PETRONAS group, **[announced](https://twitter.com/Engen_SA/status/1334831429100957697/photo/1)** last December 4th a shutdown because a fire occurred at its refinery in Wentworth, Durban. It is the second-largest refinery in South Africa, with a capacity of 120.000 BPD. Last week, the National Parliament announced revoking the Engen operating permit until the refinery submits the investigation report and preventative measures to the authorities. According to the news, the cost of repairs is estimated at USD $55.000.000, and then the future of the refinery is not so clear.
+With two years in operation and after eight years of construction, the Hong Kong-Zhuhai-Macao Bridge – HZMB - is the longest bridge-cum-tunnel sea crossing globally. The bridge connects Hong Kong, Macau, and Zhuhai, in the Pearl River Delta, Southern China. It is 55 km long, comprising three cable-stay bridges, the longest one with 458 m long. The total main sea bridge is 29.6 km long. The rest of the structure includes four artificial islands and a 7 km undersea tunnel, with maximum deep of 45 m, as link roads. Some other figures about the work are a bridge deck area of 700.000 m2, covered by 420.000 tons of steel. The weight of the most prominent steel tower is 3.100 tons. HZMB was designed for a lifespan of 120 years, and its building cost was USD $18.800.000.
 
-**​[\-Read More-](https://www.hazardexonthenet.net/article/183354/Future-of-South-Africa-s-second-largest-refinery-unknown-as-cost-of-repairs-estimated-at--40-million.aspx)​**
-
-​\
-​**Towards a better recognition of materials and asset management**
-
-Four Brazilian professional associations, including the Brazilian Association of Corrosion – ABRACO, the Brazilian Association of Non-Destructive Testing – ABENDI, the Brazilian Association of Maintenance and Asset Management - ABRAMAN, and the Brazilian Foundation of Welding Technology – FBTS, are joining efforts towards the awareness and recognition improvement of inspectors and their role. A call to join the initiative is open.
-
-**​[\-Learn More-](https://docs.google.com/forms/d/e/1FAIpQLSfDyCwuTXLiDMBCjMizDDeenz_zDETy-mEvsSOgj11w3RiPqg/viewform)**
+**​[\-Read More-](https://www.hzmb.gov.hk/en/)**​\
+​
 
 - - -
 
 # Jobs
 
-**​[Taking care of pipeline corrosion problems for the energy industry](https://www.kindermorgan.com/Careers/Job-Opportunities)** **Shorewood, USA.**
+**​[Towards a safe O&G operation](https://saudiaramco.jibeapply.com/us/jobs/1782891?lang=en-us)**​
 
-**Position:** Corrosion Supervisor
+**Position:** Field Operations Maintenance Representative
 
-**Seeker:** Kinder Morgan Inc.
+**Seeker:** Saudi Aramco
 
-**Location:** Shorewood, Illinois, USA
-
-**The basic profile of the candidate:**
-
-\- Education: A technical degree in an electrical, electronic, or electro-mechanical program, and certification as NACE CP-2 or higher.
-
-\- Experience: Five or more years in pipeline corrosion control.
-
-\- Technical skills: Math skills to perform budget reconciliation and engineering calculations, adequate analytical and troubleshooting competencies, and strong computer skills.
-
-\- Physical requirements: Must be able to lift to 50 pounds, walk over uneven terrain, and withstand extreme weather conditions.
-
-\- Bonus: NACE CP-3 certification or higher.
-
-**Job description: Supervising all the issues concerning proper corrosion control facilities on high-pressure gas pipeline systems (design, installation, operation, and maintenance).**
-
-​\
-​**[Caring the new materials and equipment](https://www.tesla.com/es_ES/careers/search/job/materials-testengineermetals-metallurgy-78286)** **Shangai, China**
-
-**Position:** Materials Test Engineer
-
-**Seeker:** Tesla
-
-**Location:** Shanghai, China
+**Location:** Saudi Arabia
 
 **The basic profile of the candidate:**
 
-\- Education: Advanced Degree in Metallurgy, Materials Engineering, or related field.
+\- Education: BA/BS degree.
 
-\- Experience: Work with vendors and external test labs and work with hazardous materials.
+\- Experience: Seven or more years of experience in operations and maintenance, plant engineering, construction, turnaround and inspection, safety program development, and process safety.
 
-\- Technical skills: Must be able to effectively handle multiple priorities, organize workload, meet deadlines, and manage time independently.
+\- Technical skills: Knowledge of modern safety management systems, processes, and techniques applicable to the oil and gas industry and international industry fire and safety codes, recommended practices, standards, and specifications.
 
-\- Bonus: Candidates with highly relevant work experience will also be considered.
+\- Bonus: Have a working knowledge of risk assessment, safety measurements, and other skills related to loss prevention O&G field operations.
 
-**Job description:** The incumbent will be responsible for all materials and component-level testing, characterization, and failure analysis activities, both pre and post-fabrication, using various techniques, such as optical microscopy, SEM, EDS, PoDFA, OES, hardness, tensile, and bend testing.
+**Job description:** The primary function is to provide daily support to line organizations to ensure that safety is adequately managed, considering subjects related to materials/corrosion/inspection engineering, operations & maintenance, and further engineering, safety & industrial security issues.
 
-**​[Doing business for a more sustainable planet](https://uplink.weforum.org/uplink/s/uplink-issue/Uplink_Issue__c/Default)**​
+​**[An excellent opportunity for a Ph.D. learning about aerospace materials.](https://www.munich-aerospace.de/en/all-news-en/munich-aerospace-phd-scholarships-2021?fbclid=IwAR3lNzqpcvqVM2XEm--w4rZQT5N3Z4B9Y5lAj73S9mRLaV1B4KK3XwNxvrk) Munich, Germany**
 
-UpLink is a global open digital platform fueled by the World Economic Forum and some other worldwide organizations. Its purpose is to put entrepreneurs and young innovators in front of the challenges concerning the Sustainable Development Goals – SDG – defined by the United Nations as the pathway for a better world for all in the coming decade. UpLink also contributes to joint forces between entrepreneurs and investors to accelerate solutions and deliver impact at scale. Following its actions, Uplink is currently asking for proposals about six subjects, most of them quickly related to solutions from corrosionists. The open call for proposals includes the following innovation areas:​
+The Munich Aerospace alliance is awarding 14 scholarships for the development of research in aerospace research at the Technical University of Munich or the Bundeswehr University Munich. Subjects include applications of coding, artificial intelligence, machine learning, the internet of things, and other emerging digitalization technologies. Some of the research will be also be related to hybrid lightweight structures obtained by additive manufacturing, alternative fuels, and emissions.
 
-\- Accelerating Clean Energy Transitions
+​**[Working with leaders in the development of new materials.](https://alloyed.com/recruitment/) UK**
 
-\- Clean Air for All
+Alloyed, a young venture-funded enterprise based in the UK, Japan, and the USA, has been introduced to build the future and deliver next-generation performance for advanced metal components. It approaches digital and physical tools to invent new alloys for the aerospace, automotive, electronics, and medical markets; devise new manufacturing processes, including 3D printing. Alloyed is seeking graduates and interns in fields like Mechanical Engineering, Materials Science, Physics, and Chemistry. Open vacancies include design engineer, additive manufacturing, alloy development, machine learning/software, and computational science & engineering.
 
-\- Achieving Health Equity
-
-\- Mobilizing Action on Climate Change
-
-\- Climate Adaptation
-
-\- World's biggest Water Challenges[](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/dpheh0hqol3n4kfm/aHR0cHM6Ly9qb2JzLmRhbmFoZXIuY29tL2dsb2JhbC9lbi9qb2IvUjExMjkyMjkvU2VuaW9yLVByb2R1Y3QtRW5naW5lZXI=)
+​**​**[](https://www.kindermorgan.com/Careers/Job-Opportunities)[](https://click.convertkit-mail2.com/0vuq0qp89gh9he6g8oil/dpheh0hqol3n4kfm/aHR0cHM6Ly9qb2JzLmRhbmFoZXIuY29tL2dsb2JhbC9lbi9qb2IvUjExMjkyMjkvU2VuaW9yLVByb2R1Y3QtRW5naW5lZXI=)
 
 - - -
 
 # Networking & Knowledge Exchange
 
-**​[Talking about the near future of the O&G industry](https://www.ipweek.co.uk/?utm_source=xmas+2020&utm_campaign=cade539b7f-EMAIL_CAMPAIGN_2018_10_29_03_11_COPY_01&utm_medium=email&utm_term=0_7e0d175e8c-cade539b7f-84531631) Virtual**
+**​​[Another form of corrosion? Combat it!](https://www.corrosionradar.com/events) Virtual**
 
-Nowadays, it is easy to understand that the future of the sector is directly related to sustainability. This is why the Energy Institute is organizing the event entitled IP Week 2021: From Crisis to Low Carbon opportunity – A Decade of Delivery for the Oil and Gas Industry. The meeting will be held from February 23rd to 25th, 2021. The primary purpose of the plan is to look for urgent actions again the three current global challenges: “building a resilient recovery from the devastating COVID-19 pandemic; achieving the UN goal of universal access to energy for all populations; and charting an ambitious course - at COP26 and beyond - for tackling the threat we all face from the climate emergency.” Speakers are global leaders from the industry, academy, and government. According to the organizers, there are more than 1500 registered delegates and more than 200 companies coming from more than 50 countries.
+CorrosionRADAR deals with a distributed sensing technology for predicting, detecting, and monitoring corrosion under insulation - CUI. As part of its training activities, The Company has scheduled a series of virtual coffee breaks. The coming session will be a panel devoted to “A Game Changer for CUI Management.” Panelists invited to discuss how the industry is driving new ways of working for a sustainable future are Ali Meshaikhis from Aramco, Mike Hill from Saudi Aramco Energy Ventures, and Michael Rodey from Cognite.
 
-\
-​**[New corrosion problems and solutions](https://fcc.osu.edu/news/2020/12/corrozoom) Virtual**
+**Date:** Wednesday, March 3rd, 2021.
 
-The second monthly session of the CORROZOOM webinar series, organized by the Fontana Corrosion Center of the College of Engineering of the Ohio State University, Columbus, Ohio, USA, will be given by our colleague Nick Birbilis, from the Australian National University. The subject of the speech is “Corrosion of Additive Manufactured Materials.” Professor Birbilis is one of the more outstanding researchers on the corrosion mechanism of light and new alloys. His work includes several additive manufacturing technologies, exploration of new alloy compositions, microstructural studies, and corrosion assessment — issues to be considered in the scheduled seminar.
+**Time:** 12:00 m GMT
 
-**Date**: Wednesday, February 24th, 2021.
+​**​[Corrosion management is critical for times to come.](https://my.nace.org/Education/Courses/CourseSchedule.aspx?coursecode=strategymanag) Virtual**
 
-**Time**: 8:00 - 9:00 EST (GMT – 5)
+Convinced about the importance of the subject, AMPP (formerly NACE International) continue promoting its training about the IMPACT PLUS – Strategy for Corrosion Management. According to the announcement, the objective group includes engineers with at least three years of experience or post-graduate degrees, asset owners, C-suite executives, senior-level managers, corrosion management consultants, asset management strategists, and IMPACT Plus licensees. Issues to be considered are an explanation about how to use a Corrosion Management System (CMS) within an organization, identify the five levels of the CMS Pyramid, summarize how a CMS benefits businesses and the environment through sustainability, apply the Corrosion Management Maturity Model (CMMM) to your organization, and describe how organizations can use the CMMM to extend the lifecycle of their assets and ensure consistency. Three upcoming courses are currently planned:
 
-**​[Pipelines integrity](https://www.clarion.org/ppim/ppim21/) Virtual**
+**Date**: Tuesday, March 2nd, 2021
 
-Pipeline Pigging and Integrity Management - PPIM 2021, Conference and Exhibition. It is an event organized by Clarion Technical Conferences, supported by World Pipelines and North American Oil & Gas magazines, and sponsored by a group of companies related to the theme, to be held on February 24th and 25th of 2021. Some of the technical sessions included are risk assessment, engineering assessment, materials verification, cracks & seam welds, and education & competency assurance. PPIM 2021 also consists of a long list of exhibitors, providers of products and services, like Baker Hughes, DNV, Drinkwater Products, Linde Services, NDT Global, Olympus, ROSEN; T.D. Williamson, and Thermo Fisher Scientific.
+**Time**: 8:00 - 10:00 CST (GMT – 6)
 
-<span>Photo by <a href="https://unsplash.com/@louishansel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Louis Hansel @shotsoflouis</a> on <a href="https://unsplash.com/s/photos/stainless-steel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+​**Date**: Wednesday, March 3rd, 2021.
+
+**Time:** 14:00 - 16:00 Dubai (UAE) Time Zone (GMT + 4)
+
+​**Date**: Tuesday, May 11th, 2021.
+
+**Time**: 8:00 - 10:00 CST (GMT – 6)
+
+​​\
+​**[The water we drink.](https://comm.ri.se/ri/b/v?event=968&ucrc=E5BB21F565) Virtual**
+
+RISE - The Research Institute of Sweden is organizing a seminar focused on current directives concerning handling materials in contact with drinking water. Recent research and best practices at the international level, including plastic, metallic and cement-based materials, will be discussed.
+
+**Dates and times**:
+
+Tuesday, March 2nd, 2021, 13:00 - 15:30 CET (GMT +2)
+
+Wednesday, March 3rd, 2021, 9:00 – 11:30 CET (GMT + 2)
+
+<span>Photo by <a href="https://unsplash.com/@cameramandan83?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Dan Dennis</a> on <a href="https://unsplash.com/s/photos/stainless-steel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+​
