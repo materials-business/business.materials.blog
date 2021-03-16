@@ -1,161 +1,202 @@
 ---
 template: blog-post
-title: "SOLAR PHOTOVOLTAICS IN THE GLOBAL TRANSITION "
-slug: /26/01/2021/solar-photovoltaics-in-the-global-transition
-date: 2021-01-26 07:05
-description: ​Our planet is powered by solar energy. All the changes that happen
-  every day, from evolution to chemical reactions and biosynthesis to normal
-  energy-consuming processes, and even life, happen thanks to the sun rays
-  arriving from our primary energy source. This energy that “bathes” the Earth
-  is variable and currently is increasing due to solar activity and thus is
-  producing some of the effects of global warming. Nevertheless, Sandia’s
-  estimations show that the average flux of sun rays striking the globe is 174.7
-  W.m-2. Subsequently, the theoretical potential of solar power is 89.300 TW.
-featuredImage: /assets/antonio-garcia-ndz_u1_tfzo-unsplash.jpg
+title: THE PAIN THAT NURTURES A BETTER FUTURE THAT WE, THE CORROSIONIST, MUST BUILD.
+slug: /16/03/2021/the-pain-that-nurtures-a-better-futture-that-we-the-corrosionist-must-build
+date: 2021-03-16 07:05
+description: Within humanity’s history, there have been some breaks in progress
+  due to pandemics. The first documented pandemic that changed history’s flow
+  was the Black Death in the middle of the 14th century. At the time, the world
+  population's size was around 400 million, and the plague killed 200 million in
+  Europe alone. For example, the English population declined from 8 to 4.8
+  million between 1348 and 1351. One of the results was that during the
+  following years, incomes rose by nearly a third. This effect was related to
+  better land availability, which was the most relevant productivity factor
+  since the beginning of history. In such a situation, the Malthusian model of
+  “more births, lower incomes; more deaths, higher incomes” was fully
+  applicable. The same theory explains the behavior of the worldwide domestic
+  product per capita, which was almost consistently around USD $1.000 until the
+  14th century. Some historians attribute feudalism's disappearance to the Black
+  Death. Others speak about its effect on Colon arrived in America and the
+  positive transformation of the global economy. The world started to move from
+  rural to urban, and the foundations of the First Industrial Revolution
+  appeared. Alchemists, blacksmiths, engineers, and other vital roles of our
+  ancestors began to appear.
+featuredImage: ""
 ---
 # **Materials.Business Weekly ⚙️**
 
-*January 26, 2021*
+*March 16, 2021*
 
-> Quote of the week: “When you are enthusiastic about what you do, you feel this positive energy. It is straightforward.” — Paulo Coelho, Brazilian writer (1947).
+> Quote of the week: “Knowledge is more powerful than physical strength, and no great work can be done without knowledge.” — Ancient Sanskrit Indian proverb.
 
 - - -
 
 # From The Editor's Corner
 
-# **SOLAR PHOTOVOLTAICS IN THE GLOBAL ENERGY TRANSITION**
+# **THE PAIN THAT NURTURES A BETTER FUTURE THAT WE, THE CORROSIONIST, MUST BUILD.**
 
-**Energy Consumption and Carbon Footprint**\
-Our planet is powered by solar energy. All the changes that happen every day, from evolution to chemical reactions and biosynthesis to normal energy-consuming processes, and even life, happen thanks to the sun rays arriving from our primary energy source. This energy that “bathes” the Earth is variable and currently is increasing due to solar activity and thus is producing some of the effects of global warming. Nevertheless, Sandia’s estimations show that the average flux of sun rays striking the globe is 174.7 W.m-2. Subsequently, the theoretical potential of solar power is 89.300 TW. In other words, the sun’s power output that reaches the Earth in two hours is higher than the energy consumed by humanity in one year, which is or somewhere around 15 TW (with an estimated increase 2- and 3-fold until 2050 and 2100, respectively). Such power is equivalent to the solar energy received in an area roughly the size of Venezuela. In conclusion, the problem is not the amount of available energy but rather how solar energy is captured and managed. It is a growing concern for humankind due to conventional energy source depletion and growing costs, greenhouse gas emissions, and global warming.
+**Pandemics at a glance**​\
+Within humanity’s history, there have been some breaks in progress due to pandemics. The first documented pandemic that changed history’s flow was the Black Death in the middle of the 14th century. At the time, the world population's size was around 400 million, and **[the plague killed 200 million in Europe](https://ourworldindata.org/world-population-growth#long-run-historical-perspective-the-big-picture)** alone. For example, the English population declined from 8 to 4.8 million between 1348 and 1351. One of the results was that during the following years, incomes rose by nearly a third. This effect was related to better land availability, which was the most relevant productivity factor since the beginning of history. In such a situation, the Malthusian model of “more births, lower incomes; more deaths, higher incomes” was fully applicable. The same theory explains the behavior of the worldwide domestic product per capita, which was almost consistently around USD $1.000 until the 14th century. Some historians attribute feudalism's disappearance to the Black Death. Others speak about its effect on Colon arrived in America and the positive transformation of the global economy. The world started to move from rural to urban, and the foundations of the First Industrial Revolution appeared. Alchemists, blacksmiths, engineers, and other vital roles of our ancestors began to appear.
 
-​Energy is the driving force for human development. Humanity consumes power for most industrial activities, including refining minerals, steel manufacturing, and cement production. Other non-industrial activities are also energetically consuming, such as transportation and day-to-day home activities, from charging electronic devices to cooking. It is essential to know where all this energy comes from. **[About 85% of the energy](https://www.climatecommunication.org/change/energy-use/#:~:text=About%2085%20percent%20of%20the,society%20comes%20from%20fossil%20fuels.&text=Today%2C%20transport%20of%20goods%20and,19%20percent%20of%20carbon%20emissions.)** we consume is generated by burning fossil fuels that produce more than **[33.5 Gt CO2 per year](https://www.iea.org/reports/co2-emissions-from-fuel-combustion-overview)**. **[A person in Europe](https://ec.europa.eu/eurostat/statistics-explained/index.php/Greenhouse_gas_emission_statistics_-_carbon_footprints#Carbon_dioxide_emissions_associated_with_EU_consumption)** is estimated to produce a carbon footprint of 7.3 ton CO2, whereas, **[in the United States](https://ec.europa.eu/eurostat/statistics-explained/index.php/Greenhouse_gas_emission_statistics_-_carbon_footprints#Carbon_dioxide_emissions_associated_with_EU_consumption)**, the value is close to 16.2 ton CO2. This too high carbon footprint has been continuously rising due to more energy demand, directly linked to the increasing human population. If humanity keeps this growing at this pace, an energy transition to a lower carbon footprint is mandatory.
+​The second most devastating epidemic in history was the great influenza of 1918–1920. **[The “Spanish Flu” resulted in almost 40 million deaths, mainly in young people, in 43 countries](https://link.springer.com/article/10.1007/s10198-020-01206-8)**, out of nearly 2.000 million inhabitants worldwide. It overlapped with the First World War, affecting many of the soldiers and lowering the war power. Therefore, the political and economic consequences were significant; losses in the global GDP per capita were estimated at least 10%, thus setting the Second World War conditions. The USA's positioning in the international economic arena began to rocket. There are many examples of European inventions and developments that were finally monetized in the USA. Besides, there was the consolidation of the Second Industrial Revolution in this country. It was a significant step towards noticeable change in the materials and corrosion engineering development, corroborated with milestones like creating the National Association of Corrosion Engineers – NACE in the 1940s.
+
+​**The “*annus horribilis*”**
+
+There have been awful consequences since the appearance of the severe acute respiratory syndrome; coronavirus 2 (SARS-CoV-2, formerly called HCoV 19), also known as COVID-19, or rather simply put, Corona. According to the **[official reports](https://coronavirus.jhu.edu/map.html)** between December 1st, 2019, and March 9th, 2021 (at 9:23 EST), there have been nearly 117.270.765 reported cases globally, which have resulted in 2.604.373 deaths, mainly in the elderly. Without a doubt, it truly is an ugly virus that has emerged instantaneously in an extraordinary moment of history, the Fourth Industrial Revolution, which fuels a globalized society. A very unlikely scene for the pandemic, as mentioned earlier times. The spread of the virus between the 7.900 million world population was faster than ever. However, with existing knowledge, the new situation was tackled better than previous pandemics. Moreover, science has played the most prominent role in this, and nowadays, we can optimistically say that we see the light at the end of the tunnel.
+
+​The world population is growing at substantially high rates, and so are productivity and incomes. The leading productivity factor by far is knowledge (no, not land, neither capital nor workforce). Social and economic effects are also huge factors but are somewhat different than before, and although history is accelerated, it is expected that these impacts will be long-lasting. One conclusion drawn from the world today is that we must involve a new global order where the Fourth Industrial Revolution’s emerging technologies must serve for genuinely sustainable development and just society when we think about a better society shortly. This would be a new international order, the post-globalization era.
+
+​Now, going back to the current situation: how many colleagues have we lost? How many became infected? Well, lots of them. Inevitably, the impact of this on labor and unemployment has been another big problem for corrosionists to overcome. The effect is felt the most at the microeconomic level that ripples around many other socio-economic issues. Less employment means lower consumption (restricted to non-durables), loss of demand (mainly of durable and technology products), and less manufacturing. According to the **[International Labor Organization - ILO](https://www.ilo.org/wcmsp5/groups/public/@dgreports/@dcomm/documents/briefingnote/wcms_767028.pdf)**, global unemployment increased by 33 million to 220 million full-time jobs in 2020. But these values reflect only a proportion of the problems because the total working-hours lost are estimated to be double (including workers who remain employed but inactive). The cost of lost labor is estimated at USD $ 3.7 T or 4.4% of the global 2019 GDP. Additionally, global industrial production has fallen drastically, with a peak of minus 15% in June of 2020. Such figures include the damage to the aviation industry. For instance, in North America, the forecasted aircraft maintenance, repair, and overhaul market for 2020 were over USD 22.000 million, but the actual amount was lower than USD $12.000 million. Consequently, thousands of technicians were affected, including many corrosionists. The above figures do not account for other losses concerning the closure of many small and medium enterprises (as always!) involved in anticorrosion and materials engineering activities. Fortunately, some of them were **[closed just temporally](https://analyticalscience.wiley.com/do/10.1002/was.0030004?elq_mid=51216&elq_cid=10002690&utm_campaign=32376&utm_source=eloquaEmail&utm_medium=email&utm_content=Email-Research-IssueAlert-MAEM_2021-3-09.html)**, but most disappeared or weren't even born. Corrosionist inactiveness and ongoing corrosion processes are more than enough to reaffirm our first editorial message: **[“Corrosion is not in quarantine.”](https://news.materials.business/newsletter/corrosion-never-sleeps)** Without a doubt, the global cost of corrosion in 2020 was higher than **[the 2019 estimate of USD $4.8 T](https://news.materials.business/19/01/2021/engineering-materials-the-real-cost)**. This was a higher cost than the amount of lost labor and the fall in the worldwide GDP! The list of the damages goes on, but to summarize, it can finally be mentioned the global disruption to education and training of children and workers, the fundamental factor of success in the age of post-globalization. But how do we measure it? How much it cost?
+
+​​**A golden opportunity**
+
+Crises are opportunities, and in the case of COVID-19, the economic dynamic is changing and, in most cases, for the better. In some instances, relieving the issues caused by the situation has been almost immediate. However, in other cases, success in the post globalized society will depend on the right entrepreneurial vision and the proper steps forward. Regarding sectors that are emerging stronger, we can, of course, mention all the national health systems; valid incorporation of telemedicine, digitalization, and depuration of several administrative processes, bureaucracy cuts, improved capacity (hospitals, equipment, rooms, beds, etc.), better asepsis, but mainly, higher staff recognition. Directly related to this sector, we also have the rocketing of the health science and pharma industry. Well-developed basic health science and conservative pharma industry have joined efforts together. They are taking advantage of the emerging technologies to develop in a globally open and synergistic environment, effective vaccines in less than one year—a historical feat as ordinarily such kind of development took five, ten, or more years. Besides controlling the virus, some of the additional results include super-powered pharmaceutical companies, but more importantly, much higher confidence in science. Laboratory practices in drug development have many similarities with materials development and will consequently enhance materials protection.
+
+​\
+The downfall of the aviation industry, where the scheduled flights in the first week of 2021 were 43.5% lower than the year before and the fall in other sectors (power, industry, ground transportation, and shipping), showed us how drastic decisions are an answer to the greenhouse gas emissions. As a result of this aviation devastation, there was a peak of greenhouse gas emissions reduction last April, almost 20%. Post-globalization needs such kinds of solutions, and people at political, private, and social levels are indeed listening for these wake-up calls. One of the answers involves increasing attention to the energy transition, particularly hydrogen as an energy source. Until a few years ago, projections about sound hydrogen energy mentioned 2050 as a possible time. However, efforts are being pushed for practical solutions for the end of this current decade. As **[we all well know](https://news.materials.business/08/12/2020/lets-revolutionize-steelmaking-again)**, steelmaking is one of the great contributors to global CO2 emissions. Most of the latest news in this area deals with research to develop new steelmaking processes using hydrogen, basically, a green version, obtained from zero-carbon emission power sources like solar and wind power plants.
+
+​\
+Most of our colleagues felt the fall in the oil market last year. There is a drop in consumption because of the lockdown and other factors like the lower demand trend and world trade negotiations. In April last year, the price of Brent dipped below USD $20 a barrel. Many O&G companies then began announcing significant efforts towards greener production processes and products. Now, usually, that means new environments, higher temperatures and pressures, and other corrosives— thus new challenges for people in charge of materials and assets caring. Signs of recovery have started, and currently, prices are climbing, and **[the expected value at the end of March could be over USD $80 per barrel of Brent](https://www.economist.com/finance-and-economics/2021/03/08/oil-markets-prepare-for-lofty-prices-and-restrained-supply)**. But the big challenge is to move the O&G industry to the post globalized, zero carbon emissions era. Many companies have already set net-zero-emissions targets, explaining the Colombian Petroleum Company’s arrival as co-holder of the more prominent national electricity company.
+
+​\
+Aligned with the same purposes, alternative energy sectors like **[solar panels](https://news.materials.business/26/01/2021/solar-photovoltaics-in-the-global-transition)** and wind turbines are growing exponentially worldwide, establishing huge farms on and offshore, and most of the time in severe corrosive conditions. Once again, there are many challenges concerning new materials and new anticorrosive measurements. **[For example](https://www.power-technology.com/projects/borssele-iii-iv-offshore-wind-farm/)**, Borssele III and IV offshore wind turbine farms in the Netherlands will have turbines based on monopiles that are 85 m long and weigh 1,280 tons, at a water depth of between 16 and 38 m. **[Dillinger](https://www.dillinger.de/d/en/corporate/index.shtml)** will be the supplier of around 70.000 tons of piles made with thermo-mechanically rolled heavy plates in thicknesses of 12.7 to 88 mm, a metallurgical record! Another simultaneous race concerns energy storage and electrochemistry, where batteries, in particular, are an attractive option.
+
+​\
+The pandemic also brought to the table the importance of the bactericide effect on material surfaces. Metals like copper and silver and their alloys are attracting a lot of attention. Here we are talking about the good kind of corrosion. Several types of research are conducting to market products like protective **[masks](https://www.csic.es/sites/default/files/15febrero2021_nanomaterial_anticovid_.pdf)**. Older corrosionists might remember tributyltin (TBT) compounds that, although are now forbidden, were used as leaching constituents of paints for bottom ships and other submerged surfaces, with biocide action against biofouling deposits. Nowadays, copper oxide paints have been used for about a century for the same purpose, but currently, they are under closer scrutiny more than ever before because of environmental risks. However, the same principles are being explored to develop new paints and coatings with antimicrobial and disinfecting properties for touchable surfaces everywhere, as announced by the Singaporean company **[Polymore Materials](https://www.polymore.sg/germarmor-antimicrobial/)**. Another unquestionable opportunity line of innovation for corrosionists.
 
 \
-​**Decarbonization of the Energy Sector**
+We can now move onto the challenges in the infrastructure sector. For instance, sustainability asks for a pleasing appearance with higher durability and climate efficiency solutions. An example includes a bridge in Hong Kong Bay that has been designed for a 120-year lifespan and must withstand an extremely aggressive marine environment. Across the world, in another continent, the Danish company** [DS Stålprofil](https://www.ds-staalprofil.dk/en-gb)** has developed new steel products for facades and roofs, looking to answer similar purposes as demanded by Circular Economy principles. Just two of many other examples of new challenges and duties for corrosionist in charge of caring for such structures.
 
-To meet the Paris Climate agreement of decreasing global warming, an effect from burning fossil fuels, and keeping the increase of global average temperature below 2 °C is everyone's goal. Several strategies are plausible to decrease CO2 emissions. As demonstrated in the following article published in the journal **[Nature](https://www.nature.com/articles/s41558-020-0797-x)**, the reduction in traveling due to the COVID-19 pandemic and forced confinement because of lockdowns was one of the key contributors to the global decline of CO2 emissions during this period (March to April 2020). This is an indicator that one strategy should include thinking about how much and how often we travel so that people can begin to drive less or rely more on public transport. A second strategy would be to have responsible energy consumption at home. Heating, lighting, and appliances are needed frequently every day, and so small changes in the way we use them can make a big difference. Therefore, it is recommended to turn off the heating when it is not needed or perhaps to use a programmable or smart thermostat, turn off lights and appliances when they are not used, and use LED lights instead of incandescent lamps. A third strategy would be to produce Renewable energy. Renewable energy is referred to any source of energy that comes from natural sources or processes that are constantly replenished. For example, sunlight keeps shining and or wind keeps blowing, even if their availability depends on time and weather. Additionally, when used, the energy they produce has little to zero environmental impact. The company **[DNV-GL](https://www.dnvgl.com/transition-faster/)** predicted that in 2050, renewable energy would account for 66% of global electricity production. Furthermore, they identified a combination of measurements to meet the global warming target lower than 2 °C, two of which are directly related to having 50% of the electricity produced worldwide in 2030 by renewable energy sources. The only condition to meet to reach this goal is to increase solar power by more than ten times to 5 TW and wind power by five times to 3 TW of installed capacity. Consequently, the case of Solar Photovoltaics –PV- is one of the best scenarios for clean energy production, where solar energy is directly converted into electricity by using solar panels with non-CO2 byproducts.
+​\
+Other opportunities come from the recovery, refurbishing, reuse, recycling, and disposal pillars of the Circular Economy. Such issues are becoming more and more relevant, and March 18th has been declared the “Global Recycling Day.” The possibilities of innovation concerning these subjects are infinite, and challenges are waiting for materials and corrosion scientists and engineers.
 
-​**Making Solar Panels Last Longer**​\
-​Accelerated solar PV deployment could lead to significant emission reductions of 4.9 Gt CO₂ by 2050, **[representing 21% of the total](https://www.irena.org/publications/2019/Nov/Future-of-Solar-Photovoltaic)** emission mitigation potential in the energy sector. To summarize, the drivers for PV usage have been well known for many years. However, the tremendous initial barrier to overcome was the cost of the energy produced. This limitation was highlighted in 2008 when the National Academy of Engineering – NAE, of the USA, launched the “**[Grand Challenges for Engineering in the 21st Century](http://www.engineeringchallenges.org/challenges.aspx)**” with input from an international group of leading technological thinkers, who identified 14 goals for improving life on the planet. One of the goals was to “Make solar energy economical.” Scientists and Engineers are answering those challenges effectively. Research groups have come up with relatively cheap polymeric semiconductors. Simultaneously, others like **[CIDEMAT](http://www.udea.edu.co/wps/portal/udea/web/inicio/investigacion/grupos-investigacion/ingenieria-tecnologia/cidemat)** have gone deeper into a more promising technology **[based on hybrid perovskites that](https://doi.org/10.1038/s41560-020-00747-9)**, combined with traditional solar panels based on silicon, can improve performance. Moreover, currently, it is possible to say that solar panel based on silicon is a relatively mature technology, with a reasonably leveled cost of electricity (LCOE). Between 2010 and 2019, the PV price dropped by 82% to about USD $0.068 kW.h-1. According to the U.S. Energy Information Administration - **[EIA](https://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf)**, by 2025, the LCOE for Geothermal and Hydroelectric will be USD $37.27 and $39.54 per MWh, respectively, while solar PV will have a value of USD $32.8 per MWh. Right now, we can see an “explosion” of solar PV. For example, the company Pacific Gas & Electric in California, USA, plans to electrify thousands of properties in the coming decade, generating over 30.000 new jobs as “solar installers.” In the next few years, the European Union will support giant ocean floating solar PV farms, looking for higher efficiencies and more recyclable components.
+​\
+Without a doubt, many of the given examples and the open opportunities are related to digitalization and virtualization of life. The internet has been by far the most benefited sector. Traveling for business has almost disappeared, and our meetings/conventions were either canceled, postponed, or moved online. But long-distance communication becomes the essential post-globalization tool for business and networking, education, training, and so on, especially on a global level. Brilliant innovations like **[Corrozoon](https://fcc.osu.edu/corrozoom)**, a free webinar series in corrosion science led by Prof. Jerry Frankel from the Fontana Corrosion Center, USA, are rising. Similarly, whilst looking for a better world due to the efforts of all the colleagues in charge of material-care, equipment, and industrial assets across the globe, six months ago, we launched **[Materials.Business](https://news.materials.business/)** as a tool for you to take advantage of the new global order for yourself, your company, and your community. Now, hundreds of people have subscribed already, and we hope many more in the future will do so too!
 
-​Right now, the most significant technological and economic barrier to overcome is one that concerns access to adequate infrastructure. Materials, parts, and other pieces of equipment work well with the Circular Economy drivers. So nowadays, solar panels are expected to operate for a system life of 25 years or more. However, this does not mean they stop producing energy after 25 years. It just means that energy production will significantly decline (generally below 80% of the initial value). Therefore, a solar panels’ lifetime is a considerable aspect of energy production. Even though 25 years is enough time for any technology, the reality is that a longer life will give lower LCOE and less waste, which is beneficial for both the massification of the technology and the environment. Other components in a PV installation, such as batteries, should also be considered an element with a very short lifetime (generally between 3 to 5 years) if the produced energy is not immediately consumed. However, many solar farms and residential installations are now injecting electricity into their respective grid, thus partially resolving this problem.
+**Remember: Protection of materials and equipment is a profitable business!**
 
-Several aspects must be considered to make solar panels last longer and produce more energy. One of the most important is the soiling caused by the accumulation of sand, dust, and other particles that obscure the PV module's surface. These particles can reduce the produced electricity up to 20% over a year and is more evident in arid and semi-arid areas. Therefore, panels have to be cleaned regularly by hand or by robots when the PV plants are in small and large areas, respectively. Additional aspects to consider are solar panel failure and degradation. In the first case, the solar panel stops producing any energy, which can be due to glass breakage on the panel or a short circuit that can cause the panel to burn. For degradation, the encapsulated adhesive (ethylene vinyl acetate-EVA) discoloration becomes the most dominant mode of deterioration, **[followed by delamination of the adhesive](https://www.osti.gov/biblio/1349023)** well and hot spots caused by the solder bond failure or cracked cells. On one side, simple cleaning and constant monitoring of the solar panels could reduce failure, produce more energy, and increase the installation lifetime. Developing new materials for more stable adhesives and better soldering materials is an ongoing approach that could also make solar panels last longer. The integrity of solar PV farms and installations is a serious matter of concern, and so a lot of additional efforts by scientists and engineers are required.
+**Prof. Carlos Arroyave, Ph.D. Editor.**
 
-**Remember: Protection of materials and equipment is a profitable business!**​
-
-**Guest Editor: Daniel Ramirez**
-
-**Substitute Professor**
-
-**School of Materials Engineering**
-
-**University of Antioquia, Medellin - Colombia**
-
-​**[estiben.ramirez@udea.edu.co](mailto:estiben.ramirez@udea.edu.co)**
+**​[www.arroyave.co](https://click.convertkit-mail2.com/wvu5e578k6sgh78kpgf7/p8heh9h9243zk3uq/aHR0cHM6Ly9hcnJveWF2ZS5jby8=)**
 
 - - -
 
 # Materials Biz News
 
-**Rewarding technological innovation towards sustainable growth**
+**​[A valuable tool for knowledge management](https://patentscope.wipo.int/search/en/search.jsf)**​
 
-The Energy Institute has launched a call for free nominations to its yearly awards on energy developments. It is an excellent opportunity for recognizing efforts by the community of corrosionists and materials scientists, and engineers to improve the quality of life through innovation in energy handling. The included categories are:
+​**[WIPO](https://www.wipo.int/portal/en/)**, the World Intellectual Property Organization, offers a search engine for technology information free of charge. It is PATENTSCOPE, an intellectual property database providing access to international Patent Cooperation Treaty (PCT) applications, in full-text format, on the day of application. Furthermore, this digital online tool allows technical information searching through 4 million PCT patents and 90 million further concerning national and regional WIPO member offices. According to the announcement, by searching PATENTSCOPE, you can:\
+​
 
-\- Access to Energy
+\- Check if an invention has already been patented.
 
-\- Energy Leader
+\- Find technologies that are no longer protected by patent – your business may exploit them.
 
-\- Energy Management
+\- Monitor your competitors’ patent activity.
 
-\- Environment
+\- Study patent trends for particular technologies and territories.
 
-\- Health and Safety
+\- Other technical relevant non-patent literature.
 
-\- Innovative Technologies
+​**​[Carbon capture, usage, and storage – CCUS is a promising option](https://www.polymtl.ca/carrefour-actualite/en/news/co2-capture-and-valorization-polytechnique-montreal-receives-35-million-support-quebec-rd-project)**​
 
-\- Low Carbon
+This is the reason why the Ministère de l’Environnement of Québec has decided to award the Polytechnique Montréal Institute with the USD $2.8 million project “Valorisation Carbon Québec -VCQ”. The project aims to research and find solutions for carbon dioxide sequestration and valorization as synthetic fuel and other upgraded green products. Partners of the project are the Université Laval and some other private and public sector organizations. Other related subjects currently developed in the Polytechnique Montréal Institute include green energy and chemistry, water, critical metals and minerals, plastics, transportation electrification, decarbonization, recycled organic printed electronics, waste management, the impact, and societal acceptability of technologies as well as life cycle analysis.
 
-\- Public Engagement
+**​[Global solutions for significant challenges](https://www.neomaterials.com/neo-performance-materials-and-energy-fuels-announce-joint-launch-of-u-s-european-rare-earth-production-initiative/)**​
 
-\- Talent, Development, and Learning
+Strategic and scarce raw materials of technological use are gaining attention because their growing importance is encompassed with increased prices and limited availability. Some days ago, the Canada-based company **[Neo Performance Materials](https://www.neomaterials.com/)** announced a partnership with **[Energy Fuels](https://www.energyfuels.com/)** from the USA. The purpose is to develop an initiative to produce rare earth elements for the European and North American markets. The planned actions include the supply of at least 2.500 tons per year of monazite ore sands by **[Chemours Company](https://www.chemours.com/en)** to Energy Fuels to be processed into a mixed rare earth carbonate. Monazite sands are a byproduct of heavy mineral Zr and Ti sands mined in the southeastern USA containing 50% – 60%+ total rare earth (mainly Nd and Pr) plus 0.20% – 0.30% natural uranium. Then, this intermediate product will be furnished to Neo as raw material for its plant in Sillamäe, Estonia, the only operational facility separating rare earth elements for permanent magnets and other earth-based advanced materials in Europe. Significant monazite ore quantities are also extracted in other countries like Australia, India, and South Africa. According to Energy Fuel, they expect to process 15.000 tons per year in the future.
 
-\- Young Energy Professional of the Year
-
-​**[Source](https://www.energyinst.org/whats-on/search/ei-awards)​**
-
-**​Triple Helix embraces 3D manufacturing**
-
-The Advanced Manufacturing Lab of the University of Guelph and the Mohawk College’s Additive Manufacturing Innovation Centre have partnered with the private company **[CGL Manufacturing](https://www.cglmfg.ca/)**, Ontario – Canada, to develop ductile iron powder mix for 3D printing. Funding is from the Natural Science and Engineering Research Council of Canada (NSERC). In the beginning, the purpose is to produce prototypes faster by powder bed fusion, keeping composition and mechanical properties, as a support for the conventional process of casting of machined castings, components, fabrications, and assemblies.
-
-**​[Read More](https://www.mohawknewsdesk.ca/mohawk-college-partners-with-university-of-guelph-to-help-cgl-manufacturing-adopt-additive-manufacturing-technology/)​**
-
-**Open innovation for asset integrity in the Fourth Industrial Revolution**
-
-**​[Henkel Tech VENTURES](https://www.henkel-tech.ventures/)** has invested in the start-up **[Feelit](http://feelit.tech/)**, a company founded in 2017 and based in Haifa, Israel, devoted to applying nanotechnology and sensorics for predictive analytics. Feelit has developed a sensor technology or “electronic skin” for alerting and predict maintenance requirements in manufacturing assets. As a result, Henkel aims to scale the technology and strengthen its maintenance, repair, and overhaul portfolio useful in steel mills, car factories, mining equipment, or power turbines.
-
-**​[Learn More](https://www.henkel.com/press-and-media/press-releases-and-kits/2021-01-07-henkel-invests-in-technology-start-up-feelit-1141594)**​\
 ​
 
 - - -
 
 # Jobs
 
-**​​[A leader for the Circular Economy](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/Chemistry-Department/Managing-Director--Center-for-Sustainable-Separations-of-Metals_JR00026980) Philadelphia, USA**
+**​[Editor assistant/intern](mailto:carlos.arroyave@materials.business)​**
 
-The University of Pennsylvania, Philadelphia, USA, is looking for a Managing Director of the Center for Sustainable Separations of Metals – CSSM. It is a Center supported by the National Science Foundation aimed to research metals recycling and sustainability. Its specific goals are to reduce energy consumption, pollution, and greenhouse gases providing alternative approaches to unsustainable and unethical metal supply chains. Duties related to the position include the support and development of administrative, education, assessment, and outreach efforts associated with the transformative and innovative research on the fundamental chemistry that can improve the recovery of metals from post-consumer products. Basic requirements are a Bachelor's degree and 5 to 7 years of experience, or an equivalent combination of education and experience. Backgrounds in chemistry (B.A./B.S. or Ph.D., Ph.D. preferred), grant writing experience, and familiarity with NSF funding policies are desirable.
+Materials.Business is seeking an undergraduate interested in a part-time freelance position as an assistant to the Editor.
 
-​**Maintenance applying data science. Twente, Netherlands**
+**Location**: Remote.
 
-Dr. Ir. Tiedo Tinga, Full Professor of Applied Mechanics at the University of Twente, Netherlands, offers a post-doc researcher position. The open vacancy is part of the project "Smart Sensoring and Predictive Maintenance Steel Manufacturing" – SUPREME project, co-funded by Tata Steel. The job’s primary purpose is to contribute to the confluence's synergy between knowledge and backgrounds on predictive maintenance and big data for the expected results.
+**The basic profile of the candidate:**
 
-Contact Prof. Tinga: **[t.tinga@utwente.ne](mailto:t.tinga@utwente.ne)​**
+\- Education: Engineering student with major in Materials, Metallurgy, Chemistry, or related.
 
-​**[Good fortune in your entrepreneurship.](https://www.entrepreneur.com/article/362454?utm_content=151530599&utm_medium=social&utm_source=linkedin&hss_channel=lis-qM8Zm4xPE6)** **​**
+\- Technical skills: Knowledge of electrochemistry fundamentals, organizational skills and attention to detail, and English grammar reviewing (excellent English writing).
 
-Three simple and powerful pieces of advice on how to pave the way to success in your entrepreneurial efforts are extracted from Psychology studies about how to build proper conditions for positive results and diminish risk. According to the author of the paper, “the secret of luck in three simple steps” is:
+\- Bonus: Native English speaker and academic relations with a research group dealing with science and engineering materials or related. Eventually, any recommendation by a staff member.
 
-\- Keep your mind and eyes open. Look around permanently, and try to perceive the world from several perspectives, with a kaleidoscopic vision.
+**Job description**: An expected dedication of 15 hours per week, devoted to assisting with issues like publishing the newsletter on popular social media platforms, searching helpful information to be included, a detailed review of the grammar of each newsletter before publication, to support strategies of adherence, and eventually to write short notes to be included in the newsletter.
 
-\- See the bright side of things. Problems are challenges. A crisis is an opportunity for innovation. The pathway must be guided by possibilities, not by difficulties.
+Candidates, please send a CV and any other related information to **[carlos.arroyave@materials.business](mailto:carlos.arroyave@materials.business)** until Tuesday, March 23rd, 2021.
 
-\- Do something extraordinary (at least) once a week. Break routine in your daily life. Exercise your mind permanently, challenging it with small things.
+​**​[A key player for the asset integrity market](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1093&ProjectId=144971&DepartmentId=19060&MediaId=5&SkipAdvertisement=False)**. **Europe**
+
+**Position:** Business Development Manager – Asset Management Services
+
+**Seeker:** Hempel
+
+**Location:** Europe
+
+**The basic profile of the candidate:**
+
+\- Education: A university degree.
+
+\- Experience: Minimum 5 years relevant work experience, including building a new business and bringing it to the market, selling services B-B, value proposition creation, and Oil & Gas downstream.
+
+\- Technical skills: Project management.
+
+\- Bonus: Asset Management experience.
+
+**Job description:** To be part of the staff in charge of the 2025 goal of doubling the company’s revenue by leading the new asset management services team, creating and driving customer partnerships and formulating value propositions, helping the sales team, training them, and taking part in key sales.
+
+​**​[Leading engineering development for health](https://careers.novonordisk.com/job/Hiller%C3%B8d-Director%2C-Head-of-Mechanical-Engineering-Capi/634798201/)**. **Denmark**
+
+**Position:** Director, Head of Mechanical Engineering
+
+**Seeker:** Novo Nordisk
+
+**Location:** Hillerød, Greater Copenhagen, Denmark
+
+**The basic profile of the candidate:**
+
+\- Education: Master’s degree or Ph.D. within relevant engineering areas.
+
+\- Experience: 10 to 15 years of experience within the medical device, pharmaceuticals, or other relevant sectors.
+
+\- Technical skills: Profound technical knowledge in mechanical engineering, design, modeling, and automation. Proven track record of developing, commercializing, and scaling products.
+
+**Job description:** Comprehensive leadership of an engineering team developing combination product devices and connected drug delivery solutions, including virtual mechanical designs for manufacturability.
+
+​**​[Building and strengthening the community of corrosionists](https://membership.corrosion.com.au/blog/interested-in-joining-the-acas-membership-committee/)**. **Australia**
+
+The Australasian Corrosion Association – ACA seeks expressions of interest from members who would like an opportunity to serve on the newly formed Membership Committee. Key Functions of the Committee are:\
+​
+
+\- Reviewing the function, purpose, and effectiveness of the various member and stakeholder groups within the association and the current activities of the Association (towards its objectives and Strategic Plan) concerning member engagement and experience.
+
+\- Assessing member needs, engagement, and satisfaction, as well as trends or other information to determine member benchmarks and satisfaction targets.
+
+\- Identifying opportunities to increase member engagement and the member value proposition for existing and prospective members through the identification and development of tangible and intangible member benefits.
+
+\- Supporting staff to develop structures, policies, procedures, and other documentation, undertake other tasks, reviews, or activities as required to support effective member and volunteer management and engagement.
+
+\- Providing recommendations to the Executive Officer or the Board of any changes which it believes are required to improve the way that the ACA provides opportunities for its members and stakeholders to successfully engage with the Association in the pursuit of the Association’s objectives.\
+​ACA invites members to nominate by themselves or to nominate another member.\
+​
 
 - - -
 
 # Networking & Knowledge Exchange
 
-**​[](https://marinecorrosionforum.co.uk/attend/ola/services/exposure-of-various-polymer-lined-carbon-steel-pipe-sections-to-a-sour-hydrocarbon-fluid-at-a-maximum-service-temperature-methodology-and-observations?olaT=2021-01-21T12%3A00%3A00.000Z&olaR=838673)[“Shaping the Future of Energy”](https://www.23wpchouston.com/spotlight-episode2/#episode-1) Virtual**
+**​​[Antifoulings are a severe environmental concern](https://www.podbean.com/ew/pb-qaut2-fbe8c9)**. **Podcast**
 
-The title above is the 23rd World Petroleum Congress motto to be held in Houston, Texas, USA, from December 5th to 9th of 2021. As a prelude to the meeting, a series of online discussions between global leaders is being organized. The series’ forthcoming event will be dealing with “Innovating to Reinvent the Oil & Gas Industry for the Post-Pandemic Future and the New Energy System.” Invited panelists are Jeff Miller (Chairman, President, and CEO, Halliburton) and Mike Wirth (Chairman and CEO, Chevron). Moderator will be Muqsit Ashraf (Senior Managing Director and Global Energy Sector Lead, Accenture).
+One of the latest episodes of the AMPP Materials Performance magazine Interview Series deals is entitled “AMPP Technical Exchange on Ship Biofouling—A Success Story.” This event has been organized as a round table discussion between three AMPP Technical Exchange Group members in charge of ship hull fouling, antifouling methods, aquatic invasive species, and other biofouling-related interests of commercial shipping community. Topics discussed on the new podcast include the origins of the open group and motivations to join, success stories from the group over its three-plus years, efforts to synchronize the TEG’s work with other shipping trade organizations’ ongoing development structure of AMPP's technical program. Invited speakers are Elisabeth Charmley, Naval Architect for one of the world's largest ship managers; Johnny Eliasson, Hull and Coatings Engineer at Chevron Shipping; and Buddy Reams, Captain USCG.
 
-**Date:** Wednesday, February 3rd, 2021.
+​**[What is the future of coal?](https://wbtellmehow.podbean.com/e/tell-me-how-to-do-just-transitions-in-the-coal-sector/)**. **Podcast**
 
-**Time:** 10:00 (CST, USA).
+Talking about sustainability, circular economy, net-zero emissions, CCUS, and many other challenges and promising answers in front of climate change, the coal sector has become a culprit. In the energy transition movement, coal is the “past,” it is not considered an option at all, and most of the initiatives aim to bury it. But many regional and national economies are supported by such minerals. It is a huge problem, a significant challenge. The World Bank has launched the podcast series “Tell me How,” devoted to chat with global experts about finding the right solutions. The first episode of its podcast concerns with coal situation.
 
-​\
-​**[Take a Corrosion course!](https://www.nacecolombia.com/educacion/programacion-de-cursos.html)** **Bogota**
+​**​[Caring the assets from tiredness](http://www.fatigue2021.com/)**. **Virtual**
 
-You can cover the basic concepts to technical subjects about preventing and controlling corrosion problems, including issues directly related to your company’s concerns. ACICOR (AMPP Colombia, formerly NACE Colombia) offers a list of courses given by high-level experts. Further than improving your skills, you will obtain an international certification required by most companies worldwide or bonus in many other situations. Your CV would be highlighted with such kind of formation. Do not wait for applying and start now to get new benefits for your future professional performance! The following are the courses programmed during the next months:
-
-\- CP1 - Cathodic Protection Tester, Bogota, February 22nd to 26th, 2021.
-
-\- CIP1 - Coating Inspector Level 1, Bogota, March 1st to 5th, 2021.
-
-\- CIP2 - Coating Inspector Level 2, Bogota, April 12th to 16th, 2021.
-
-\- CP2 - Cathodic Protection Technician, Bogota, April 19th to 23rd, 2021.
-
-\- CP# - Cathodic Protection Technologist, Bogota, May 24th to 28th, 2021.
-
-​\
-​**F[racture matters](https://www.journals.elsevier.com/theoretical-and-applied-fracture-mechanics/webinars/tafmec-on-line-seminar). Virtual**
-
-Prof. Luca Susmel, Editor-in-Chief of “Theoretical and Applied Fracture Mechanics” - TAFMEC, supported by Elsevier, invites you to attend a series of free webinars on the subject. The next presentation about “Smeared vs. discrete approaches in computational fracture mechanics “ will be given by Prof. René de Borst from the University of Sheffield - UK. Prof. de Borst is an internationally renowned expert on computational mechanics and numerical methods in engineering, currently dealing with topics like fracture in porous media.
-
-**Date:** Friday, January 29th, 2021.
-
-**Time:** 9:00 (GMT).
-
-​<span>Photo by <a href="https://unsplash.com/@angarav?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Antonio Garcia</a> on <a href="https://unsplash.com/s/photos/solar-energy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-​
+Online and on-demand. The Engineering Integrity Society – EIS is an international organization focusing on fatigue, testing, and durability, founded in 1985. Currently, EIS is organizing the FATIGUE 2021 Conference, to be held from the 29th to the 31st of March, 2021. According to the organizers, the event will be devoted to exploring the latest developments in engineering modeling and simulation, advances in test and measurement techniques, innovations in manufacturing, developments in materials science, and all the complex interrelations between all these topics that give rise to improvements in fatigue performance, durability, and structural integrity.[](https://marinecorrosionforum.co.uk/attend/ola/services/exposure-of-various-polymer-lined-carbon-steel-pipe-sections-to-a-sour-hydrocarbon-fluid-at-a-maximum-service-temperature-methodology-and-observations?olaT=2021-01-21T12%3A00%3A00.000Z&olaR=838673)
