@@ -41,7 +41,7 @@ featuredImage: /assets/jj-ying-4xvazn8_who-unsplash.jpg
 
 *March 23, 2021*
 
-> Quote of the week: “Knowledge is more powerful than physical strength, and no great work can be done without knowledge.” — Ancient Sanskrit Indian proverb.
+> Quote of the week: “**MIC is mainly a result of poor material selection and bad management decisions.**” — [Quot](https://doi.org/10.1016/j.corsci.2020.108641)**[e from a workshop held June 2018 in Singapore](https://doi.org/10.1016/j.corsci.2020.108641).**
 
 - - -
 
