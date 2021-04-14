@@ -2,7 +2,7 @@
 template: blog-post
 title: "PATENTS OR BITCOIN? "
 slug: /13/04/2021/patents-or-bitcoin
-date: 2021-04-13 11:34
+date: 2021-04-13 07:15
 description: >-
   There is a reason for a problematic analogy. Patents have a history of
   millennials, and bitcoin’s history is just more than one decade. But if one of
