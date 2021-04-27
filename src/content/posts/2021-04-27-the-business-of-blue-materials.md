@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: THE BUSINESS OF ''BLUE MATERIALS''
-slug: /13/04/2021/the-business-of-blue-materials
+slug: /27/04/2021/the-business-of-blue-materials
 date: 2021-04-27 09:28
 description: >-
   Today there are more and more concerns about how the economy works. Two
