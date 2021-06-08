@@ -69,10 +69,17 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
-    {
+    /* {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: settings.ga,
+      },
+    }, */
+    {
+      resolve: `gatsby-plugin-google-tagmanager`,
+      options: {
+        id: settings.tagmanager,
+        includeInDevelopment: false,
       },
     },
     `gatsby-plugin-advanced-sitemap`,
