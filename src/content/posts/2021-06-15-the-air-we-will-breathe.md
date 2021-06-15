@@ -2,7 +2,7 @@
 template: blog-post
 title: The air we will breathe
 slug: /15/06/2021/the-air-we-will-breathe
-date: 2021-06-15 07:15
+date: 2021-06-15 13:07
 description: >-
   Besides, the Millennium Project, fostered by the United Nations, established a
   list of 15 global challenges for humanity, and the first one was Sustainable
