@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: A unique tool for corrosion fighting
-slug: /22/06/2021/A-unique-tool-for-corrosion-fighting
+slug: /22/06/2021/a-unique-tool-for-corrosion-fighting
 date: 2021-06-22 10:21
 description: >-
   That was a golden period of inventions. Soon, Others like Galileo Galilei
