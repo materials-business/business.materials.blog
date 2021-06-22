@@ -203,8 +203,6 @@ The Combustion Engine Reimagined , the company focuses on military and aerospace
 
 # Networking & Knowledge Exchange
 
-
-
 ​
 
 **​[ICFSCCP 2021: 15. International Conference on Functional and Smart Coatings for Corrosion Prevention.](https://app.convertkit.com/campaigns/6504432/International%20Conference%20on%20Functional%20and%20Smart%20Coatings%20for%20Corrosion%20Prevention%20ICFSCCP%20in%20June%202021%20in%20Dubai%20(waset.org)) Virtual**
