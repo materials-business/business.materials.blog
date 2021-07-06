@@ -32,8 +32,6 @@ featuredImage: /assets/sai-kiran-anagani-5ntkpxqt54y-unsplash.jpg
 *July 06, 2021*
 
 > **Quote of the week:** ''The journey of a thousand miles begins with one step.” — **Lao Tzu, ancient Chinese philosopher, and writer.**
->
-> <!--EndFragment-->
 
 - - -
 
