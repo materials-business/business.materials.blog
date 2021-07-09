@@ -103,9 +103,7 @@ According to the International Energy Agency, the global steel industry needs to
 
 Companies in the sector are considering electric arc furnaces while developing hydrogen and carbon capture technologies to reduce emissions.
 
-**​[\- Source -](https://app.convertkit.com/campaigns/6597212/Steel%20industry%20to%20write%20off%20up%20to%20%2470bn%20in%20assets%20if%20it%20keeps%20betting%20on%20coal,%20report%20says%20-%20CityAM%20:%20CityAM)​**
-
-​\
+[\- Source -​](https://www.cityam.com/steel-industry-to-write-off-up-to-70bn-in-assets-if-it-keeps-betting-on-coal-report-says/)\
 ​
 
 **US naval aviation to get a bird’s-eye view on corrosion**
@@ -114,7 +112,7 @@ Companies in the sector are considering electric arc furnaces while developing h
 
 Built by Simple Technology Solutions under the SBIR contract with the DON Office of Naval Research and in conjunction with maintenance experts in the Navy's Naval Enterprise Sustainability Technology Group, redOx uses aircraft commercially available drones and Google's cloud-native computer vision capabilities to provide inspectors with a visual view of corrosion and actionable data in near real time. Instead of sifting and analyzing thousands of images, redOx prioritizes severe corrosion cases and locations that will require human analysis and intervention. Department of Transport's Maritime Bureau with 90% accuracy and very little bias. MARAD assets will also be used in the next phase of redOx.
 
-**​[\- Source -](https://app.convertkit.com/campaigns/6597212/Naval%20Aviation%20to%20Get%20Bird%E2%80%99s-Eye%20View%20on%20Corrosion%20-%20The%20Southern%20Maryland%20Chronicle)​**
+**​[\- Source -](https://southernmarylandchronicle.com/2021/06/30/naval-aviation-to-get-birds-eye-view-on-corrosion/)​**
 
 ​\
 ​
@@ -125,7 +123,7 @@ Built by Simple Technology Solutions under the SBIR contract with the DON Office
 
 Non-destructive assessment techniques based on ultrasound, energy harvesting, and wireless sensor networks are increasingly effective in monitoring damage in aerospace. However, there is an urgent need to integrate these approaches and techniques from the design of an aircraft. To integrate these approaches and meet future challenges, the COST action: Optimizing Design for Inspection, launched in 2019, has established a network of leading European experts in several key areas to develop an integrated framework for Optimized auto-detection structures capable of diagnosis and prognosis. In this context, the action has effectively established an interdisciplinary network of mechanical and electrical engineering, computer science, mathematics, materials science of 29 countries. They aim to connect researchers in academia, including early career researchers and industry, who share a vision of delivering safer and greener aerospace travel.
 
-**​[\- Source -](cost:%20Strengthening%20the%20EU%20aerospace%20industry%20by%20Optimizing%20Design%20for%20Inspection%20%7C%20Science%7CBusiness%20(sciencebusiness.net))**
+**​[\- Source -](https://sciencebusiness.net/network-updates/cost-strengthening-eu-aerospace-industry-optimizing-design-inspection?utm_source=Science%7CBusiness+Newsletters&utm_campaign=37c84dc9b8-EMAIL_CAMPAIGN_4_26_2021_17_43_COPY_02&utm_medium=email&utm_term=0_179178d214-37c84dc9b8-138513449)**
 
 <!--EndFragment-->
 
@@ -136,7 +134,7 @@ Non-destructive assessment techniques based on ultrasound, energy harvesting, an
 <!--StartFragment-->
 
 **\
-​[Ph.D. student in materials with a focus on alloy development](https://app.convertkit.com/campaigns/6597212/Ph.D.%20student%20in%20Materials%20&%20Manufacturing%20with%20a%20focus%20on%20Alloy%20Development%20(varbi.com))​**
+​[Ph.D. student in materials with a focus on alloy development](https://ju.varbi.com/en/what:job/jobID:411267/where:4/)​**
 
 **Position:** Ph.D. student in Materials and Manufacturing.
 
@@ -157,9 +155,9 @@ Non-destructive assessment techniques based on ultrasound, energy harvesting, an
 ​\
 ​
 
-**​[Materials and corrosion inspector](https://app.convertkit.com/campaigns/6597212/Materials%20and%20Corrosion%20Inspector,%20Perth%20Airswift)​**
+**[​Materials and corrosion inspector​](https://jobs.airswift.com/job/materials-and-corrosion-inspector)**
 
-**Position:** Materials and Corrosion Inspector
+**[](https://jobs.airswift.com/job/materials-and-corrosion-inspector)Position:** Materials and Corrosion Inspector
 
 **Seeker:** Airswift Trusted.
 
@@ -178,7 +176,7 @@ Non-destructive assessment techniques based on ultrasound, energy harvesting, an
 ​\
 ​
 
-**​[Associate professor in Chemical Engineering ](https://app.convertkit.com/campaigns/6597212/Job%20Search%20-%20Jobs%20at%20Monash%20(pageuppeople.com))**​
+**​[Associate professor in Chemical Engineering ](https://careers.pageuppeople.com/513/cw/en/job/618806/lecturer-senior-lecturer-associate-professor-in-chemical-engineering)**​
 
 **Position:** Associate Professor in Chemical Engineering
 
@@ -196,7 +194,7 @@ Non-destructive assessment techniques based on ultrasound, energy harvesting, an
 ​\
 ​
 
-**​[Underwater maintenance planner](https://app.convertkit.com/campaigns/6597212/Underwater%20Maintenance%20Planner%20Job%20at%20Calaya%20Engineering%20Services%20in%20Calaya%20Engineering%20Services%20-%20GrabJobs)**​
+**​[Underwater maintenance planner](https://grabjobs.co/nigeria/job/full-time/customer-service-bpo/3659013?utm_source=linkedInXML)**​
 
 **Position:** Underwater Maintenance Planner
 
@@ -236,7 +234,7 @@ Brazil is going to return to host one of the major worldwide events of corrosion
 ​\
 ​
 
-**​[International conference on marine corrosion engineering and prevention technologies.](https://app.convertkit.com/campaigns/6597212/International%20Conference%20on%20Marine%20Corrosion%20Engineering%20and%20Prevention%20Technologies%20ICMCEPT001%20in%20July%202021%20in%20Helsinki%20(waset.org)) Virtual**
+**​[International conference on marine corrosion engineering and prevention technologies.](https://waset.org/marine-corrosion-engineering-and-prevention-technologies-conference-in-july-2021-in-helsinki) Virtual**
 
 ICMCEPT001 conference will gather eminent scientists, researchers from universities to exchange and share experiences and research results on all aspects of technical ceramics structures and corrosion. There will be several selected high-impact papers. You will be attending topics like:
 
@@ -253,7 +251,7 @@ ICMCEPT001 conference will gather eminent scientists, researchers from universit
 ​\
 ​
 
-**​[CIP 2 - Coating Inspector Level 2.](https://app.convertkit.com/campaigns/6597212/Formulario%20de%20inscripci%C3%B3n%20en%20cursos%20(nacecolombia.com)) In-person**
+**​[CIP 2 - Coating Inspector Level 2.](https://www.nacecolombia.com/formulario-de-inscripcion-en-cursos.html) In-person**
 
 Spanish-speaking people. **[Colombian Association of Corrosion Engineers](https://www.nacecolombia.com/)** offers a five-day course focused on advanced inspection techniques and specialized application methods for steel and non-steel substrates, including concrete that uses non-destructive and destructive techniques. It also covers surface preparation, coating types, inspection criteria, laboratory testing, and failure modes for various coatings, including specialized coatings and coatings. At the end of the course, you will be able to explain the advanced theory of corrosion with an introduction to cathodic protection when used with coatings and identify the types of environmental controls, equipment, and care that the inspector must have also handle advanced environmental testing instruments and inspection activities associated with the use of digital electronic hygrometers, data logging, and wind speed monitors.
 
@@ -264,7 +262,7 @@ Spanish-speaking people. **[Colombian Association of Corrosion Engineers](https
 ​\
 ​
 
-**​[International Color and Coating Congress ICCC.](https://app.convertkit.com/campaigns/6597212/The%208th%20International%20Color%20&%20Coating%20Congress%20(icrc.ac.ir)) Virtual**
+**​[International Color and Coating Congress ICCC.](http://iccc2021.icrc.ac.ir/) Virtual**
 
 The Institute for Color Science and Technology, Tehran, Iran, offers a two-day educational program to cover color and colorants topics as color physics, colorants and coloration technology, pigments, and glaze technology on symposium A. Symposium B will be considering topics as surface coatings and corrosion, including coating raw materials, smart and functional coatings, and environmental degradation.
 
