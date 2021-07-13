@@ -30,8 +30,6 @@ featuredImage: /assets/imgix-klwuhr-wpj8-unsplash.jpg
 
 # From The Editor's Corner
 
-
-
 # **Technology transfer is a valuable tool**
 
 ​\
@@ -71,8 +69,6 @@ Scientific and technical networking is not new. History mentions their meeting p
 ​\
 One of the objectives of the ICC is to convene a periodical world meeting. The first one was in 1961, as a preamble of the ICC, and the coming one, the 21st International Corrosion Congress, will be held virtually next week, from Tuesday to Friday, July 20th to 23rd of 2021. On this occasion, the organization is under the responsibility of the Brazilian Association of Corrosion – ABRACO. The motto of the 21st ICC is “Smart Solutions for Asset Integrity.” Around the organization, many companies are supporting and participating, such as Aperam, Sandvik, Jotum, Gamry, Gerdau, Hita-Belzona, Institute of Corrosion, and Metrohm. Also, many Brazilian governmental entities (IPT, CNPq, FAPESP, CAPES, etc.), Universities (the University of Sao Paulo and the Federal University of Rio de Janeiro), institutes (IPEN, INT, IPT, etc. And professional associations (ABNT, ABINX, ABENDI, ABAL; ABCP, ABCEM, etc.). Of course, also hundreds of Corrosionists from around the world, presenting their advances and doing networking. Some of the most globally recognized Corrosionists will be plenary lectures: Oscar Rosa Mattos (Brazil, editor of Corrosion Science), Gerald Frankel (the USA, editor of the Journal of the Electrochemical Society), Nick Birbilis (Australia, editor of npj Materials Degradation), V.S.Raja (India, Transactions of the Indian Institute of Metals), Randa Abdel-Karim (Vice Dean for Community Services and Environmental Affairs- Faculty of Engineering, Egypt), Günter Schmitt (Germany, current President of the ICC), Mario Ferreira (Portugal, Marcel Pourbaix Award 2021), and Tesuo Shoji (Japan, Marcel Porbaix Award, 2021). These and many other reasons included in the entire program of the meeting are the powerful reasons for inviting all of us to attend the 21st International Corrosion Congress, including its commercial exhibition, which can be visited free of charge. As the President of ABRACO and the Organizing Committee, Prof. Zehbour Panossian, “the main global corrosion congress.”
 
-
-
 **Remember: Protection of materials and equipment is a profitable business!**
 
 **Prof. Carlos Arroyave, Ph.D. Editor.**
@@ -82,10 +78,6 @@ One of the objectives of the ICC is to convene a periodical world meeting. The f
 - - -
 
 # Materials Biz News
-
-
-
-
 
 **Infrastructure needs Corrosionists caring**
 
@@ -120,10 +112,6 @@ Prof José Manuel Torralba says ‘’ I am very honored to be awarded the FEMS 
 - - -
 
 # Jobs
-
-
-
-
 
 **​[Dealing with materials circularity](https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=1511&nPostingTargetId=3444&id=QEZFK026203F3VBQBLO6G68W9&LG=NL&mask=external)**​
 
@@ -188,10 +176,6 @@ Prof José Manuel Torralba says ‘’ I am very honored to be awarded the FEMS 
 - - -
 
 # Networking & Knowledge Exchange
-
-
-
-
 
 **​[Steel Metallography.](https://www.asminternational.org/learning/courses/-/journal_content/56/10192/43338892/CLASS) On person.**
 
