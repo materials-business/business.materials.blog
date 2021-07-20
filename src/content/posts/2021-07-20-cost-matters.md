@@ -100,10 +100,6 @@ In the end, the report's main recommendations focus on business culture, facing 
 
 # Materials Biz News
 
-
-
-
-
 **National artificial intelligence initiative**
 
 **​**
@@ -141,8 +137,6 @@ The first Iperion HS doctoral summer school which started online today, July 13,
 - - -
 
 # Jobs
-
-
 
 **​[Sinter-based additive manufacturing of biodegradable metallic orthopedic implants](https://mateis.insa-lyon.fr/sites/mateis.insa-lyon.fr/files/thesecarnot_desirera_mateis.pdf)​**
 
@@ -232,8 +226,6 @@ The first Iperion HS doctoral summer school which started online today, July 13,
 - - -
 
 # Networking & Knowledge Exchange
-
-
 
 **​[International Conference on Concrete Durability and Steel Corrosion.](https://waset.org/concrete-durability-and-steel-corrosion-conference-in-july-2021-in-dubai) Virtual**
 
