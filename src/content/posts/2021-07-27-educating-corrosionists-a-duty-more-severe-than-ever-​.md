@@ -79,10 +79,6 @@ On the other side, concerns about global warming and sustainability of the Earth
 
 # Materials Biz News
 
-
-
-
-
 **Non-intrusive corrosion monitoring**
 
 **​**
@@ -124,8 +120,6 @@ A safe and effective flight is founded on drone hardware, but transmission tower
 - - -
 
 # Jobs
-
-
 
 <!--StartFragment-->
 
@@ -199,8 +193,6 @@ A safe and effective flight is founded on drone hardware, but transmission tower
 
 # Networking & Knowledge Exchange
 
-
-
 <!--StartFragment-->
 
 **​[Master painters institute MPI Commercial Coatings Summit.](https://mpisummit.nace.org/?utm_campaign=Education%20-%20Corrosion%20Technical%20Series&utm_medium=email&_hsmi=107681968&_hsenc=p2ANqtz-9H7jUKc3swstjRVmexBT5MUmjT6IruLJdxUuQIDQXy_nU-jHnZ77lFAR6bBj0zDPeQfrPyxqa1uPIMMcmjJbKXxbmkBzx9TC_Qy6uvV-qKxf2I1xM&utm_content=107681968&utm_source=hs_email) Virtual and in person**
@@ -242,7 +234,5 @@ AM Industry Summit, powered by **[ASME](https://www.asme.org/)** will be shari
 ● Fun, free educational resources for kids and teens
 
 **Dates:** Wednesday to Friday, August 18th, to 20th, 2021.
-
-
 
 Photo by [ThisisEngineering RAEng](https://unsplash.com/@thisisengineering?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/engineering-class?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
