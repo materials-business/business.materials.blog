@@ -33,7 +33,7 @@ featuredImage: /assets/thisisengineering-raeng-jzdrzzz50ta-unsplash.jpg
 
 *July 27, 2021*
 
-> **Quote of the week:** '' ”
+> **Quote of the week:** ''Just imagine what you can do” - Richard Branson, entrepreneur (England, 1950) during a trip to the edge of space on July 12th, 2021.
 
 - - -
 
