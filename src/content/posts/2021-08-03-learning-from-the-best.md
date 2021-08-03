@@ -41,11 +41,7 @@ featuredImage: /assets/the-climate-reality-project-hb6uwq0i4mi-unsplash.jpg
 
 # From The Editor's Corner
 
-
-
 # **Learning from the best**
-
-
 
 **Valuable experience in today's digital world**
 
@@ -118,8 +114,6 @@ In the end, it is possible to say that there are significant advances in the und
 ​\
 ​
 
-
-
 **Remember: Protection of materials and equipment is a profitable business!**
 
 **Prof. Carlos Arroyave, Ph.D. Editor.**
@@ -129,8 +123,6 @@ In the end, it is possible to say that there are significant advances in the und
 - - -
 
 # Materials Biz News
-
-
 
 **How industry can get more value out of maintenance**
 
@@ -165,8 +157,6 @@ The first 3D-printed steel bridge was unveiled in Amsterdam, the Netherlands. It
 - - -
 
 # Jobs
-
-
 
 **​[An inspector for the O&G](https://careers.bpglobal.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25078&siteid=5012&jobId=143618#jobDetails=143618_5012)​**
 
@@ -238,10 +228,6 @@ The first 3D-printed steel bridge was unveiled in Amsterdam, the Netherlands. It
 
 # Networking & Knowledge Exchange
 
-
-
-
-
 **​[ABRAFATI show 2021.](https://abrafati.com.br/abrafati-2021/) In-person**
 
 **​**
@@ -279,7 +265,5 @@ The first 3D-printed steel bridge was unveiled in Amsterdam, the Netherlands. It
 ● Lionel Sheir Prize for the best presentation by a speaker aged 30 or under
 
 **Dates:** Monday to Thursday, September 6th to 9th, 2021.
-
-
 
 Photo by [The Climate Reality Project](https://unsplash.com/@climatereality?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/conference?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
