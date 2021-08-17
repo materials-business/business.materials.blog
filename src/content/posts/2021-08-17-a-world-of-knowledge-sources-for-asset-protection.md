@@ -30,6 +30,7 @@ description: >-
   ​
 
   Miaomiao Cui and cols. published a review about recent progress on several nature mimicking approaches. They considered some of the most critical mechanisms of anticorrosive protection by coatings about recent progress on several nature mimicking approaches. They reviewed works on the functional barrier (liquid-repellent surfaces or superhydrophobic), transport control of corrosives (self-healing epoxy coatings), and interfacial bonding with the substrate (nanofibrillar structures mimicking gecko lamellae). Their main conclusion is linked to the long road still to be traveled to take real advantage of the examples of nature. A relevant situation facing the current situation where sustainability is more important than ever, and nature mimicking could be one of the best ways to attend to such demands.
+featuredImage: /assets/louis-reed-pwckf7l4-no-unsplash.jpg
 ---
 # **Materials.Business Weekly ⚙️**
 
