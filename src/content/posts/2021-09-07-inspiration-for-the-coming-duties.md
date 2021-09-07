@@ -20,7 +20,7 @@ featuredImage: /assets/scott-graham-5fnmwej4taa-unsplash.jpg
 
 *September 07, 2021*
 
-**Quote of the week:** 
+**Quote of the week:** “They did not know it was impossible, so they did it". **Mark Twain (Samuel Langhorne Clemens), US writer, 1835 – 1910.**
 
 - - -
 
@@ -38,10 +38,6 @@ Some months ago, this newsletter made a ***[call](https://news.materials.busine
 **Prof. Carlos Arroyave, Ph.D. Editor.**
 
 **​[www.arroyave.co](https://click.convertkit-mail2.com/wvu5e578k6sgh78kpgf7/p8heh9h9243zk3uq/aHR0cHM6Ly9hcnJveWF2ZS5jby8=)**
-
-
-
-
 
 **Driving Corrosionists’ innovation**
 
@@ -108,8 +104,6 @@ Some months ago, this newsletter made a ***[call](https://news.materials.busine
 
 # Materials Biz News
 
-
-
 **\
 ​[Ocean engineers are improving material safety in coastal structures](https://today.tamu.edu/2021/08/03/how-ocean-engineers-are-improving-material-safety-in-coastal-structures/)**​
 
@@ -139,8 +133,6 @@ Japan's largest air conditioner manufacturer, Daikin Industries, will halve the 
 
 # Jobs
 
-
-
 **​[Working with our innovative engineering team](https://jobs.materials.business/)​**
 
 **​**
@@ -165,15 +157,9 @@ Japan's largest air conditioner manufacturer, Daikin Industries, will halve the 
 
 ​[Postdoctoral position](https://jobs.materials.business/)
 
-
-
 - - -
 
 # Networking & Knowledge Exchange
-
-
-
-
 
 **​[Microbiologically Influenced Corrosion.](https://fleming.events/microbiologically-influenced-corrosion/) Virtual**
 
@@ -217,7 +203,5 @@ Sciforum is offering a webinar to develop the eco-friendly inhibitors, applicati
 **Deadline for New Submissions:** Friday, September 17, 2021
 
 **Dates:** FromWednesday, November 03rd to Friday, November 05th of 2021
-
-
 
 Photo by [Ant Rozetsky](https://unsplash.com/@rozetsky?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/steel-industry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
