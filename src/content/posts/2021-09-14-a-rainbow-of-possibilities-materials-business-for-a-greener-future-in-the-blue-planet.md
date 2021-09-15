@@ -3,7 +3,7 @@ template: blog-post
 title: "A rainbow of possibilities: Materials business for a greener future in
   the blue planet"
 slug: /07/09/2021/a-rainbow-of-possibilities-materials-business-for-a-greener-future-in-the-blue-planet
-date: 2021-09-14 12:16
+date: 2021-09-14 21:53
 description: >-
   Right now, one year after the launching of Materials.Business Weekly, it is
   essential to explicitly recognize our convincement on the importance of such a
@@ -33,6 +33,7 @@ description: >-
 
 
   ​
+featuredImage: /assets/francesco-lo-giudice-cksqio9j6e8-unsplash.jpg
 ---
 # **Materials.Business Weekly ⚙️**
 
