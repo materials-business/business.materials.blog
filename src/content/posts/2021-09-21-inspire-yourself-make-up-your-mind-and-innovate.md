@@ -56,11 +56,7 @@ featuredImage: /assets/alexander-schimmeck-jfdnveccq9w-unsplash.jpg
 
 # From The Editor's Corner
 
-
-
 # **Inspire yourself, make up your mind and innovate!**
-
-
 
 We are again examining the vast database of useful technical information on more than 130 million patents currently available globally. Old inventions are supporting the new ones. New developments by your partners, rivals, and paradigmatic companies. Solutions for your current problems. Cutting and emerging technologies.
 
@@ -79,16 +75,12 @@ We are again examining the vast database of useful technical information on more
 
 **Nanocoating against crust and scale**. Finally, we have found an application from the academy concerning an anticorrosive coating for high-temperature applications like heat exchangers. Basic scientific principles applied to practical engineering solutions. This innovation is based on the physicochemical changes achieved by a nano coating as a barrier for the nucleation of undesirable precipitates (scale, crusts, etc.) on the surface of interest.
 
-
-
 ​​\
 ​**Remember: Protection of materials and equipment is a profitable business!**
 
 **Prof. Carlos Arroyave, Ph.D. Editor.**
 
 **​[www.arroyave.co](https://click.convertkit-mail2.com/wvu5e578k6sgh78kpgf7/p8heh9h9243zk3uq/aHR0cHM6Ly9hcnJveWF2ZS5jby8=)**
-
-
 
 **Expired exclusivity**
 
@@ -152,10 +144,6 @@ We are again examining the vast database of useful technical information on more
 
 # Materials Biz News
 
-
-
-
-
 **​[Special Issue "Corrosion and Surface Modification of Metallic Materials"](https://www.mdpi.com/journal/metals/special_issues/C_S_M)​**
 
 **​**
@@ -165,7 +153,7 @@ Metallic materials are those materials most used daily and at the engineering le
 ​\
 ​
 
-**​*[Metals](https://www.mdpi.com/journal/metals)*** is an international, **[peer-reviewed](https://www.mdpi.com/editorial_process)**, open-access journal published monthly online by ***[MDPI](https://www.mdpi.com/)*. [Open Access](https://www.mdpi.com/openaccess)**— free for readers, with **[article processing charges (APC)](https://www.mdpi.com/journal/metals/apc)** paid by authors or their institutions. Remarkable characteristics of the journal are high visibility, a rapid publications process, recognition of reviewers, and a high impact (impact factor of 2.351 in 2020 and a 5-Year Impact Factor of 2.487). A special issue of Metals, with Prof. William Aperador (Department of Engineering, Universidad Militar Nueva Granada, Bogota, Colombia) acting as the Guest Editor, will be published next year. Contributions on subjects concerning the following keywords are kindly invited: metals; corrosion; hard coatings; physical vapor deposition; tribometers; fretting corrosion; potentiodynamic polarization.
+**​*[Metals](https://www.mdpi.com/journal/metals)*** is an international, **[peer-reviewed](https://www.mdpi.com/editorial_process)**, open-access journal published monthly online by ***[MDPI](https://www.mdpi.com/)*. [Open Access](https://www.mdpi.com/openaccess)**— free for readers, with **[article processing charges (APC)](https://www.mdpi.com/journal/metals/apc)** paid by authors or their institutions. Remarkable characteristics of the journal are high visibility, a rapid publications process, recognition of reviewers, and a high impact (impact factor of 2.351 in 2020 and a 5-Year Impact Factor of 2.487). A special issue of Metals, with Prof. William Aperador (Department of Engineering, Universidad Militar Nueva Granada, Bogota, Colombia) acting as the Guest Editor. Contributions on subjects concerning the following keywords are kindly invited: metals; corrosion; hard coatings; physical vapor deposition; tribometers; fretting corrosion; potentiodynamic polarization.
 
 **Deadline for manuscript submissions:** 31 August 2022.
 
@@ -198,8 +186,6 @@ SPEE3D has added 316L stainless steel to the list of materials that can now be u
 - - -
 
 # Jobs
-
-
 
 **​[Join to one of the largest publicly traded international oil and gas companies](https://jobs.materials.business/)​**
 
@@ -236,10 +222,6 @@ SPEE3D has added 316L stainless steel to the list of materials that can now be u
 - - -
 
 # Networking & Knowledge Exchange
-
-
-
-
 
 **​[International stainless and special steel conference 2021.](http://planner.smr-events.com/events/details/stainless-special-steel-conference-2021.html) In-person**
 
