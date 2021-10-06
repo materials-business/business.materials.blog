@@ -51,6 +51,7 @@ featuredImage: /assets/chuttersnap-xfayasmv1p8-unsplash.jpg
 # **Corrosion resistant light alloys, smart surface cleaning, and more sustainable cars**
 
 \
+
 <!--StartFragment-->​​
 
 A new overview of the files of the six most representative patent offices in the world provides us with three new inspiring papers on facing corrosion problems with innovation. Just a reminder that all our community of corrosionists, independent of the level of expertise, or the working place, can look for novel solutions. Many times. These solutions are prone to become protected knowledge and patenting is one interesting way. A pathway for constructing intellectual capital and intangible but valuable assets.
@@ -76,8 +77,6 @@ A new overview of the files of the six most representative patent offices in the
 **Prof. Carlos Arroyave, Ph.D. Editor.**
 
 **​[www.arroyave.co](https://click.convertkit-mail2.com/wvu5e578k6sgh78kpgf7/p8heh9h9243zk3uq/aHR0cHM6Ly9hcnJveWF2ZS5jby8=)**
-
-
 
 <!--StartFragment-->
 
@@ -147,8 +146,6 @@ A new overview of the files of the six most representative patent offices in the
 
 # Materials Biz News
 
-
-
 <!--StartFragment-->
 
 **​[3D printing to boost exchanger performance](https://3dprintingindustry.com/news/engineers-use-3d-printing-technology-to-boost-heat-exchanger-performance-by-2000-196500/)​**
@@ -180,8 +177,6 @@ A hydrometallurgical process to recover vanadium from slag, a byproduct of steel
 - - -
 
 # Jobs
-
-
 
 <!--StartFragment-->
 
@@ -215,15 +210,7 @@ A hydrometallurgical process to recover vanadium from slag, a byproduct of steel
 
 - - -
 
-# Networking & Knowledge Exchange
-
-
-
-- - -
-
-# Upcoming events
-
-​​<!--StartFragment-->
+# Networking & Knowledge Exchange​​
 
 **​[Corrosion Modeling Basics.](https://www.olisystems.com/wcmb) Virtual**
 
@@ -275,8 +262,6 @@ For Spanish speakers.** [Colombian Association of Engineers](https://aciem.org/
 
 **Hours:** 18:30 to 20:30 (GMT – 5)
 
-
-
 - - -
 
 # Upcoming events
@@ -286,7 +271,7 @@ For Spanish speakers.** [Colombian Association of Engineers](https://aciem.org/
 # **October 2021**
 
 ​\
-​**October 06th** Taking aluminum to new horizons[**(Link)**](https://estalcongress2021.org/)​
+​**October 06th** Taking aluminum to new horizons**[(Link)](https://estalcongress2021.org/)**​
 
 **​**
 
