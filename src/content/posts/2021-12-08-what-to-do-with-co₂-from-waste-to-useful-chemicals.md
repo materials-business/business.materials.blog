@@ -42,7 +42,7 @@ Only in 2019, ***[36 million tonnes of CO](https://ourworldindata.org/co2-emiss
 
 The most direct way to reduce CO₂ emissions is to stop producing them, but finding cleaner and profitable alternatives to fossil fuels remains a big challenge. Considering the large volumes of fossil fuels that are consumed and available today, these could still use them for at least another 100 years. In addition, several economies are still strongly dependent on ***[coal](https://www.worldstopexports.com/coal-exports-country/)***, such as Australia or Colombia.
 
-Thus, it is very important to stop treating CO₂ as waste. Instead, we need to look at it as a building block of chemicals and fuels. While researchers work towards developing efficient and industrially competitive alternative technologies to fossil fuels, capture and conversion of CO₂ are essential to decrease emissions. Some industries already use CO₂ as raw material, for example, for the production of urea (for fertilizers) and plastics. Many more useful products could be made from CO₂, such as olefins, methanol, and fuels. However, as illustrated in ***[this review article](https://doi.org/10.1002/cssc.201900915)***, there are still some limitations to the use of CO₂ in industry, mainly related to the capture and transport of CO2.
+Thus, it is very important to stop treating CO₂ as waste. Instead, we need to look at it as a building block of chemicals and fuels. While researchers work towards developing efficient and industrially competitive alternative technologies to fossil fuels, capture and conversion of CO₂ are essential to decrease emissions. Some industries already use CO₂ as raw material, for example, for the production of urea (for fertilizers) and plastics. Many more useful products could be made from CO₂, such as olefins, methanol, and fuels. However, as illustrated in ***[this review article](https://doi.org/10.1002/cssc.201900915)***, there are still some limitations to the use of CO₂ in industry, mainly related to the capture and transport of CO**₂**.
 
 But first, let’s have a look at the key steps to produce useful chemicals from CO₂. The first step is **CO₂ capture**, either directly from the atmosphere or from the flue gases of industrial processes. Capturing CO₂ from the air is mainly limited by the low concentration in the atmosphere (400 ppm). Thus, CO₂ capture from industrial flue gases becomes more attractive. In this case, it is necessary to separate the carbon dioxide from the rest of the flue gas components. This is mostly done by adsorption in liquid solvents (monoethanolamine, MEA), but solid adsorbents can be also used (activated carbons, molecular sieves, zeolites, and polymers). After capture, **compression and transport of CO₂** are the bottlenecks for its commercialization. Trucks are commonly used to deliver CO₂ by road. Pipelines are also being implemented, but this is only cheaper if it is done on a large scale.
 
@@ -54,9 +54,9 @@ For the conversion of CO₂ using heterogeneous catalysis we place a solid catal
 
 Common catalysts are supported materials, where the active component is dispersed over a supporting matrix. The active component is a metal or metal oxide (for example, cobalt or cobalt oxide), while the support (commonly alumina, silica, and titania, among others) is typically stable and inert. Nevertheless, certain supports play a crucial role in catalysis as they are in close contact with the active site.
 
-Through national and international collaborations, during my PhD I focused on exploring the performance of a family of novel materials called **MAX phases** as supports of metal oxides. MAX phases, such as Ti₃AlC or Ti₂AlN, are a family of layered ternary carbides and nitrides that combine ceramic and metallic properties: they show high-temperature strength and stiffness, and at the same time they are tough, ductile, and conduct electricity and heat. Therefore, they have been typically used for mechanical and thermal applications, such as structural coatings in fission and fusion reactors. Nevertheless, the ***[catalytic properties of MAX phases](https://doi.org/10.1002/anie.201702196)*** have attracted more attention in the last years.
+Through national and international collaborations, during my PhD I focused on exploring the performance of a family of novel materials called **MAX phases** as supports of metal oxides. MAX phases, such as Ti₃AlC**₂** or Ti₂AlN, are a family of layered ternary carbides and nitrides that combine ceramic and metallic properties: they show high-temperature strength and stiffness, and at the same time they are tough, ductile, and conduct electricity and heat. Therefore, they have been typically used for mechanical and thermal applications, such as structural coatings in fission and fusion reactors. Nevertheless, the ***[catalytic properties of MAX phases](https://doi.org/10.1002/anie.201702196)*** have attracted more attention in the last years.
 
-We found that cobalt oxide supported on **[Ti](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cssc.202001633)₂[AlC MAX phase](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cssc.202001633)** catalyst was active, selective, and stable during the butane dry reforming reaction. This reaction converts CO₂ and butane to synthesis gas. Synthesis gas (a mixture of carbon monoxide and hydrogen) is used in industry as the precursor of valuable chemicals, such as fuels or alcohols through the Fischer-Tropsch synthesis (FTS). Another type of MAX phase, Ti₃AlC₂, also showed interesting results when used as a support for molybdenum oxide during the reverse water-gas shift reaction. *[**In this study**,](https://doi.org/10.1021/acssuschemeng.0c07881)* the MAX phase catalyst increased the conversion of CO₂ and hydrogen compared to traditional materials at 550 °C. The main product of this reaction is carbon monoxide, a basic building block for a variety of important chemicals, such as paraffins and olefins.
+We found that cobalt oxide supported on **[Ti](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cssc.202001633)₂[AlC](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cssc.202001633)₂[ MAX phase](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cssc.202001633)** catalyst was active, selective, and stable during the butane dry reforming reaction. This reaction converts CO₂ and butane to synthesis gas. Synthesis gas (a mixture of carbon monoxide and hydrogen) is used in industry as the precursor of valuable chemicals, such as fuels or alcohols through the Fischer-Tropsch synthesis (FTS). Another type of MAX phase, Ti₃AlC₂, also showed interesting results when used as a support for molybdenum oxide during the reverse water-gas shift reaction. *[**In this study**,](https://doi.org/10.1021/acssuschemeng.0c07881)* the MAX phase catalyst increased the conversion of CO₂ and hydrogen compared to traditional materials at 550 °C. The main product of this reaction is carbon monoxide, a basic building block for a variety of important chemicals, such as paraffins and olefins.
 
 It is interesting to mention that the chemical treatment of MAX phases results in the formation of **MXenes**, a new family of 2D layered materials. MXenes are interesting in catalysis as their interlayer space and surface area are enhanced compared to MAX phases. In addition, they are hydrophilic, chemically stable, and excellent electrical conductors. Due to the high electrical conductivity and the high ion diffusion rate between layers, MXenes have been mainly used for energy storage devices and electrocatalysis. They are also promising materials for heterogeneous catalysis, and they have already been used in the ***[direct dehydrogenation of ethylbenzene](https://doi.org/10.1021/acscatal.8b02002)*** and *[**ammonia borane hydrolysis**,](https://doi.org/10.1088/2053-1583/ababef)* among other reactions.
 
@@ -79,8 +79,6 @@ More information on the workings of plasma-catalysis and details on our research
 - - -
 
 # **Materials Biz News**
-
-
 
 **​[The metaverse: a fantastic world of possibilities for corrosionists](https://www.cnbc.com/2021/11/19/nvidia-ceo-says-the-metaverse-could-save-companies-billions.html)​**
 
@@ -109,8 +107,6 @@ The above is the title of a recently published ***[book](https://www.routledge.
 - - -
 
 # **Jobs**
-
-
 
 **​[Developing transformational “green hydrogen” industrial electrolyzer systems](https://jobs.materials.business/job_post/developing-transformational-green-hydrogen-industrial-electrolyzer-systems-position-electrochemist)**​
 
@@ -150,8 +146,6 @@ The above is the title of a recently published ***[book](https://www.routledge.
 - - -
 
 # **Networking & Knowledge Exchange​​**
-
-
 
 **​[The Real Cost of Corrosion](https://www.eventbrite.ca/e/nace-webinar-series-monica-hernandez-and-sandy-williamson-tickets-218850135647?aff=efbneb). Virtual**
 
@@ -195,8 +189,6 @@ The above is the title of a recently published ***[book](https://www.routledge.
 
 # **Upcoming events**
 
-
-
 # **December 2021**
 
 **December 10th** The Real Cost of Corrosion. **[(Link)](https://www.eventbrite.ca/e/nace-webinar-series-monica-hernandez-and-sandy-williamson-tickets-218850135647?aff=efbneb)​**
@@ -228,7 +220,5 @@ The above is the title of a recently published ***[book](https://www.routledge.
 **​**
 
 2021 Corrosion science symposium and advances in corrosion protection by organic coatings **[(Link)](https://www.youtube.com/playlist?list=PLM9UK6ckT5kPCZS8MqU7ZiGhs8rvhuqux)**
-
-
 
 Photo by [Marek Piwnicki](https://unsplash.com/@marekpiwnicki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/co2?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
