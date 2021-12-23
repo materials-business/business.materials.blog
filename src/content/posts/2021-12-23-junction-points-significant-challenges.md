@@ -30,6 +30,7 @@ description: >-
 
 
   ​
+featuredImage: /assets/trnava-university-swcmzwrhqm8-unsplash.jpg
 ---
 # **Materials.Business Weekly ⚙️**
 
