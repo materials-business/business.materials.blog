@@ -24,6 +24,7 @@ description: Patenting activity is a direct measurement of the culture of
   Cu refining container. It is worth remembering that they are patents that have
   already expired. Therefore, all three are free for any use, including economic
   exploitation.
+featuredImage: /assets/markus-krisetya-k0jo8m6do6k-unsplash.jpg
 ---
 # **Materials.Business Weekly ⚙️**
 
