@@ -30,7 +30,7 @@ description: Technical advancements, scientific discoveries, and technological
   corrosion and protection must be closer to these three last sectors, but its
   investment is not told apart, but it is easier to think that its portion is
   tiny.
-featuredImage: /assets/brooke-lark-nmffl1zjbw4-unsplash.jpg
+featuredImage: /assets/brooke-lark-nmffl1zjbw4-unsplash-2.jpg
 ---
 <!--StartFragment-->
 
