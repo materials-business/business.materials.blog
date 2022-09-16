@@ -12,6 +12,7 @@ description: >-
 
 
   We are also sharing the new IPEIA conference, see information below.
+featuredImage: /assets/absolutvision-82tpeld0_e4-unsplash.jpg
 ---
 **Materials.Business Weekly Newsletter ⚙️**
 
@@ -40,9 +41,11 @@ Sponsorships are available – NOW!!
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/2p78aF08QzHdIydykh4SXM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
-
 # <iframe width="560" height="315" src="https://www.youtube.com/embed/JUH3NdvBdow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Photo by [AbsolutVision](https://unsplash.com/es/@freegraphictoday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/share?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+
 
 **[Blog](https://news.materials.business/)| [Advertise](http://news.materials.business/contact) | [Contact Us](http://news.materials.business/contact)|**
 
