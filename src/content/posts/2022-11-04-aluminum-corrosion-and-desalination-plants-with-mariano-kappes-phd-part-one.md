@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Aluminum, corrosion and desalination plants with Mariano Kappes PhD. Part one
-slug: Aluminum-corrosion-and-desalination-plants-with-Mariano-Kappes-PhD-Part-one
+slug: /aluminum-corrosion-and-desalination-plants-with-Mariano-Kappes-PhD-Part-one
 date: 2022-11-03 23:40
 description: >-
   Seawater desalination using waste heat from nuclear or fossil power plants is
