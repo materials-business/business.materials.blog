@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Aluminum, corrosion and desalination plants with Mariano Kappes PhD. Part two
-slug: /Aluminum-corrosion-and-desalination-plants-with-Mariano-Kappes-PhD-Part-two
+slug: /aluminum-corrosion-and-desalination-plants-with-Mariano-Kappes-PhD-Part-two
 date: 2022-11-03 23:44
 description: >-
   Figure 6. Micrographs of AA 5052 after conducting cyclic potentiodynamic
