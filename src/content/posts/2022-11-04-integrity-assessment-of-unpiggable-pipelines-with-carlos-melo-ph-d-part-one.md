@@ -46,6 +46,7 @@ description: >-
 
 
   ​
+featuredImage: /assets/navy-professional-webinar-facebook-post-1-.png
 ---
 <div class="email-content" style="padding:20px">
 <div class="spaced-contents">
