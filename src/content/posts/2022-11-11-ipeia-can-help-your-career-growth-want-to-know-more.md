@@ -26,6 +26,7 @@ description: >-
   Provide a forum for the interaction between industry, regulators and educators.
 
   Provide a platform through which pressure equipment industry concerns and or initiatives can take hold and be administered.
+featuredImage: /assets/navy-professional-webinar-facebook-post-6-1-.png
 ---
 <div class="email-content" style="padding:20px">
 <div class="spaced-contents">
