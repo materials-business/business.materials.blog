@@ -58,3 +58,4 @@ Welcome to **Materials Business!** This is an initiative oriented towards the cr
 </style></div>
 
 
+<img src="https://embed.filekitcdn.com/e/2Gr55sa5ghbmm2FFjpvZ6E/qshowhsAqkNKBM1yKS7QP3/email" width="550" height="1182" style="max-width: 100%; height: auto; border-radius: 4px; width: 450px;">
