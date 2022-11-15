@@ -25,7 +25,7 @@ Welcome to **Materials Business!** This is an initiative oriented towards the cr
   <!--[if mso]>
   <img width="200" src="https://embed.filekitcdn.com/e/2Gr55sa5ghbmm2FFjpvZ6E/5eFDwS1Nwh1PSznrBGzGJj" alt="">
   <![endif]-->
-  </div><div style="padding: 18px;"></table><style>
+  </table><style>
   @media only screen and (max-width:600px) {
     .ck-articlecards td {
       display: block !important;
@@ -56,4 +56,4 @@ Welcome to **Materials Business!** This is an initiative oriented towards the cr
 </style></div>
 
 
-<img src="https://embed.filekitcdn.com/e/2Gr55sa5ghbmm2FFjpvZ6E/qshowhsAqkNKBM1yKS7QP3/email" width="550" height="1182" style="max-width: 100%; height: auto; border-radius: 4px; width: 450px;">
+<img src="https://embed.filekitcdn.com/e/2Gr55sa5ghbmm2FFjpvZ6E/qshowhsAqkNKBM1yKS7QP3/email" width="750" height="1582" style="max-width: 100%; height: auto; border-radius: 4px; width: 750px;">
