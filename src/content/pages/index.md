@@ -8,6 +8,10 @@ cta:
   ctaText: Subscribe to the Newsletter
   ctaLink: https://materials.business?referer=news
 ---
+<img sizes="(max-width: 480px) 100vw, 480px" srcset="/static/e3361553ca8999d3e9ac16fcaedf1baf/18e3d/square_logo_with_structure.jpg 480w,
+/static/e3361553ca8999d3e9ac16fcaedf1baf/701ee/square_logo_with_structure.jpg 800w" src="/static/e3361553ca8999d3e9ac16fcaedf1baf/18e3d/square_logo_with_structure.jpg" alt="Materials Business - Featured image" loading="lazy" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: opacity 500ms ease 0s;">
+
+
 Welcome to **Materials Business!** This is an initiative oriented towards the creation of a virtual space for the updating and strengthening of your knowledge about relevant topics related to your duties on equipment’s integrity and materials protection.
 
  This space is designed as the meeting point for all the colleagues being part of your global community of managers and responsible people in charge of the management and decision in relation to materials and equipment integrity (planners, designers, plant managers and engineers, laboratory managers, QA&QC managers, researchers, contractors, and other specialists concerned with caring equipment and materials). From the design and selection to the disposal, after as long as possible life in service, according to the principles of Circular Economy and the expectations in front of a new economy for a more sustainable world.
