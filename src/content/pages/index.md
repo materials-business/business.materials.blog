@@ -52,9 +52,7 @@ Welcome to **Materials Business!** This is an initiative oriented towards the cr
     padding: 0 !important;
   }
 
-  .ck-layout-block p {
-    margin: 8px 0 !important;
-  }
+  
 </style></div>
 
 
