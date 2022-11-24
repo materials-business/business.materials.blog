@@ -1,0 +1,114 @@
+---
+template: blog-post
+title: What does a research engineer at Canmet materials does?
+slug: /What-does-a-research-engineer-at-Canmet-materials-does
+date: 2022-11-24 09:34
+description: >-
+  
+  In an effort to contribute towards closing the gap on the SDG number 5. We are dedicating a complete segment of two months only showcasing #brilliant, #beautiful, #powerful and very #sucessful #women, both English and Spanish speakers will make of these next months a unique moment to bring together viewpoints from their unique perspective, talk about things that nobody talks and listen how we can “extend the ladder” for the future generations.
+
+
+  Ever wondered what a research engineer working for the Canadian Government does? Then, join us for this amazing interview with Mirnaly Saenz de Miera, a research engineer and scientist whose experience includes materials performance, degradation, and protection in a wide variety of industries!
+
+
+  Dr. Mirnaly Saenz de Miera is a research engineer and scientist whose experience includes materials performance, degradation, and protection in a wide range of industries such as the oil&gas, aerospace, nuclear, automotive, and marine.
+
+
+  Dr. Saenz de Miera earned her PhD in Corrosion and Protection from The University of Manchester, England, and her Materials Engineering, with a mention in Metallurgy, at Universidad Simon Bolivar, Venezuela.
+
+
+  As an advocate in the fields of materials and corrosion, Mirnaly participates as one of the executive directors for the ASM Ontario Chapter, ASM Materials Camp® -Teachers and NACE Foundation of Canada.
+featuredImage: /assets/navy-professional-webinar-facebook-post-7-1-1-.png
+---
+<div class="email-content" style="padding:20px">
+<div class="spaced-contents">
+<!--[if mso]><style>.button-table { padding: 12px 0 }</style><![endif]-->
+<hr>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4"><span style="font-size:36px"><strong>Materials.Business Weekly Newsletter ⚙️</strong></span></p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4"><u>November 23, 2022</u></p>
+<hr>
+<table width="315" border="0" cellspacing="0" cellpadding="0" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt;table-layout:fixed" align="left" class="email-image"><tbody><tr><td align="left" style="vertical-align:top"><figure style="margin:1em 0;display:block;margin:0 15px 15px 0;max-width:100%;width:300px"><div style="display:block;max-width:300px"><img src="https://embed.filekitcdn.com/e/2Gr55sa5ghbmm2FFjpvZ6E/9rtgS7t2bWyky5Y5HJfhLq/email" width="300" style="border:0 none;display:block;height:auto;line-height:100%;outline:none;-webkit-text-decoration:none;text-decoration:none;max-width:100%;width:300px;max-width:100%;border-radius:4px"></div>
+<figcaption style="margin-top:0.4em;font-size:0.8em;text-align:center;display:none">​</figcaption></figure></td></tr></tbody></table>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">In an effort to contribute towards closing the gap on the SDG number 5. We are dedicating a complete segment of two months only showcasing #brilliant, #beautiful, #powerful and very #sucessful #women, both English and Spanish speakers will make of these next months a unique moment to bring together viewpoints from their unique perspective, talk about things that nobody talks and listen how we can “extend the ladder” for the future generations.
+</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4"> </p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">Ever wondered what a research engineer working for the Canadian Government does? Then, join us for this amazing interview with Mirnaly Saenz de Miera, a research engineer and scientist whose experience includes materials performance, degradation, and protection in a wide variety of industries!
+</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4"> </p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">Dr. Mirnaly Saenz de Miera is a research engineer and scientist whose experience includes materials performance, degradation, and protection in a wide range of industries such as the oil&amp;gas, aerospace, nuclear, automotive, and marine.
+</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4"> </p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">Dr. Saenz de Miera earned her PhD in Corrosion and Protection from The University of Manchester, England, and her Materials Engineering, with a mention in Metallurgy, at Universidad Simon Bolivar, Venezuela. </p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4"> </p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">As an advocate in the fields of materials and corrosion, Mirnaly participates as one of the executive directors for the ASM Ontario Chapter, ASM Materials Camp® -Teachers and NACE Foundation of Canada.</p>
+<hr>
+<h1 style="font-weight:bold;font-style:normal;font-size:1em;margin:0;font-size:2em;font-family:Arial,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#000000;line-height:1.5">IPEIA Volunteers</h1>
+<!--[if !mso]>--><table width="100%" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt"><tbody><tr><td align="left" style="vertical-align:top"><a class="email-button" href="https://www.ipeia.com/ipeia-volunteers/" target="_blank" rel="noopener noreferrer" style="color:#0875c1;margin-bottom:0.5em;border:0 none;font-size:16px;line-height:1.4;background-color:#0875c1;color:#ffffff;border-radius:4px;border-width:1px;border-color:#c10844;background-color:#c10844;box-sizing:border-box;border-radius:10px;border-style:solid;color:#ffffff;display:inline-block;width:auto;text-align:left;text-decoration:none;padding:12px 20px;margin:0px 0;font-size:16px">Follow this link to be a volunteer of IPEIA</a></td></tr></tbody></table>
+<!--<![endif]--><!--[if mso]><table class="button-table" width="100%" border="0" cellSpacing="0" cellPadding="0" style="margin:0px 0"><tr><td align="left"><table border="0" cellSpacing="0" cellPadding="0" width="auto"><tr><td align="center" bgcolor="#c10844" style="background-color:#c10844;border-radius:10px;overflow:hidden;padding:12px 20px"><a class="email-button" href="https://www.ipeia.com/ipeia-volunteers/" target="_blank" rel="noopener noreferrer" style="background-color:inherit;display:inline-block;text-decoration:none;border-width:1px;border-style:solid;margin:0;color:#ffffff;border-color:#c10844;font-size:16px">Follow this link to be a volunteer of IPEIA</a></td></tr></table></td></tr></table><![endif]--><hr>
+<h2 style="font-weight:bold;font-style:normal;font-size:1em;margin:0;font-size:1.5em;margin:1em 0;font-family:Arial,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#000000;line-height:1.5">2023 Student Technical Posters – Call for Abstracts is NOW OPEN! </h2>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">IPEIA is excited to offer a special opportunity for students to attend the 2023 IPEIA conference in Jasper, Alberta from February 28 – March 2, 2023, at the Fairmont Jasper Park Lodge.</p>
+<!--[if !mso]>--><table width="100%" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt"><tbody><tr><td align="left" style="vertical-align:top"><a class="email-button" href="https://www.ipeia.com/student-technical-posters/" target="_blank" rel="noopener noreferrer" style="color:#0875c1;margin-bottom:0.5em;border:0 none;font-size:16px;line-height:1.4;background-color:#0875c1;color:#ffffff;border-radius:4px;border-width:1px;border-color:#c10844;background-color:#c10844;box-sizing:border-box;border-radius:10px;border-style:solid;color:#ffffff;display:inline-block;width:auto;text-align:left;text-decoration:none;padding:12px 20px;margin:8px 0;font-size:16px">Follow this link to submit a student poster</a></td></tr></tbody></table>
+<!--<![endif]--><!--[if mso]><table class="button-table" width="100%" border="0" cellSpacing="0" cellPadding="0" style="margin:8px 0"><tr><td align="left"><table border="0" cellSpacing="0" cellPadding="0" width="auto"><tr><td align="center" bgcolor="#c10844" style="background-color:#c10844;border-radius:10px;overflow:hidden;padding:12px 20px"><a class="email-button" href="https://www.ipeia.com/student-technical-posters/" target="_blank" rel="noopener noreferrer" style="background-color:inherit;display:inline-block;text-decoration:none;border-width:1px;border-style:solid;margin:0;color:#ffffff;border-color:#c10844;font-size:16px">Follow this link to submit a student poster</a></td></tr></table></td></tr></table><![endif]--><hr>
+<h2 style="font-weight:bold;font-style:normal;font-size:1em;margin:0;font-size:1.5em;margin:1em 0;font-family:Arial,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#000000;line-height:1.5">IPEIA 2023 Membership and Conference &amp; Exhibition registration is open!</h2>
+<!--[if !mso]>--><table width="100%" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt"><tbody><tr><td align="left" style="vertical-align:top"><a class="email-button" href="https://www.ipeia.com/registration/" target="_blank" rel="noopener noreferrer" style="color:#0875c1;margin-bottom:0.5em;border:0 none;font-size:16px;line-height:1.4;background-color:#0875c1;color:#ffffff;border-radius:4px;border-width:1px;border-color:#c10844;background-color:#c10844;box-sizing:border-box;border-radius:10px;border-style:solid;color:#ffffff;display:inline-block;width:auto;text-align:left;text-decoration:none;padding:12px 20px;margin:8px 0;font-size:16px">Follow this link to register as a member and/or attend the conference</a></td></tr></tbody></table>
+<!--<![endif]--><!--[if mso]><table class="button-table" width="100%" border="0" cellSpacing="0" cellPadding="0" style="margin:8px 0"><tr><td align="left"><table border="0" cellSpacing="0" cellPadding="0" width="auto"><tr><td align="center" bgcolor="#c10844" style="background-color:#c10844;border-radius:10px;overflow:hidden;padding:12px 20px"><a class="email-button" href="https://www.ipeia.com/registration/" target="_blank" rel="noopener noreferrer" style="background-color:inherit;display:inline-block;text-decoration:none;border-width:1px;border-style:solid;margin:0;color:#ffffff;border-color:#c10844;font-size:16px">Follow this link to register as a member and/or attend the conference</a></td></tr></table></td></tr></table><![endif]--><hr>
+<h2 style="font-weight:bold;font-style:normal;font-size:1em;margin:0;font-size:1.5em;margin:1em 0;font-family:Arial,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#000000;line-height:1.5">
+<strong>2023 Conference and Exhibition </strong>February 27 – March 2, 2023, at the Fairmont Jasper Park Lodge Jasper, Alberta</h2>
+<!--[if !mso]>--><table width="100%" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt"><tbody><tr><td align="left" style="vertical-align:top"><a class="email-button" href="https://www.ipeia.com/the-conference/" target="_blank" rel="noopener noreferrer" style="color:#0875c1;margin-bottom:0.5em;border:0 none;font-size:16px;line-height:1.4;background-color:#0875c1;color:#ffffff;border-radius:4px;border-width:1px;border-color:#c10844;background-color:#c10844;box-sizing:border-box;border-radius:10px;border-style:solid;color:#ffffff;display:inline-block;width:auto;text-align:left;text-decoration:none;padding:12px 20px;margin:8px 0;font-size:16px">Follow this link to know the conference details</a></td></tr></tbody></table>
+<!--<![endif]--><!--[if mso]><table class="button-table" width="100%" border="0" cellSpacing="0" cellPadding="0" style="margin:8px 0"><tr><td align="left"><table border="0" cellSpacing="0" cellPadding="0" width="auto"><tr><td align="center" bgcolor="#c10844" style="background-color:#c10844;border-radius:10px;overflow:hidden;padding:12px 20px"><a class="email-button" href="https://www.ipeia.com/the-conference/" target="_blank" rel="noopener noreferrer" style="background-color:inherit;display:inline-block;text-decoration:none;border-width:1px;border-style:solid;margin:0;color:#ffffff;border-color:#c10844;font-size:16px">Follow this link to know the conference details</a></td></tr></table></td></tr></table><![endif]--><hr>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4;text-align:left">​</p>
+</div>
+<div data-block-id="3ee2e3de-d046-490b-b5c3-3594dca78d1a" role="presentation" style="margin-top:24px;margin-bottom:24px;cursor:auto" class="ck-layout-block relative"><div class="ck-articlecards ck-layout-block-template"><table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt"><tbody><tr>
+<td width="50%" style="vertical-align:top;padding-right:10px"><div style="background-color:#FFFFFF;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-color:#EDF2F4;border-top-left-radius:4px;border-top-right-radius:4px;border-bottom-left-radius:4px;border-bottom-right-radius:4px;border-style:solid;overflow:hidden">
+<div>
+<!--[if !mso]><!-->
+</div>
+<img alt="" src="https://embed.filekitcdn.com/e/2Gr55sa5ghbmm2FFjpvZ6E/5KEd5xifKE4hgwG12qfm7u" width="100%" height="auto" style="border:0 none;display:block;height:auto;line-height:100%;outline:none;-webkit-text-decoration:none;text-decoration:none;max-width:100%;max-width:100%;display:block;border-radius:0"><div>
+<!--<![endif]-->
+<!--[if mso]>
+  <img width="200" src="https://embed.filekitcdn.com/e/2Gr55sa5ghbmm2FFjpvZ6E/5KEd5xifKE4hgwG12qfm7u" alt="">
+  <![endif]-->
+</div>
+<div style="padding-top:18px;padding-right:18px;padding-bottom:18px;padding-left:18px"><div><p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4;margin:0 !important;padding:0 !important;margin:8px 0 !important;color:#4D4D4D;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;font-weight:400">,</p></div></div>
+</div></td>
+<td width="50%" style="vertical-align:top;padding-left:10px"><div style="background-color:#FFFFFF;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-color:#EDF2F4;border-top-left-radius:4px;border-top-right-radius:4px;border-bottom-left-radius:4px;border-bottom-right-radius:4px;border-style:solid;overflow:hidden">
+<div>
+<!--[if !mso]><!-->
+</div>
+<img alt="" src="https://embed.filekitcdn.com/e/2Gr55sa5ghbmm2FFjpvZ6E/5eFDwS1Nwh1PSznrBGzGJj" width="100%" height="auto" style="border:0 none;display:block;height:auto;line-height:100%;outline:none;-webkit-text-decoration:none;text-decoration:none;max-width:100%;max-width:100%;display:block;border-radius:0"><div>
+<!--<![endif]-->
+<!--[if mso]>
+  <img width="200" src="https://embed.filekitcdn.com/e/2Gr55sa5ghbmm2FFjpvZ6E/5eFDwS1Nwh1PSznrBGzGJj" alt="">
+  <![endif]-->
+</div>
+<div style="padding-top:18px;padding-right:18px;padding-bottom:18px;padding-left:18px"><div><p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4;margin:0 !important;padding:0 !important;margin:8px 0 !important;color:#4D4D4D;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;font-weight:400">.</p></div></div>
+</div></td>
+</tr></tbody></table></div></div>
+<div class="spaced-contents">
+<hr>
+<h2 style="font-weight:bold;font-style:normal;font-size:1em;margin:0;font-size:1.5em;margin:1em 0;font-family:Arial,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;color:#000000;line-height:1.5"><strong>Amazing news for our new channels</strong></h2>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">We are happy to announce to you guys that we are going to share all our interviews via podcast and through our YouTube channel also.</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">You will find below both links, the Spotify interview and the YouTube channel, so please subscribe to both.</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<table width="415" border="0" cellspacing="0" cellpadding="0" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt;table-layout:fixed" align="left" class="email-image"><tbody><tr><td align="left" style="vertical-align:top"><figure style="margin:1em 0;display:block;margin:0 15px 15px 0;max-width:100%;width:400px"><a style="color:#0875c1;display:block;max-width:400px" href="https://youtu.be/uhq3o30Xd4A" target="_blank" rel="noopener noreferrer"><img src="https://embed.filekitcdn.com/e/2Gr55sa5ghbmm2FFjpvZ6E/9WMULGSt57aa6KBN9hrs1k/email" width="400" style="display:block;height:auto;line-height:100%;outline:none;-webkit-text-decoration:none;text-decoration:none;max-width:100%;border:0 none;width:400px;max-width:100%;border-radius:4px"></a><figcaption style="margin-top:0.4em;font-size:0.8em;text-align:center;display:none">​</figcaption></figure></td></tr></tbody></table>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<table width="715" border="0" cellspacing="0" cellpadding="0" style="border-collapse:separate;mso-table-lspace:0pt;mso-table-rspace:0pt;table-layout:fixed" align="left" class="email-image"><tbody><tr><td align="left" style="vertical-align:top"><figure style="margin:1em 0;display:block;margin:0 15px 15px 0;max-width:100%;width:700px"><a style="color:#0875c1;display:block;max-width:700px" href="https://open.spotify.com/episode/2NaBqLnIz0UBFFUANaSiJI?si=2F_t15r7TaqTjYa4zaeCqw" target="_blank" rel="noopener noreferrer"><img src="https://embed.filekitcdn.com/e/2Gr55sa5ghbmm2FFjpvZ6E/6fShdjzD6vso3Y27JttTX8/email" width="700" style="display:block;height:auto;line-height:100%;outline:none;-webkit-text-decoration:none;text-decoration:none;max-width:100%;border:0 none;width:700px;max-width:100%;border-radius:4px"></a><figcaption style="margin-top:0.4em;font-size:0.8em;text-align:center;display:none">​</figcaption></figure></td></tr></tbody></table>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<hr>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
+<hr>
+<p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​<a href="https://news.materials.business/" target="_blank" rel="noopener noreferrer" style="color:#0875c1"><strong>Blog</strong></a><strong>| </strong><a href="http://news.materials.business/contact" target="_blank" rel="noopener noreferrer" style="color:#0875c1"><strong>Advertise</strong></a><strong> | </strong><a href="http://news.materials.business/contact" target="_blank" rel="noopener noreferrer" style="color:#0875c1"><strong>Contact Us</strong></a><strong>|</strong></p>
+</div>
+</div>
