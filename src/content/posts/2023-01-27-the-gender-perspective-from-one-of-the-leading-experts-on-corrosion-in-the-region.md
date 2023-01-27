@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: The gender perspective from one of the leading experts on Corrosion in
-  the region.
+  the MENA region.
 slug: /The-gender-perspective-from-one-of-the-leading-experts-on-Corrosion-in-the-region
 date: 2023-01-27 06:30
 description: >-
