@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Corrosion and Materials Performance at a Micro-Scale (Semiconductor Packaging)
-slug: /corrosion-and-materials-performance-at-a-micro-scale-semiconductor-packaging)
+slug: /corrosion-and-materials-performance-at-a-micro-scale-semiconductor-packaging
 date: 2023-02-09 09:37
 description: >-
   Andrea is enthusiastic about the long-term performance and integrity of
