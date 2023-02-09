@@ -13,7 +13,20 @@ Welcome to **Materials Business!** This is an initiative oriented towards the cr
  This space is designed as the meeting point for all the colleagues being part of your global community of managers and responsible people in charge of the management and decision in relation to materials and equipment integrity (planners, designers, plant managers and engineers, laboratory managers, QA&QC managers, researchers, contractors, and other specialists concerned with caring equipment and materials). From the design and selection to the disposal, after as long as possible life in service, according to the principles of Circular Economy and the expectations in front of a new economy for a more sustainable world.
 
 
-<form action="https://news.materials.business/search_results" method="get">
-  <input type="text" name="query" placeholder="Search the site...">
-  <button type="submit">Go</button>
-</form>
+
+<?php
+$query = $_GET['query'];
+$conn = mysqli_connect("hostname", "username", "password", "database");
+$sql = "SELECT * FROM newsletter WHERE content LIKE '%$query%'";
+$result = mysqli_query($conn, $sql);
+
+if (mysqli_num_rows($result) > 0) {
+    while ($row = mysqli_fetch_assoc($result)) {
+        echo "<p>" . $row['content'] . "</p>";
+    }
+} else {
+    echo "<p>No results found for '$query'.</p>";
+}
+mysqli_close($conn);
+?>
+
