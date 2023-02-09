@@ -14,19 +14,3 @@ Welcome to **Materials Business!** This is an initiative oriented towards the cr
 
 
 
-<?php
-$query = $_GET['query'];
-$conn = mysqli_connect("hostname", "username", "password", "database");
-$sql = "SELECT * FROM newsletter WHERE content LIKE '%$query%'";
-$result = mysqli_query($conn, $sql);
-
-if (mysqli_num_rows($result) > 0) {
-    while ($row = mysqli_fetch_assoc($result)) {
-        echo "<p>" . $row['content'] . "</p>";
-    }
-} else {
-    echo "<p>No results found for '$query'.</p>";
-}
-mysqli_close($conn);
-?>
-
