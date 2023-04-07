@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Is corrosion for everybody? - Dr. Alec Groysman
+title: Is corrosion for everybody? Dr Alec Groysman
 slug: /is-corrosion-for-everybody-Dr-Alec-Groysman
 date: 2023-04-07 09:37
 description: >-
