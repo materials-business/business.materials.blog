@@ -1,8 +1,8 @@
 ---
 template: blog-post
-title: Catherine combate la corrosión desde hace 20 años en el Perú pero su
+title: Catherine combate la corrosión desde hace 20 años en el Peru pero su
   trabajo traspasa fronteras
-slug: /Catherine-combate-la-corrosion-desde-hace-20-años-en-el-Peru-pero-su-trabajo-traspasa-fronteras
+slug: /catherine-combate-la-corrosion-desde-hace-20-años-en-el-peru-pero-su-trabajo-traspasa-fronteras
 date: 2023-03-10 09:30
 description: >-
   ¡Vamos a celebrar los 20 años de Catherine Benavente en esta industria!
