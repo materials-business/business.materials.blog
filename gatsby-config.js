@@ -3,6 +3,12 @@
  *
  * See: https://www.gatsbyjs.org/docs/gatsby-config/
  */
+
+npm install -D gatsby-plugin-netlify
+module.exports = {
+  plugins: ['gatsby-plugin-netlify'],
+}
+
 const netlifyCmsPaths = {
   resolve: `gatsby-plugin-netlify-cms-paths`,
   options: {
