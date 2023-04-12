@@ -5,7 +5,8 @@
  */
 
 const netlifyCmsPaths = {
-  resolve: `gatsby-plugin-netlify-cms-paths`,
+  {
+  resolve: `gatsby-plugin-netlify`,
   options: {
     cmsConfig: `/static/admin/config.yml`,
   },
