@@ -30,7 +30,7 @@ description: >-
   Promotora de la primera seccion estudiantil de corrosión en Peru.
 featuredImage: ""
 ---
-<div class="spaced-contents">
+<div class="email-content" style="padding:20px"><div class="spaced-contents">
 <hr>
 <p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4"><span style="font-size:36px"><strong>Materials.Business Weekly Newsletter ⚙️</strong></span></p>
 <p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4"><u>March 09, 2023</u></p>
@@ -87,4 +87,4 @@ featuredImage: ""
 <p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​</p>
 <hr>
 <p style="margin:1em 0;font-size:18px;line-height:1.5em;font-family:Georgia,Times,'Times New Roman',serif;color:#000000;font-size:16px;line-height:1.4">​<a href="https://news.materials.business/" target="_blank" rel="noopener noreferrer" style="color:#0875c1"><strong>Blog</strong></a><strong>| </strong><a href="http://news.materials.business/contact" target="_blank" rel="noopener noreferrer" style="color:#0875c1"><strong>Advertise</strong></a><strong> | </strong><a href="http://news.materials.business/contact" target="_blank" rel="noopener noreferrer" style="color:#0875c1"><strong>Contact Us</strong></a><strong>|</strong></p>
-</div>
+</div></div>
