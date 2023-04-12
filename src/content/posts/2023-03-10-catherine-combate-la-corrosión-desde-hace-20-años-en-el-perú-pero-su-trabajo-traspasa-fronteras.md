@@ -9,7 +9,7 @@ description: >-
   Comprometida y empoderadora, Catherine ha trabajado la industria de O&G.,
   además de impartir conocimiento como coordinadora técnica de eventos
   Nacionales e Internacionales! ¡¡¡Vamos a divertirnos mucho y aprender de su
-  vasta experiencia!!
+  vasta experiencia!
 
 
   Especialista de corrosión con 20 años de experiencia en Análisis de falla,  Evaluacion e implementacion de Programas de Control Corrosión en la Industria de Hidrocarburos en Perú y Mexico (Refinerias y Sistema de Transporte de Ductos), 
