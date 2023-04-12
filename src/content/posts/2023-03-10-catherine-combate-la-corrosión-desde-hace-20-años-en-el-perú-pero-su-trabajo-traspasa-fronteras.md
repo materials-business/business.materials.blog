@@ -28,7 +28,7 @@ description: >-
 
 
   Promotora de la primera seccion estudiantil de corrosión en Peru.
-featuredImage: /assets/1677668350216.jfif
+featuredImage: ""
 ---
 <div class="spaced-contents">
 <hr>
