@@ -57,5 +57,6 @@
     "react-refresh": "^0.8.2",
     "redux": "^3.0.0",
     "typescript": "^3.9.2"
+    npm install -D gatsby-plugin-netlify
   }
 }
