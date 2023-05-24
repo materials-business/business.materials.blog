@@ -8,7 +8,7 @@ description: >-
   after Mendeleev in Moscow. He received his Ph.D. in physical chemistry and
   corrosion. He has experience in corrosion, corrosion control and corrosion
   monitoring from 1976 in the oil refining, oil and gas, petrochemical, and
-  chemical industry and teaching the subject of corrosion. 
+  chemical industry and teaching the subject of corrosion.  
 
 
   He has lived in Israel since 1990. He worked for 22 years for oil refinery Haifa and at the same time taught corrosion science and technology in universities (Technion, Haifa; Bar-Ilan University, Tel Aviv, Ariel University) and College of Engineering (Karmiel, Israel). He is an Honor President of Israeli Association of Chemical Engineers and Chemists.
