@@ -1,8 +1,0 @@
-name: gatsby-plugin-netlify
-version: 1.0.0
-main: index.js
-description: Gatsby plugin for Netlify integration
-keywords:
-  - gatsby
-  - plugin
-  - netlify
