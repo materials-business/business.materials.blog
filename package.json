@@ -1,7 +1,7 @@
 {
   "name": "business.materials.blog",
   "description": "Materials.business Blog and Newsletter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Scalista GmbH <info@scalista.com>",
   "license": "MIT",
   "repository": {
@@ -21,10 +21,10 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-  "gatsby": "^2.21.33",
+  "gatsby": "^2.0.0",
   "gatsby-background-image": "^1.1.1",
   "gatsby-image": "^2.4.3",
-  "gatsby-plugin-advanced-sitemap": "^1.5.4",
+  "gatsby-plugin-advanced-sitemap": "^1.6.0",
   "gatsby-plugin-google-analytics": "^2.3.2",
   "gatsby-plugin-google-tagmanager": "^3.6.0",
   "gatsby-plugin-manifest": "^2.4.3",
@@ -49,7 +49,7 @@
   "react-dom": "^16.12.0",
   "react-helmet": "^6.0.0",
   "react-icons": "^3.10.0",
-  "gatsby-plugin-netlify": "3.6.2"
+  "gatsby-plugin-netlify": "^*"
 },
   "devDependencies": {
     "acorn": "^6.4.1",
