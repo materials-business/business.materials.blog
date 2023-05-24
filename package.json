@@ -1,7 +1,7 @@
 {
   "name": "business.materials.blog",
   "description": "Materials.business Blog and Newsletter",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "author": "Scalista GmbH <info@scalista.com>",
   "license": "MIT",
   "repository": {
