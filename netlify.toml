@@ -1,25 +1,9 @@
 [build]
   publish = "public"
-  command = "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages"
+  command = "npm run build"
   
 [build.environment]
   NODE_VERSION = "14"
-  
-[[plugins]]
-  package = "@netlify/plugin-gatsby"
 
 [[plugins]]
-  package = "@netlify/plugin-lighthouse"
-
-[[plugins]]
-  package = "netlify-plugin-bundle-env"
-
-[[plugins]]
-  package = "gatsby-plugin-netlify"
-  [plugins.inputs]
-    mergeSecurityHeaders = false
-
-[[plugins]]
-  package = "gatsby-plugin-google-tagmanager"
-  [plugins.inputs]
-    gtmId = "YOUR_GTM_ID"
+  package = "netlify-plugin-gatsby-cache"

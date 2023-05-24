@@ -3,20 +3,18 @@
  *
  * See: https://www.gatsbyjs.org/docs/gatsby-config/
  */
-
 const netlifyCmsPaths = {
   resolve: `gatsby-plugin-netlify-cms-paths`,
   options: {
     cmsConfig: `/static/admin/config.yml`,
   },
-};
+}
 
-const settings = require("./src/util/site.json");
+const settings = require("./src/util/site.json")
 
 module.exports = {
   siteMetadata: settings.meta,
   plugins: [
-    'gatsby-plugin-netlify',
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -99,4 +97,4 @@ module.exports = {
     },
     'gatsby-plugin-offline',
   ],
-};
+}
