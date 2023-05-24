@@ -5,14 +5,13 @@
  */
 
 const netlifyCmsPaths = {
-  
   resolve: `gatsby-plugin-netlify-cms-paths`,
   options: {
     cmsConfig: `/static/admin/config.yml`,
   },
-}
+};
 
-const settings = require("./src/util/site.json")
+const settings = require("./src/util/site.json");
 
 module.exports = {
   siteMetadata: settings.meta,
@@ -24,10 +23,7 @@ module.exports = {
         path: `${__dirname}/static/assets/`,
         name: `assets`,
       },
-    }
-  ],
-};
-
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -103,4 +99,4 @@ module.exports = {
     },
     'gatsby-plugin-offline',
   ],
-}
+};
