@@ -16,14 +16,18 @@ const settings = require("./src/util/site.json")
 
 module.exports = {
   siteMetadata: settings.meta,
-  plugins: ['gatsby-plugin-netlify'],
+  plugins: [
+    'gatsby-plugin-netlify',
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/static/assets/`,
         name: `assets`,
       },
-    },
+    }
+  ],
+};
+
     {
       resolve: `gatsby-source-filesystem`,
       options: {
