@@ -22,7 +22,7 @@
     "install": "node-gyp rebuild"
   },
   "gyp": {
-    "python": "/home/codespace/.python/current/bin/python"
+    "python": "/usr/bin/python3"
   },
   "dependencies": {
     "gatsby": "^3.0.0 || ^4.0.0",
