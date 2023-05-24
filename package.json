@@ -18,10 +18,11 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "install": "node-gyp rebuild"
   },
   "gyp": {
-    "python": "/path/to/python-executable"
+    "python": "/home/codespace/.python/current/bin/python"
   },
   "dependencies": {
     "gatsby": "^3.0.0",
